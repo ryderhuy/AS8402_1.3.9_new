@@ -1,0 +1,1153 @@
+20200423_08:40:37	Info	Starting program...
+20200423_08:40:46	Info	[Action] Connect/Disconect...
+20200423_08:40:46	Info	Disconnected to sensor
+20200423_08:40:53	Info	Connected to sensor
+20200423_08:40:57	Info	[Action] Log-in as Administrator
+20200423_08:41:00	Info	[Action] Enable 1: Checked
+20200423_08:41:00	Info	[Action] Show Graphic F : 3
+20200423_08:41:00	Info	[Action] Enable R1: Checked
+20200423_08:41:00	Info	[Action] Show Graphic R: 3
+20200423_08:41:00	Info	[Action] Align Pocket Contrast Thresh : 17
+20200423_08:41:00	Info	[Action] Align Pocket Angle Range : 19.5
+20200423_08:41:00	Info	[Action] Align Tray Score Thresh : 38
+20200423_08:41:00	Info	[Action] APNumbPocket : 2
+20200423_08:41:00	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:41:00	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:41:00	Info	[Action] Number Align Pocket : 2
+20200423_08:41:00	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:41:00	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_08:41:00	Info	[Action] Align TrayXTT Enable : Unchecked
+20200423_08:41:01	Info	[Action] Enable 2: Checked
+20200423_08:41:01	Info	[Action] Enable R2: Checked
+20200423_08:41:01	Info	[Action] Offset X1 F: 0.000
+20200423_08:41:01	Info	[Action] Offset Y1 F: 0.000
+20200423_08:41:01	Info	[Action] Offset X1 R: 0.000
+20200423_08:41:01	Info	[Action] Offset Y1 R: 0.000
+20200423_08:41:01	Info	[Action] Offset X2 F: -170.505
+20200423_08:41:01	Info	[Action] Offset Y2 F: 0.000
+20200423_08:41:01	Info	[Action] Offset X2 R: -25.995
+20200423_08:41:01	Info	[Action] Offset Y2 R: -540.997
+20200423_08:41:07	Info	[Action] Go to Setup Insp...
+20200423_08:41:07	Info	[Action] Change Camera Mode: Teach Mode
+20200423_08:41:10	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_08:41:10	Info	[Action] Inspection Setting Page: Display Control
+20200423_08:41:15	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:41:15	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_08:41:19	Info	[Action] Go to Setup Insp...
+20200423_08:41:19	Info	[Action] Change Camera Mode: Teach Mode
+20200423_08:41:48	Info	[Action] HMI Display Changed...
+20200423_08:43:28	Info	Starting program...
+20200423_08:43:36	Info	[Action] Connect/Disconect...
+20200423_08:43:36	Info	Disconnected to sensor
+20200423_08:43:40	Info	Connected to sensor
+20200423_08:43:43	Info	[Action] Log-in as Supervisor
+20200423_08:43:45	Info	[Action] Enable 1: Checked
+20200423_08:43:45	Info	[Action] Show Graphic F : 3
+20200423_08:43:46	Info	[Action] Enable R1: Checked
+20200423_08:43:46	Info	[Action] Show Graphic R: 3
+20200423_08:43:47	Info	[Action] Align Pocket Contrast Thresh : 17
+20200423_08:43:47	Info	[Action] Align Pocket Angle Range : 19.5
+20200423_08:43:47	Info	[Action] Align Tray Score Thresh : 38
+20200423_08:43:47	Info	[Action] APNumbPocket : 2
+20200423_08:43:47	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:43:47	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:43:47	Info	[Action] Number Align Pocket : 2
+20200423_08:43:47	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:43:47	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_08:43:47	Info	[Action] Align TrayXTT Enable : Unchecked
+20200423_08:43:47	Info	[Action] Enable 2: Checked
+20200423_08:43:47	Info	[Action] Enable R2: Checked
+20200423_08:43:47	Info	[Action] Offset X1 F: 0.000
+20200423_08:43:47	Info	[Action] Offset Y1 F: 0.000
+20200423_08:43:47	Info	[Action] Offset X1 R: 0.000
+20200423_08:43:47	Info	[Action] Offset Y1 R: 0.000
+20200423_08:43:47	Info	[Action] Offset X2 F: -170.505
+20200423_08:43:47	Info	[Action] Offset Y2 F: 0.000
+20200423_08:43:47	Info	[Action] Offset X2 R: -25.995
+20200423_08:43:47	Info	[Action] Offset Y2 R: -540.997
+20200423_08:44:04	Info	[Action] Go to Setup Insp...
+20200423_08:44:04	Info	[Action] Change Camera Mode: Teach Mode
+20200423_08:44:07	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_08:44:07	Info	[Action] Inspection Setting Page: Display Control
+20200423_08:44:09	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_08:44:13	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:44:13	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_08:44:24	Info	[Action] Go to Setup Insp...
+20200423_08:44:24	Info	[Action] Change Camera Mode: Teach Mode
+20200423_08:44:43	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:44:43	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_08:44:51	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_08:44:58	Info	[Action] Inspection Setting Page: Display Control
+20200423_08:45:03	Info	[Action] Enable F: Checked
+20200423_08:45:03	Info	[Action] Contrast Threshold F: 10
+20200423_08:45:03	Info	[Action] Angle Range F: 180
+20200423_08:45:03	Info	[Action] Show Graphic F: 1
+20200423_08:45:03	Info	[Action] Contrast Threshold R: 15
+20200423_08:45:03	Info	[Action] Angle Range R: 180
+20200423_08:45:03	Info	[Action] Show Graphic R: 3
+20200423_08:45:03	Info	[Action] Enable: Checked
+20200423_08:45:03	Info	[Action] Max Delta X: 0
+20200423_08:45:03	Info	[Action] Max Delta X: 0
+20200423_08:45:04	Info	[Action] Max Delta Y: 0
+20200423_08:45:04	Info	[Action] Max Delta Y: 0
+20200423_08:45:04	Info	[Action] Max Delta Theta: 0
+20200423_08:45:04	Info	[Action] Max Delta Theta: 0
+20200423_08:45:04	Info	[Action] Panel Params: Region1
+20200423_08:45:04	Info	[Action] Number Pocket F: 4
+20200423_08:45:04	Info	[Action] Max Delta X: 0
+20200423_08:45:04	Info	[Action] Max Delta Y: 0
+20200423_08:45:04	Info	[Action] Max Delta Theta: 0
+20200423_08:45:04	Info	[Action] Panel Params: Region1
+20200423_08:45:04	Info	[Action] Vis Show Graphic: 1
+20200423_08:45:04	Info	[Action] Fwd/Rev: Forward
+20200423_08:45:04	Info	[Action] Score Threshold F: 50
+20200423_08:45:04	Info	[Action] Score Threshold R: 50
+20200423_08:45:04	Info	[Action] Vis Mean Thresh: 1
+20200423_08:45:04	Info	[Action] Vis Last Bin: 255
+20200423_08:45:04	Info	[Action] Inspection Setting Page: Panel Inspection
+20200423_08:45:05	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:45:05	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_08:45:14	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_08:48:39	Info	Starting program...
+20200423_08:48:47	Info	[Action] Connect/Disconect...
+20200423_08:48:47	Info	Disconnected to sensor
+20200423_08:48:50	Info	Connected to sensor
+20200423_08:48:53	Info	[Action] Log-in as Administrator
+20200423_08:48:55	Info	[Action] Enable 1: Checked
+20200423_08:48:55	Info	[Action] Show Graphic F : 3
+20200423_08:48:56	Info	[Action] Enable R1: Checked
+20200423_08:48:56	Info	[Action] Show Graphic R: 3
+20200423_08:48:56	Info	[Action] Align Pocket Contrast Thresh : 17
+20200423_08:48:57	Info	[Action] Align Pocket Angle Range : 19.5
+20200423_08:48:57	Info	[Action] Align Tray Score Thresh : 38
+20200423_08:48:57	Info	[Action] APNumbPocket : 2
+20200423_08:48:57	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:48:57	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:48:57	Info	[Action] Number Align Pocket : 2
+20200423_08:48:57	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:48:57	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_08:48:57	Info	[Action] Align TrayXTT Enable : Unchecked
+20200423_08:48:57	Info	[Action] Enable 2: Checked
+20200423_08:48:57	Info	[Action] Enable R2: Checked
+20200423_08:48:57	Info	[Action] Offset X1 F: 0.000
+20200423_08:48:57	Info	[Action] Offset Y1 F: 0.000
+20200423_08:48:57	Info	[Action] Offset X1 R: 0.000
+20200423_08:48:57	Info	[Action] Offset Y1 R: 0.000
+20200423_08:48:57	Info	[Action] Offset X2 F: -170.505
+20200423_08:48:57	Info	[Action] Offset Y2 F: 0.000
+20200423_08:48:57	Info	[Action] Offset X2 R: -25.995
+20200423_08:48:57	Info	[Action] Offset Y2 R: -540.997
+20200423_08:50:12	Info	Starting program...
+20200423_08:50:18	Info	[Action] Connect/Disconect...
+20200423_08:50:18	Info	Disconnected to sensor
+20200423_08:50:21	Info	Connected to sensor
+20200423_08:50:25	Info	[Action] Log-in as Administrator
+20200423_08:50:28	Info	[Action] Enable 1: Checked
+20200423_08:50:28	Info	[Action] Show Graphic F : 3
+20200423_08:50:29	Info	[Action] Enable R1: Checked
+20200423_08:50:30	Info	[Action] Show Graphic R: 3
+20200423_08:50:30	Info	[Action] Align Pocket Contrast Thresh : 17
+20200423_08:50:30	Info	[Action] Align Pocket Angle Range : 19.5
+20200423_08:50:30	Info	[Action] Align Tray Score Thresh : 38
+20200423_08:50:30	Info	[Action] APNumbPocket : 2
+20200423_08:50:30	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:50:30	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:50:30	Info	[Action] Number Align Pocket : 2
+20200423_08:50:30	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:50:30	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_08:50:30	Info	[Action] Align TrayXTT Enable : Unchecked
+20200423_08:50:30	Info	[Action] Enable 2: Checked
+20200423_08:50:31	Info	[Action] Enable R2: Checked
+20200423_08:50:31	Info	[Action] Offset X1 F: 0.000
+20200423_08:50:31	Info	[Action] Offset Y1 F: 0.000
+20200423_08:50:31	Info	[Action] Offset X1 R: 0.000
+20200423_08:50:31	Info	[Action] Offset Y1 R: 0.000
+20200423_08:50:31	Info	[Action] Offset X2 F: -170.505
+20200423_08:50:31	Info	[Action] Offset Y2 F: 0.000
+20200423_08:50:31	Info	[Action] Offset X2 R: -25.995
+20200423_08:50:31	Info	[Action] Offset Y2 R: -540.997
+20200423_08:50:38	Info	[Action] Go to Setup Insp...
+20200423_08:50:38	Info	[Action] Change Camera Mode: Teach Mode
+20200423_08:50:40	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_08:50:41	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_08:50:41	Info	[Action] Inspection Setting Page: Display Control
+20200423_08:50:42	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_08:50:48	Info	[Action] Enable F: Checked
+20200423_08:50:48	Info	[Action] Contrast Threshold F: 10
+20200423_08:50:48	Info	[Action] Angle Range F: 180
+20200423_08:50:48	Info	[Action] Show Graphic F: 1
+20200423_08:50:48	Info	[Action] Contrast Threshold R: 15
+20200423_08:50:48	Info	[Action] Angle Range R: 180
+20200423_08:50:48	Info	[Action] Show Graphic R: 3
+20200423_08:50:48	Info	[Action] Enable: Checked
+20200423_08:50:48	Info	[Action] Max Delta X: 0
+20200423_08:50:48	Info	[Action] Max Delta X: 0
+20200423_08:50:48	Info	[Action] Max Delta Y: 0
+20200423_08:50:48	Info	[Action] Max Delta Y: 0
+20200423_08:50:48	Info	[Action] Max Delta Theta: 0
+20200423_08:50:48	Info	[Action] Max Delta Theta: 0
+20200423_08:50:48	Info	[Action] Panel Params: Region1
+20200423_08:50:49	Info	[Action] Number Pocket F: 4
+20200423_08:50:49	Info	[Action] Max Delta X: 0
+20200423_08:50:49	Info	[Action] Max Delta Y: 0
+20200423_08:50:49	Info	[Action] Max Delta Theta: 0
+20200423_08:50:49	Info	[Action] Panel Params: Region1
+20200423_08:50:49	Info	[Action] Vis Show Graphic: 1
+20200423_08:50:49	Info	[Action] Fwd/Rev: Forward
+20200423_08:50:49	Info	[Action] Score Threshold F: 50
+20200423_08:50:49	Info	[Action] Score Threshold R: 50
+20200423_08:50:49	Info	[Action] Vis Mean Thresh: 1
+20200423_08:50:49	Info	[Action] Vis Last Bin: 255
+20200423_08:50:49	Info	[Action] Inspection Setting Page: Panel Inspection
+20200423_08:50:50	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:50:50	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_08:50:53	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_08:50:55	Info	[Action] Inspection Setting Page: Display Control
+20200423_08:50:58	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_08:51:00	Info	[Action] Max Delta X: 0
+20200423_08:51:00	Info	[Action] Max Delta Y: 0
+20200423_08:51:00	Info	[Action] Max Delta Theta: 0
+20200423_08:51:00	Info	[Action] Panel Params: Region1
+20200423_08:51:00	Info	[Action] Inspection Setting Page: Panel Inspection
+20200423_08:51:05	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:51:05	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_08:51:05	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_08:51:06	Info	[Action] Inspection Setting Page: Display Control
+20200423_08:51:08	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_08:51:09	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:51:09	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_08:51:09	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_08:51:19	Info	[Action] Inspection Setting Page: Display Control
+20200423_08:51:24	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_08:51:27	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_08:51:32	Info	[Action] Tray Inspection Enable: Checked
+20200423_08:51:34	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_08:52:20	Info	[Action] Tray Inspection Enable: Checked
+20200423_08:52:22	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_08:52:25	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:52:25	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_08:52:35	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_08:52:48	Info	[Action] Inspection Setting Page: Display Control
+20200423_08:52:50	Info	[Action] Tray Inspection Enable: Checked
+20200423_08:52:52	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:52:52	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_08:52:52	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_08:52:59	Info	[Action] Inspection Setting Page: Display Control
+20200423_08:53:01	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_08:53:02	Info	[Action] Tray Inspection Enable: Checked
+20200423_08:53:03	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:53:03	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_08:53:18	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_08:53:41	Info	[Action] Inspection Setting Page: Display Control
+20200423_08:53:43	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_08:53:45	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:53:45	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_08:53:54	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_08:54:18	Info	[Action] Max Delta X: 0
+20200423_08:54:18	Info	[Action] Max Delta Y: 0
+20200423_08:54:18	Info	[Action] Max Delta Theta: 0
+20200423_08:54:18	Info	[Action] Panel Params: Region1
+20200423_08:54:18	Info	[Action] Inspection Setting Page: Panel Inspection
+20200423_08:54:19	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:54:19	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_08:54:26	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_08:54:29	Info	[Action] Max Delta X: 0
+20200423_08:54:29	Info	[Action] Max Delta Y: 0
+20200423_08:54:29	Info	[Action] Max Delta Theta: 0
+20200423_08:54:29	Info	[Action] Panel Params: Region1
+20200423_08:54:29	Info	[Action] Inspection Setting Page: Panel Inspection
+20200423_08:54:47	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:54:47	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_08:56:43	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_08:56:45	Warning	Auto reconnect Camera...
+20200423_08:56:45	Info	Disconnected to sensor
+20200423_08:56:56	Info	Connected to sensor
+20200423_08:57:06	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:57:06	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_08:57:07	Info	[Action] Go to Setup Insp...
+20200423_08:57:07	Info	[Action] Change Camera Mode: Teach Mode
+20200423_08:57:09	Info	[Action] Inspection Setting Page: Display Control
+20200423_08:57:10	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:57:10	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_08:57:10	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_08:57:15	Info	[Action] Inspection Setting Page: Display Control
+20200423_08:57:16	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:57:16	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_08:57:39	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_08:57:42	Warning	Auto reconnect Camera...
+20200423_08:57:42	Info	Disconnected to sensor
+20200423_08:57:47	Info	[Action] Inspection Setting Page: Display Control
+20200423_08:57:51	Info	Connected to sensor
+20200423_08:57:52	Info	[Action] Tray Inspection Enable: Checked
+20200423_08:57:56	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:57:56	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_08:57:56	Info	[Action] Go to Setup Insp...
+20200423_08:57:56	Info	[Action] Change Camera Mode: Teach Mode
+20200423_08:57:57	Info	[Action] Search Region Align Pocket : Region1
+20200423_08:57:57	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_08:57:57	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_08:57:59	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_08:57:59	Info	[Action] Inspection Setting Page: Display Control
+20200423_08:58:08	Info	[Action] Exit program...
+20200423_09:00:04	Info	Starting program...
+20200423_09:00:10	Info	[Action] Connect/Disconect...
+20200423_09:00:10	Info	Disconnected to sensor
+20200423_09:00:19	Info	Connected to sensor
+20200423_09:00:23	Info	[Action] Log-in as Administrator
+20200423_09:00:26	Info	[Action] Enable 1: Checked
+20200423_09:00:26	Info	[Action] Show Graphic F : 3
+20200423_09:00:27	Info	[Action] Enable R1: Checked
+20200423_09:00:27	Info	[Action] Show Graphic R: 3
+20200423_09:00:27	Info	[Action] Align Pocket Contrast Thresh : 17
+20200423_09:00:27	Info	[Action] Align Pocket Angle Range : 19.5
+20200423_09:00:28	Info	[Action] Align Tray Score Thresh : 38
+20200423_09:00:28	Info	[Action] APNumbPocket : 2
+20200423_09:00:28	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:00:28	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:00:28	Info	[Action] Number Align Pocket : 2
+20200423_09:00:28	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:00:28	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:00:28	Info	[Action] Align TrayXTT Enable : Unchecked
+20200423_09:00:28	Info	[Action] Enable 2: Checked
+20200423_09:00:28	Info	[Action] Enable R2: Checked
+20200423_09:00:28	Info	[Action] Offset X1 F: 0.000
+20200423_09:00:28	Info	[Action] Offset Y1 F: 0.000
+20200423_09:00:28	Info	[Action] Offset X1 R: 0.000
+20200423_09:00:28	Info	[Action] Offset Y1 R: 0.000
+20200423_09:00:28	Info	[Action] Offset X2 F: -170.505
+20200423_09:00:28	Info	[Action] Offset Y2 F: 0.000
+20200423_09:00:28	Info	[Action] Offset X2 R: -25.995
+20200423_09:00:28	Info	[Action] Offset Y2 R: -540.997
+20200423_09:00:29	Info	[Action] Go to Setup Insp...
+20200423_09:00:29	Info	[Action] Change Camera Mode: Teach Mode
+20200423_09:00:31	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_09:00:31	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:00:35	Info	[Action] Tray Inspection Enable: Checked
+20200423_09:00:37	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:00:37	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:00:37	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:00:39	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:00:40	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_09:00:41	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:00:41	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:00:41	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:00:43	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:02:58	Info	[Action] HMI Display Changed...
+20200423_09:06:06	Info	Starting program...
+20200423_09:06:12	Info	[Action] Connect/Disconect...
+20200423_09:06:12	Info	Disconnected to sensor
+20200423_09:06:16	Info	Connected to sensor
+20200423_09:06:19	Info	[Action] Log-in as Supervisor
+20200423_09:06:21	Info	[Action] Enable 1: Checked
+20200423_09:06:21	Info	[Action] Show Graphic F : 3
+20200423_09:06:21	Info	[Action] Enable R1: Checked
+20200423_09:06:22	Info	[Action] Show Graphic R: 3
+20200423_09:06:22	Info	[Action] Align Pocket Contrast Thresh : 17
+20200423_09:06:22	Info	[Action] Align Pocket Angle Range : 19.5
+20200423_09:06:22	Info	[Action] Align Tray Score Thresh : 38
+20200423_09:06:23	Info	[Action] APNumbPocket : 2
+20200423_09:06:23	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:06:23	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:06:23	Info	[Action] Number Align Pocket : 2
+20200423_09:06:23	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:06:23	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:06:23	Info	[Action] Align TrayXTT Enable : Unchecked
+20200423_09:06:23	Info	[Action] Enable 2: Checked
+20200423_09:06:23	Info	[Action] Enable R2: Checked
+20200423_09:06:23	Info	[Action] Offset X1 F: 0.000
+20200423_09:06:23	Info	[Action] Offset Y1 F: 0.000
+20200423_09:06:23	Info	[Action] Offset X1 R: 0.000
+20200423_09:06:23	Info	[Action] Offset Y1 R: 0.000
+20200423_09:06:23	Info	[Action] Offset X2 F: -170.505
+20200423_09:06:23	Info	[Action] Offset Y2 F: 0.000
+20200423_09:06:23	Info	[Action] Offset X2 R: -25.995
+20200423_09:06:23	Info	[Action] Offset Y2 R: -540.997
+20200423_09:06:24	Info	[Action] Go to Setup Insp...
+20200423_09:06:24	Info	[Action] Change Camera Mode: Teach Mode
+20200423_09:06:26	Info	[Action] Tray Inspection Enable: Checked
+20200423_09:06:27	Info	[Action] Tray Inspection Enable: Checked
+20200423_09:06:27	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:06:29	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_09:06:31	Info	[Action] Tray Inspection Enable: Checked
+20200423_09:07:34	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:07:34	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:07:45	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:07:48	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:08:06	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_09:09:05	Info	Starting program...
+20200423_09:09:12	Info	[Action] Connect/Disconect...
+20200423_09:09:12	Info	Disconnected to sensor
+20200423_09:09:15	Info	Connected to sensor
+20200423_09:09:20	Info	[Action] Log-in as Supervisor
+20200423_09:09:23	Info	[Action] Enable 1: Checked
+20200423_09:09:23	Info	[Action] Show Graphic F : 3
+20200423_09:09:24	Info	[Action] Enable R1: Checked
+20200423_09:09:24	Info	[Action] Show Graphic R: 3
+20200423_09:09:25	Info	[Action] Align Pocket Contrast Thresh : 17
+20200423_09:09:25	Info	[Action] Align Pocket Angle Range : 19.5
+20200423_09:09:25	Info	[Action] Align Tray Score Thresh : 38
+20200423_09:09:25	Info	[Action] APNumbPocket : 2
+20200423_09:09:25	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:09:25	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:09:25	Info	[Action] Number Align Pocket : 2
+20200423_09:09:25	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:09:25	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:09:25	Info	[Action] Align TrayXTT Enable : Unchecked
+20200423_09:09:25	Info	[Action] Enable 2: Checked
+20200423_09:09:25	Info	[Action] Enable R2: Checked
+20200423_09:09:25	Info	[Action] Offset X1 F: 0.000
+20200423_09:09:25	Info	[Action] Offset Y1 F: 0.000
+20200423_09:09:25	Info	[Action] Offset X1 R: 0.000
+20200423_09:09:25	Info	[Action] Offset Y1 R: 0.000
+20200423_09:09:25	Info	[Action] Offset X2 F: -170.505
+20200423_09:09:25	Info	[Action] Offset Y2 F: 0.000
+20200423_09:09:25	Info	[Action] Offset X2 R: -25.995
+20200423_09:09:25	Info	[Action] Offset Y2 R: -540.997
+20200423_09:09:26	Info	[Action] Go to Setup Insp...
+20200423_09:09:26	Info	[Action] Change Camera Mode: Teach Mode
+20200423_09:09:29	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_09:09:29	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:09:30	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_09:09:38	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_09:09:40	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_09:09:41	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:09:41	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:09:41	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:09:43	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:09:44	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:09:44	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:09:44	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:09:55	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:10:07	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_09:10:19	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_09:10:29	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:10:29	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:10:51	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:11:02	Info	[Action] Enable F: Checked
+20200423_09:11:02	Info	[Action] Contrast Threshold F: 10
+20200423_09:11:02	Info	[Action] Angle Range F: 180
+20200423_09:11:02	Info	[Action] Show Graphic F: 1
+20200423_09:11:02	Info	[Action] Contrast Threshold R: 15
+20200423_09:11:02	Info	[Action] Angle Range R: 180
+20200423_09:11:02	Info	[Action] Show Graphic R: 3
+20200423_09:11:02	Info	[Action] Enable: Checked
+20200423_09:11:02	Info	[Action] Max Delta X: 0
+20200423_09:11:02	Info	[Action] Max Delta X: 0
+20200423_09:11:02	Info	[Action] Max Delta Y: 0
+20200423_09:11:02	Info	[Action] Max Delta Y: 0
+20200423_09:11:03	Info	[Action] Max Delta Theta: 0
+20200423_09:11:03	Info	[Action] Max Delta Theta: 0
+20200423_09:11:03	Info	[Action] Panel Params: Region1
+20200423_09:11:03	Info	[Action] Number Pocket F: 4
+20200423_09:11:03	Info	[Action] Max Delta X: 0
+20200423_09:11:03	Info	[Action] Max Delta Y: 0
+20200423_09:11:03	Info	[Action] Max Delta Theta: 0
+20200423_09:11:03	Info	[Action] Panel Params: Region1
+20200423_09:11:03	Info	[Action] Vis Show Graphic: 1
+20200423_09:11:03	Info	[Action] Fwd/Rev: Forward
+20200423_09:11:03	Info	[Action] Score Threshold F: 50
+20200423_09:11:03	Info	[Action] Score Threshold R: 50
+20200423_09:11:03	Info	[Action] Vis Mean Thresh: 1
+20200423_09:11:03	Info	[Action] Vis Last Bin: 255
+20200423_09:11:03	Info	[Action] Inspection Setting Page: Panel Inspection
+20200423_09:11:03	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:11:03	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:11:21	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:11:28	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:13:47	Info	Starting program...
+20200423_09:13:54	Info	[Action] Connect/Disconect...
+20200423_09:13:54	Info	Disconnected to sensor
+20200423_09:13:57	Info	Connected to sensor
+20200423_09:14:02	Info	[Action] Log-in as Supervisor
+20200423_09:14:04	Info	[Action] Enable 1: Checked
+20200423_09:14:04	Info	[Action] Show Graphic F : 3
+20200423_09:14:05	Info	[Action] Enable R1: Checked
+20200423_09:14:05	Info	[Action] Show Graphic R: 3
+20200423_09:14:06	Info	[Action] Align Pocket Contrast Thresh : 17
+20200423_09:14:06	Info	[Action] Align Pocket Angle Range : 19.5
+20200423_09:14:06	Info	[Action] Align Tray Score Thresh : 38
+20200423_09:14:06	Info	[Action] APNumbPocket : 2
+20200423_09:14:06	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:14:06	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:14:06	Info	[Action] Number Align Pocket : 2
+20200423_09:14:06	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:14:06	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:14:06	Info	[Action] Align TrayXTT Enable : Unchecked
+20200423_09:14:06	Info	[Action] Enable 2: Checked
+20200423_09:14:06	Info	[Action] Enable R2: Checked
+20200423_09:14:06	Info	[Action] Offset X1 F: 0.000
+20200423_09:14:06	Info	[Action] Offset Y1 F: 0.000
+20200423_09:14:06	Info	[Action] Offset X1 R: 0.000
+20200423_09:14:06	Info	[Action] Offset Y1 R: 0.000
+20200423_09:14:06	Info	[Action] Offset X2 F: -170.505
+20200423_09:14:06	Info	[Action] Offset Y2 F: 0.000
+20200423_09:14:06	Info	[Action] Offset X2 R: -25.995
+20200423_09:14:06	Info	[Action] Offset Y2 R: -540.997
+20200423_09:14:32	Info	[Action] Go to Setup Insp...
+20200423_09:14:32	Info	[Action] Change Camera Mode: Teach Mode
+20200423_09:14:43	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_09:14:43	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:14:56	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:14:56	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:15:05	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:15:15	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:15:21	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_09:15:23	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:15:23	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:15:23	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:15:25	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:15:26	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_09:15:27	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:15:27	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:15:27	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:15:28	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:15:29	Info	[Action] Tray Inspection Enable: Unchecked
+20200423_09:15:30	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:15:30	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:15:30	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:15:35	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:16:36	Info	[Action] Connect/Disconect...
+20200423_09:16:36	Info	Disconnected to sensor
+20200423_09:16:38	Info	[Action] Exit program...
+20200423_09:21:43	Info	Starting program...
+20200423_09:21:55	Info	[Action] Connect/Disconect...
+20200423_09:21:55	Info	Disconnected to sensor
+20200423_09:21:58	Info	Connected to sensor
+20200423_09:22:04	Info	[Action] Log-in as Supervisor
+20200423_09:22:06	Info	[Action] Enable 1: Checked
+20200423_09:22:07	Info	[Action] Show Graphic F : 3
+20200423_09:22:07	Info	[Action] Enable R1: Checked
+20200423_09:22:07	Info	[Action] Show Graphic R: 3
+20200423_09:22:07	Info	[Action] Align Pocket Contrast Thresh : 17
+20200423_09:22:07	Info	[Action] Align Pocket Angle Range : 19.5
+20200423_09:22:07	Info	[Action] Align Tray Score Thresh : 38
+20200423_09:22:07	Info	[Action] APNumbPocket : 2
+20200423_09:22:07	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:22:07	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:22:07	Info	[Action] Number Align Pocket : 2
+20200423_09:22:07	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:22:07	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:22:07	Info	[Action] Align TrayXTT Enable : Unchecked
+20200423_09:22:07	Info	[Action] Enable 2: Checked
+20200423_09:22:07	Info	[Action] Enable R2: Checked
+20200423_09:22:07	Info	[Action] Offset X1 F: 0.000
+20200423_09:22:07	Info	[Action] Offset Y1 F: 0.000
+20200423_09:22:07	Info	[Action] Offset X1 R: 0.000
+20200423_09:22:07	Info	[Action] Offset Y1 R: 0.000
+20200423_09:22:07	Info	[Action] Offset X2 F: -170.505
+20200423_09:22:07	Info	[Action] Offset Y2 F: 0.000
+20200423_09:22:07	Info	[Action] Offset X2 R: -25.995
+20200423_09:22:07	Info	[Action] Offset Y2 R: -540.997
+20200423_09:22:09	Info	[Action] Go to Setup Insp...
+20200423_09:22:09	Info	[Action] Change Camera Mode: Teach Mode
+20200423_09:22:12	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:22:12	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:22:12	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:22:12	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:22:13	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:22:13	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:22:13	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:22:13	Info	[Action] Return Result Enable: Unchecked
+20200423_09:22:13	Info	[Action] Inspection 8 Pocket Enable: Unchecked
+20200423_09:22:13	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:22:13	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:22:13	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:22:14	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:22:14	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:22:14	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:22:14	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:22:14	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:22:14	Info	[Action] Return Result Enable: Unchecked
+20200423_09:22:14	Info	[Action] Inspection 8 Pocket Enable: Checked
+20200423_09:22:16	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:22:16	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:22:16	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:22:18	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:22:20	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:22:20	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:22:20	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:22:20	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:22:20	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:22:20	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:22:20	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:22:20	Info	[Action] Return Result Enable: Unchecked
+20200423_09:22:20	Info	[Action] Inspection 8 Pocket Enable: Unchecked
+20200423_09:22:21	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:22:21	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:22:21	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:22:22	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:22:23	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:22:23	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:22:23	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:22:24	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:22:24	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:22:24	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:22:24	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:22:24	Info	[Action] Return Result Enable: Unchecked
+20200423_09:22:24	Info	[Action] Inspection 8 Pocket Enable: Checked
+20200423_09:22:24	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:22:24	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:22:24	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:22:26	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:22:27	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:22:27	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:22:27	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:22:27	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:22:27	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:22:27	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:22:27	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:22:27	Info	[Action] Return Result Enable: Unchecked
+20200423_09:22:27	Info	[Action] Inspection 8 Pocket Enable: Unchecked
+20200423_09:22:28	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:22:28	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:22:28	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:22:29	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:22:30	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:22:31	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:22:31	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:22:31	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:22:31	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:22:31	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:22:31	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:22:31	Info	[Action] Return Result Enable: Unchecked
+20200423_09:22:31	Info	[Action] Inspection 8 Pocket Enable: Checked
+20200423_09:22:32	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:22:32	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:22:32	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:22:32	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:22:34	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:22:34	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:22:34	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:22:34	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:22:34	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:22:34	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:22:34	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:22:34	Info	[Action] Return Result Enable: Unchecked
+20200423_09:22:34	Info	[Action] Inspection 8 Pocket Enable: Unchecked
+20200423_09:22:35	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:22:35	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:22:35	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:22:42	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:22:43	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:22:43	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:22:43	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:22:43	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:22:43	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:22:43	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:22:43	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:22:43	Info	[Action] Return Result Enable: Unchecked
+20200423_09:22:43	Info	[Action] Inspection 8 Pocket Enable: Checked
+20200423_09:22:46	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:22:46	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:22:46	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:22:53	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:23:06	Info	[Action] Exit program...
+20200423_09:23:06	Info	Disconnected to sensor
+20200423_09:23:13	Info	Starting program...
+20200423_09:23:22	Info	[Action] Connect/Disconect...
+20200423_09:23:22	Info	Disconnected to sensor
+20200423_09:23:24	Info	Connected to sensor
+20200423_09:23:28	Info	[Action] Log-in as Administrator
+20200423_09:23:30	Info	[Action] Enable 1: Checked
+20200423_09:23:30	Info	[Action] Show Graphic F : 3
+20200423_09:23:30	Info	[Action] Enable R1: Checked
+20200423_09:23:30	Info	[Action] Show Graphic R: 3
+20200423_09:23:30	Info	[Action] Align Pocket Contrast Thresh : 17
+20200423_09:23:30	Info	[Action] Align Pocket Angle Range : 19.5
+20200423_09:23:30	Info	[Action] Align Tray Score Thresh : 38
+20200423_09:23:30	Info	[Action] APNumbPocket : 2
+20200423_09:23:30	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:23:30	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:23:30	Info	[Action] Number Align Pocket : 2
+20200423_09:23:30	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:23:30	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:23:30	Info	[Action] Align TrayXTT Enable : Unchecked
+20200423_09:23:31	Info	[Action] Enable 2: Checked
+20200423_09:23:31	Info	[Action] Enable R2: Checked
+20200423_09:23:31	Info	[Action] Offset X1 F: 0.000
+20200423_09:23:31	Info	[Action] Offset Y1 F: 0.000
+20200423_09:23:31	Info	[Action] Offset X1 R: 0.000
+20200423_09:23:31	Info	[Action] Offset Y1 R: 0.000
+20200423_09:23:31	Info	[Action] Offset X2 F: -170.505
+20200423_09:23:31	Info	[Action] Offset Y2 F: 0.000
+20200423_09:23:31	Info	[Action] Offset X2 R: -25.995
+20200423_09:23:31	Info	[Action] Offset Y2 R: -540.997
+20200423_09:23:32	Info	[Action] Go to Setup Insp...
+20200423_09:23:32	Info	[Action] Change Camera Mode: Teach Mode
+20200423_09:23:32	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:23:33	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:23:33	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:23:33	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:23:33	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:23:33	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:23:33	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:23:33	Info	[Action] Return Result Enable: Unchecked
+20200423_09:23:33	Info	[Action] Inspection 8 Pocket Enable: Unchecked
+20200423_09:23:33	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:23:34	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:23:34	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:23:34	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:23:40	Info	[Action] Exit program...
+20200423_09:23:40	Info	Disconnected to sensor
+20200423_09:28:57	Info	Starting program...
+20200423_09:29:05	Info	[Action] Connect/Disconect...
+20200423_09:29:05	Info	Disconnected to sensor
+20200423_09:29:07	Info	Connected to sensor
+20200423_09:29:14	Info	[Action] Log-in as Supervisor
+20200423_09:29:15	Info	[Action] Enable 1: Checked
+20200423_09:29:15	Info	[Action] Show Graphic F : 3
+20200423_09:29:16	Info	[Action] Enable R1: Checked
+20200423_09:29:16	Info	[Action] Show Graphic R: 3
+20200423_09:29:16	Info	[Action] Align Pocket Contrast Thresh : 17
+20200423_09:29:16	Info	[Action] Align Pocket Angle Range : 19.5
+20200423_09:29:16	Info	[Action] Align Tray Score Thresh : 38
+20200423_09:29:16	Info	[Action] APNumbPocket : 2
+20200423_09:29:16	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:29:16	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:29:16	Info	[Action] Number Align Pocket : 2
+20200423_09:29:16	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:29:16	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:29:16	Info	[Action] Align TrayXTT Enable : Unchecked
+20200423_09:29:16	Info	[Action] Enable 2: Checked
+20200423_09:29:16	Info	[Action] Enable R2: Checked
+20200423_09:29:16	Info	[Action] Offset X1 F: 0.000
+20200423_09:29:16	Info	[Action] Offset Y1 F: 0.000
+20200423_09:29:16	Info	[Action] Offset X1 R: 0.000
+20200423_09:29:16	Info	[Action] Offset Y1 R: 0.000
+20200423_09:29:16	Info	[Action] Offset X2 F: -170.505
+20200423_09:29:16	Info	[Action] Offset Y2 F: 0.000
+20200423_09:29:16	Info	[Action] Offset X2 R: -25.995
+20200423_09:29:16	Info	[Action] Offset Y2 R: -540.997
+20200423_09:29:18	Info	[Action] Go to Setup Insp...
+20200423_09:29:18	Info	[Action] Change Camera Mode: Teach Mode
+20200423_09:29:19	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:29:19	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:29:19	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:29:19	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:29:19	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:29:19	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:29:20	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:29:20	Info	[Action] Return Result Enable: Unchecked
+20200423_09:29:20	Info	[Action] Inspection 8 Pocket Enable: Unchecked
+20200423_09:29:20	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:29:21	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:29:21	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:29:21	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:29:21	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:29:21	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:29:22	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:29:22	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:29:22	Info	[Action] Return Result Enable: Unchecked
+20200423_09:29:22	Info	[Action] Inspection 8 Pocket Enable: Checked
+20200423_09:29:23	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:29:23	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:29:23	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:29:27	Info	[Action] Exit program...
+20200423_09:29:27	Info	Disconnected to sensor
+20200423_09:29:34	Info	Starting program...
+20200423_09:29:40	Info	[Action] Connect/Disconect...
+20200423_09:29:40	Info	Disconnected to sensor
+20200423_09:29:42	Info	Connected to sensor
+20200423_09:29:48	Info	[Action] Log-in as Supervisor
+20200423_09:29:49	Info	[Action] Enable 1: Checked
+20200423_09:29:49	Info	[Action] Show Graphic F : 3
+20200423_09:29:49	Info	[Action] Enable R1: Checked
+20200423_09:29:49	Info	[Action] Show Graphic R: 3
+20200423_09:29:49	Info	[Action] Align Pocket Contrast Thresh : 17
+20200423_09:29:50	Info	[Action] Align Pocket Angle Range : 19.5
+20200423_09:29:50	Info	[Action] Align Tray Score Thresh : 38
+20200423_09:29:50	Info	[Action] APNumbPocket : 2
+20200423_09:29:50	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:29:50	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:29:50	Info	[Action] Number Align Pocket : 2
+20200423_09:29:50	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:29:50	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:29:50	Info	[Action] Align TrayXTT Enable : Unchecked
+20200423_09:29:50	Info	[Action] Enable 2: Checked
+20200423_09:29:50	Info	[Action] Enable R2: Checked
+20200423_09:29:50	Info	[Action] Offset X1 F: 0.000
+20200423_09:29:50	Info	[Action] Offset Y1 F: 0.000
+20200423_09:29:50	Info	[Action] Offset X1 R: 0.000
+20200423_09:29:50	Info	[Action] Offset Y1 R: 0.000
+20200423_09:29:50	Info	[Action] Offset X2 F: -170.505
+20200423_09:29:50	Info	[Action] Offset Y2 F: 0.000
+20200423_09:29:50	Info	[Action] Offset X2 R: -25.995
+20200423_09:29:50	Info	[Action] Offset Y2 R: -540.997
+20200423_09:29:51	Info	[Action] Go to Setup Insp...
+20200423_09:29:51	Info	[Action] Change Camera Mode: Teach Mode
+20200423_09:29:53	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:29:53	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:29:53	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:29:53	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:29:53	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:29:53	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:29:53	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:29:53	Info	[Action] Return Result Enable: Unchecked
+20200423_09:29:53	Info	[Action] Inspection 8 Pocket Enable: Unchecked
+20200423_09:29:53	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:29:53	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:29:54	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:29:54	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:29:54	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:29:54	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:29:54	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:29:54	Info	[Action] Return Result Enable: Unchecked
+20200423_09:29:54	Info	[Action] Inspection 8 Pocket Enable: Checked
+20200423_09:29:54	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:29:57	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:29:57	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:29:57	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:29:57	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:29:59	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:29:59	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:29:59	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:30:06	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:30:09	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:30:09	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:30:09	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:30:11	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:32:52	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:32:52	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:32:53	Info	[Action] Go to Setup Insp...
+20200423_09:32:53	Info	[Action] Change Camera Mode: Teach Mode
+20200423_09:32:57	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:32:57	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:32:57	Info	[Action] Go to Setup Insp...
+20200423_09:32:57	Info	[Action] Change Camera Mode: Teach Mode
+20200423_09:33:01	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:33:01	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:33:02	Info	[Action] Go to Setup Insp...
+20200423_09:33:02	Info	[Action] Change Camera Mode: Teach Mode
+20200423_09:33:04	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:33:04	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:33:04	Info	[Action] Go to Setup Insp...
+20200423_09:33:04	Info	[Action] Change Camera Mode: Teach Mode
+20200423_09:33:07	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:33:07	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:33:07	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:33:11	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:33:13	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:33:13	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:33:13	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:33:13	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:33:13	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:33:13	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:33:13	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:33:13	Info	[Action] Return Result Enable: Unchecked
+20200423_09:33:13	Info	[Action] Inspection 8 Pocket Enable: Unchecked
+20200423_09:33:17	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:33:17	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:33:17	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:33:18	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:33:20	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:33:20	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:33:21	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:33:21	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:33:21	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:33:21	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:33:21	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:33:21	Info	[Action] Return Result Enable: Unchecked
+20200423_09:33:21	Info	[Action] Inspection 8 Pocket Enable: Checked
+20200423_09:33:21	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:33:21	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:33:21	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:33:24	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:33:30	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:33:30	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:33:30	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:33:30	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:33:30	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:33:30	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:33:30	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:33:30	Info	[Action] Return Result Enable: Unchecked
+20200423_09:33:30	Info	[Action] Inspection 8 Pocket Enable: Unchecked
+20200423_09:33:31	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:33:31	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:33:31	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:33:34	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:34:20	Info	[Action] Exit program...
+20200423_09:34:20	Warning	Auto reconnect Camera...
+20200423_09:34:53	Info	Starting program...
+20200423_09:35:00	Info	[Action] Connect/Disconect...
+20200423_09:35:00	Info	Disconnected to sensor
+20200423_09:35:02	Info	Connected to sensor
+20200423_09:35:07	Info	[Action] Log-in as Supervisor
+20200423_09:35:09	Info	[Action] Enable 1: Checked
+20200423_09:35:09	Info	[Action] Show Graphic F : 3
+20200423_09:35:09	Info	[Action] Enable R1: Checked
+20200423_09:35:09	Info	[Action] Show Graphic R: 3
+20200423_09:35:09	Info	[Action] Align Pocket Contrast Thresh : 17
+20200423_09:35:10	Info	[Action] Align Pocket Angle Range : 19.5
+20200423_09:35:10	Info	[Action] Align Tray Score Thresh : 38
+20200423_09:35:10	Info	[Action] APNumbPocket : 2
+20200423_09:35:10	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:35:10	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:35:10	Info	[Action] Number Align Pocket : 2
+20200423_09:35:10	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:35:10	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:35:10	Info	[Action] Align TrayXTT Enable : Unchecked
+20200423_09:35:10	Info	[Action] Enable 2: Checked
+20200423_09:35:10	Info	[Action] Enable R2: Checked
+20200423_09:35:10	Info	[Action] Offset X1 F: 0.000
+20200423_09:35:10	Info	[Action] Offset Y1 F: 0.000
+20200423_09:35:10	Info	[Action] Offset X1 R: 0.000
+20200423_09:35:10	Info	[Action] Offset Y1 R: 0.000
+20200423_09:35:10	Info	[Action] Offset X2 F: -170.505
+20200423_09:35:10	Info	[Action] Offset Y2 F: 0.000
+20200423_09:35:10	Info	[Action] Offset X2 R: -25.995
+20200423_09:35:10	Info	[Action] Offset Y2 R: -540.997
+20200423_09:35:11	Info	[Action] Go to Setup Insp...
+20200423_09:35:11	Info	[Action] Change Camera Mode: Teach Mode
+20200423_09:35:14	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:35:14	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:35:14	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:35:14	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:35:14	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:35:14	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:35:14	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:35:14	Info	[Action] Return Result Enable: Unchecked
+20200423_09:35:14	Info	[Action] Inspection 8 Pocket Enable: Unchecked
+20200423_09:35:14	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:35:15	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:35:15	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:35:15	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:35:15	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:35:15	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:35:15	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:35:15	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:35:15	Info	[Action] Return Result Enable: Unchecked
+20200423_09:35:15	Info	[Action] Inspection 8 Pocket Enable: Checked
+20200423_09:35:16	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:35:16	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:35:16	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:35:17	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:35:19	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:35:19	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:35:19	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:35:19	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:35:19	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:35:19	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:35:19	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:35:19	Info	[Action] Return Result Enable: Unchecked
+20200423_09:35:19	Info	[Action] Inspection 8 Pocket Enable: Unchecked
+20200423_09:35:20	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:35:20	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:35:20	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:35:21	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:35:22	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:35:22	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:35:22	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:35:22	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:35:22	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:35:22	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:35:22	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:35:22	Info	[Action] Return Result Enable: Unchecked
+20200423_09:35:23	Info	[Action] Inspection 8 Pocket Enable: Checked
+20200423_09:35:23	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:35:23	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:35:23	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:45:19	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:45:20	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:45:20	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:45:20	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:45:20	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:45:21	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:45:21	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:45:21	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:45:21	Info	[Action] Return Result Enable: Unchecked
+20200423_09:45:21	Info	[Action] Inspection 8 Pocket Enable: Unchecked
+20200423_09:45:21	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:45:21	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:45:21	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:45:22	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:45:23	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:45:23	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:45:23	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:45:23	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:45:23	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:45:23	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:45:24	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:45:24	Info	[Action] Return Result Enable: Unchecked
+20200423_09:45:24	Info	[Action] Inspection 8 Pocket Enable: Checked
+20200423_09:45:24	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:45:24	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:45:24	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:46:04	Info	[Action] HMI Display Changed...
+20200423_09:46:46	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:48:39	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:48:39	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:48:39	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:48:42	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:49:04	Info	Starting program...
+20200423_09:49:10	Info	[Action] Connect/Disconect...
+20200423_09:49:10	Info	Disconnected to sensor
+20200423_09:49:13	Info	Connected to sensor
+20200423_09:49:17	Info	[Action] Log-in as Supervisor
+20200423_09:49:22	Info	[Action] Enable 1: Checked
+20200423_09:49:22	Info	[Action] Show Graphic F : 3
+20200423_09:49:23	Info	[Action] Enable R1: Checked
+20200423_09:49:23	Info	[Action] Show Graphic R: 3
+20200423_09:49:23	Info	[Action] Align Pocket Contrast Thresh : 17
+20200423_09:49:23	Info	[Action] Align Pocket Angle Range : 19.5
+20200423_09:49:24	Info	[Action] Align Tray Score Thresh : 38
+20200423_09:49:24	Info	[Action] APNumbPocket : 2
+20200423_09:49:24	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:49:24	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:49:24	Info	[Action] Number Align Pocket : 2
+20200423_09:49:24	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:49:24	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:49:24	Info	[Action] Align TrayXTT Enable : Unchecked
+20200423_09:49:24	Info	[Action] Enable 2: Checked
+20200423_09:49:24	Info	[Action] Enable R2: Checked
+20200423_09:49:24	Info	[Action] Offset X1 F: 0.000
+20200423_09:49:24	Info	[Action] Offset Y1 F: 0.000
+20200423_09:49:24	Info	[Action] Offset X1 R: 0.000
+20200423_09:49:24	Info	[Action] Offset Y1 R: 0.000
+20200423_09:49:24	Info	[Action] Offset X2 F: -170.505
+20200423_09:49:24	Info	[Action] Offset Y2 F: 0.000
+20200423_09:49:24	Info	[Action] Offset X2 R: -25.995
+20200423_09:49:24	Info	[Action] Offset Y2 R: -540.997
+20200423_09:49:25	Info	[Action] Go to Setup Insp...
+20200423_09:49:25	Info	[Action] Change Camera Mode: Teach Mode
+20200423_09:49:27	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:49:27	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:49:27	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:49:27	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:49:27	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:49:27	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:49:27	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:49:27	Info	[Action] Return Result Enable: Unchecked
+20200423_09:49:27	Info	[Action] Inspection 8 Pocket Enable: Unchecked
+20200423_09:49:27	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:49:28	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:49:28	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:49:28	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:49:28	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:49:28	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:49:28	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:49:28	Info	[Action] Return Result Enable: Unchecked
+20200423_09:49:28	Info	[Action] Inspection 8 Pocket Enable: Checked
+20200423_09:49:28	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:49:28	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:49:28	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:49:28	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:49:28	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:49:28	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:49:29	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:49:29	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:49:29	Info	[Action] Return Result Enable: Unchecked
+20200423_09:49:29	Info	[Action] Inspection 8 Pocket Enable: Unchecked
+20200423_09:49:29	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:49:29	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:49:29	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:49:32	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:49:33	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:49:34	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:49:34	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:49:34	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:49:34	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:49:34	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:49:34	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:49:34	Info	[Action] Return Result Enable: Unchecked
+20200423_09:49:34	Info	[Action] Inspection 8 Pocket Enable: Checked
+20200423_09:49:35	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:49:35	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:49:35	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:49:36	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:49:38	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:49:38	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:49:38	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:49:38	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:49:38	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:49:38	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:49:38	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:49:38	Info	[Action] Return Result Enable: Unchecked
+20200423_09:49:38	Info	[Action] Inspection 8 Pocket Enable: Unchecked
+20200423_09:49:39	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:49:39	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:49:39	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:49:40	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:49:42	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:49:42	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:49:42	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:49:45	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:49:49	Info	[Action] Exit program...
+20200423_09:49:49	Info	Disconnected to sensor
+20200423_09:49:56	Info	Starting program...
+20200423_09:50:03	Info	[Action] Connect/Disconect...
+20200423_09:50:03	Info	Disconnected to sensor
+20200423_09:50:05	Info	Connected to sensor
+20200423_09:50:09	Info	[Action] Log-in as Supervisor
+20200423_09:50:12	Info	[Action] Enable 1: Checked
+20200423_09:50:12	Info	[Action] Show Graphic F : 3
+20200423_09:50:12	Info	[Action] Enable R1: Checked
+20200423_09:50:12	Info	[Action] Show Graphic R: 3
+20200423_09:50:12	Info	[Action] Align Pocket Contrast Thresh : 17
+20200423_09:50:12	Info	[Action] Align Pocket Angle Range : 19.5
+20200423_09:50:12	Info	[Action] Align Tray Score Thresh : 38
+20200423_09:50:12	Info	[Action] APNumbPocket : 2
+20200423_09:50:12	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:50:12	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:50:12	Info	[Action] Number Align Pocket : 2
+20200423_09:50:12	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:50:12	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:50:13	Info	[Action] Align TrayXTT Enable : Unchecked
+20200423_09:50:13	Info	[Action] Enable 2: Checked
+20200423_09:50:13	Info	[Action] Enable R2: Checked
+20200423_09:50:13	Info	[Action] Offset X1 F: 0.000
+20200423_09:50:13	Info	[Action] Offset Y1 F: 0.000
+20200423_09:50:13	Info	[Action] Offset X1 R: 0.000
+20200423_09:50:13	Info	[Action] Offset Y1 R: 0.000
+20200423_09:50:13	Info	[Action] Offset X2 F: -170.505
+20200423_09:50:13	Info	[Action] Offset Y2 F: 0.000
+20200423_09:50:13	Info	[Action] Offset X2 R: -25.995
+20200423_09:50:13	Info	[Action] Offset Y2 R: -540.997
+20200423_09:50:14	Info	[Action] Go to Setup Insp...
+20200423_09:50:14	Info	[Action] Change Camera Mode: Teach Mode
+20200423_09:50:17	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:50:17	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:50:18	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:50:18	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:50:18	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:50:18	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:50:18	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:50:18	Info	[Action] Return Result Enable: Unchecked
+20200423_09:50:18	Info	[Action] Inspection 8 Pocket Enable: Unchecked
+20200423_09:50:18	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:50:19	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:50:19	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:50:19	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:50:20	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:50:21	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:50:21	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:50:21	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:50:21	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:50:21	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:50:21	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:50:21	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:50:21	Info	[Action] Return Result Enable: Unchecked
+20200423_09:50:21	Info	[Action] Inspection 8 Pocket Enable: Checked
+20200423_09:50:22	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:50:22	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:50:22	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:50:24	Info	[Action] Inspection Setting Page: Display Control
+20200423_09:50:25	Info	[Action] Tray Display Enable: Unchecked
+20200423_09:50:25	Info	[Action] Panel Display Enable: Unchecked
+20200423_09:50:25	Info	[Action] Inspection Blob Enable: Unchecked
+20200423_09:50:25	Info	[Action] Inspection Blob Panel Enable: Unchecked
+20200423_09:50:25	Info	[Action] Conveyor Display Enable: Checked
+20200423_09:50:25	Info	[Action] Pane lAlign Enable: Unchecked
+20200423_09:50:25	Info	[Action] Inspection Result Graphic Display Enable: Unchecked
+20200423_09:50:25	Info	[Action] Return Result Enable: Unchecked
+20200423_09:50:26	Info	[Action] Inspection 8 Pocket Enable: Unchecked
+20200423_09:50:26	Info	[Action] Search Region Align Pocket : Region1
+20200423_09:50:26	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200423_09:50:26	Info	[Action] Inspection Setting Page: Tray Inspection
+20200423_09:50:31	Info	[Action] Exit program...
+20200423_09:50:31	Info	Disconnected to sensor
+20200423_13:52:59	Info	Starting program...
+20200423_13:57:13	Info	[Action] Log-in as Operator
+20200423_14:06:11	Info	[Action] Exit program...
+20200423_14:06:22	Info	Starting program...
+20200423_14:11:08	Info	[Action] Log-in as Operator
+20200423_14:11:33	Info	[Action] Log-in as Operator

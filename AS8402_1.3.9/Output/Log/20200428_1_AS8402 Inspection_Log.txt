@@ -1,0 +1,310 @@
+20200428_19:12:37	Info	Starting program...
+20200428_19:13:12	Info	[Action] Connect/Disconect...
+20200428_19:13:12	Info	Disconnected to sensor
+20200428_19:13:13	Info	Connected to sensor
+20200428_19:13:17	Info	[Action] Log-in as Supervisor
+20200428_19:13:18	Info	[Action] Search Region Align Pocket : Region1
+20200428_19:13:18	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200428_19:13:19	Info	[Action] Go to Setup Insp...
+20200428_19:13:19	Info	[Action] Change Camera Mode: Teach Mode
+20200428_19:13:32	Warning	UpdateGUIParams: InvalidArgument=Value of '0' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex
+20200428_19:13:32	Info	[Action] Inspection Setting Page: Panel Inspection
+20200428_19:13:42	Info	[Action] Blob Search Type: 
+20200428_19:13:42	Info	[Action] Inspection Setting Page: Blob Finder
+20200428_19:13:45	Info	[Action] Exit program...
+20200428_19:13:45	Info	Disconnected to sensor
+20200428_19:14:52	Info	Starting program...
+20200428_19:14:58	Info	[Action] Connect/Disconect...
+20200428_19:14:58	Info	Disconnected to sensor
+20200428_19:14:58	Info	Connected to sensor
+20200428_19:15:01	Info	[Action] Log-in as Supervisor
+20200428_19:15:02	Info	[Action] Search Region Align Pocket : Region1
+20200428_19:15:02	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200428_19:15:03	Info	[Action] Go to Setup Insp...
+20200428_19:15:03	Info	[Action] Change Camera Mode: Teach Mode
+20200428_19:15:07	Info	[Action] Exit program...
+20200428_19:15:07	Info	Disconnected to sensor
+20200428_19:15:14	Info	Starting program...
+20200428_19:15:19	Info	[Action] Connect/Disconect...
+20200428_19:15:19	Info	Disconnected to sensor
+20200428_19:15:20	Info	Connected to sensor
+20200428_19:15:26	Info	[Action] Log-in as Supervisor
+20200428_19:15:36	Info	[Action] Search Region Align Pocket : Region1
+20200428_19:15:36	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200428_19:15:37	Info	[Action] Go to Setup Insp...
+20200428_19:15:37	Info	[Action] Change Camera Mode: Teach Mode
+20200428_19:15:42	Info	[Action] Exit program...
+20200428_19:15:42	Info	Disconnected to sensor
+20200428_19:16:05	Info	Starting program...
+20200428_19:16:12	Info	[Action] Connect/Disconect...
+20200428_19:16:12	Info	Disconnected to sensor
+20200428_19:16:13	Info	Connected to sensor
+20200428_19:16:16	Info	[Action] Log-in as Supervisor
+20200428_19:16:17	Info	[Action] Search Region Align Pocket : Region1
+20200428_19:16:17	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200428_19:16:17	Info	[Action] Go to Setup Insp...
+20200428_19:16:17	Info	[Action] Change Camera Mode: Teach Mode
+20200428_19:16:19	Warning	UpdateGUIParams: InvalidArgument=Value of '0' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex
+20200428_19:16:19	Info	[Action] Inspection Setting Page: Panel Inspection
+20200428_19:16:20	Info	[Action] Search Region Align Pocket : Region1
+20200428_19:16:20	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200428_19:16:20	Info	[Action] Inspection Setting Page: Tray Inspection
+20200428_19:16:31	Info	[Action] Blob Search Type: 
+20200428_19:16:31	Info	[Action] Inspection Setting Page: Blob Finder
+20200428_19:16:31	Info	[Action] Line Search Region: Edge 0
+20200428_19:16:31	Info	[Action] Line Search Region 2: Edge 0
+20200428_19:16:31	Info	[Action] Inspection Setting Page: Conveyor/Align Inspection
+20200428_19:16:32	Info	[Action] Inspection Setting Page: Display Control
+20200428_19:16:32	Info	[Action] Inspection Setting Page: Conveyor/Align Inspection
+20200428_19:16:33	Info	[Action] Inspection Setting Page: Blob Finder
+20200428_19:16:34	Info	[Action] Inspection Setting Page: Conveyor/Align Inspection
+20200428_19:16:34	Warning	UpdateGUIParams: InvalidArgument=Value of '0' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex
+20200428_19:16:34	Info	[Action] Inspection Setting Page: Panel Inspection
+20200428_19:16:36	Info	[Action] Search Region Align Pocket : Region1
+20200428_19:16:36	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200428_19:16:36	Info	[Action] Inspection Setting Page: Tray Inspection
+20200428_19:16:40	Info	[Action] Exit program...
+20200428_19:16:40	Info	Disconnected to sensor
+20200428_19:18:11	Info	Starting program...
+20200428_19:18:16	Info	[Action] Connect/Disconect...
+20200428_19:18:16	Info	Disconnected to sensor
+20200428_19:18:17	Info	Connected to sensor
+20200428_19:18:20	Info	[Action] Log-in as Operator
+20200428_19:18:33	Info	[Action] Log-in as Supervisor
+20200428_19:18:34	Info	[Action] Search Region Align Pocket : Region1
+20200428_19:18:34	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200428_19:18:35	Info	[Action] Go to Setup Insp...
+20200428_19:18:35	Info	[Action] Change Camera Mode: Teach Mode
+20200428_19:18:38	Info	[Action] Exit program...
+20200428_19:18:38	Info	Disconnected to sensor
+20200428_19:19:19	Info	Starting program...
+20200428_19:19:25	Info	[Action] Connect/Disconect...
+20200428_19:19:25	Info	Disconnected to sensor
+20200428_19:19:25	Info	Connected to sensor
+20200428_19:19:28	Info	[Action] Log-in as Supervisor
+20200428_19:19:30	Info	[Action] Search Region Align Pocket : Region1
+20200428_19:19:30	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200428_19:19:30	Info	[Action] Go to Setup Insp...
+20200428_19:19:30	Info	[Action] Change Camera Mode: Teach Mode
+20200428_19:19:33	Info	[Action] Exit program...
+20200428_19:19:33	Info	Disconnected to sensor
+20200428_19:22:08	Info	Starting program...
+20200428_19:22:14	Info	[Action] Connect/Disconect...
+20200428_19:22:14	Info	Disconnected to sensor
+20200428_19:22:15	Info	Connected to sensor
+20200428_19:22:19	Info	[Action] Log-in as Supervisor
+20200428_19:22:20	Info	[Action] Search Region Align Pocket : Region1
+20200428_19:22:20	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200428_19:22:21	Info	[Action] Go to Setup Insp...
+20200428_19:22:21	Info	[Action] Change Camera Mode: Teach Mode
+20200428_19:22:27	Info	[Action] Exit program...
+20200428_19:22:27	Info	Disconnected to sensor
+20200428_19:23:08	Info	Starting program...
+20200428_19:23:13	Info	[Action] Connect/Disconect...
+20200428_19:23:13	Info	Disconnected to sensor
+20200428_19:23:14	Info	Connected to sensor
+20200428_19:23:16	Info	[Action] Log-in as Supervisor
+20200428_19:23:17	Info	[Action] Search Region Align Pocket : Region1
+20200428_19:23:17	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200428_19:23:18	Info	[Action] Go to Setup Insp...
+20200428_19:23:18	Info	[Action] Change Camera Mode: Teach Mode
+20200428_19:23:28	Info	[Action] Exit program...
+20200428_19:23:28	Info	Disconnected to sensor
+20200428_19:24:29	Info	Starting program...
+20200428_19:24:34	Info	[Action] Connect/Disconect...
+20200428_19:24:34	Info	Disconnected to sensor
+20200428_19:24:35	Info	Connected to sensor
+20200428_19:24:39	Info	[Action] Log-in as Supervisor
+20200428_19:24:40	Info	[Action] Search Region Align Pocket : Region1
+20200428_19:24:40	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200428_19:24:41	Info	[Action] Go to Setup Insp...
+20200428_19:24:41	Info	[Action] Change Camera Mode: Teach Mode
+20200428_19:24:44	Info	[Action] Exit program...
+20200428_19:24:44	Info	Disconnected to sensor
+20200428_19:25:18	Info	Starting program...
+20200428_19:25:23	Info	[Action] Connect/Disconect...
+20200428_19:25:23	Info	Disconnected to sensor
+20200428_19:25:24	Info	Connected to sensor
+20200428_19:25:26	Info	[Action] Log-in as Supervisor
+20200428_19:25:27	Info	[Action] Search Region Align Pocket : Region1
+20200428_19:25:27	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200428_19:25:28	Info	[Action] Go to Setup Insp...
+20200428_19:25:28	Info	[Action] Change Camera Mode: Teach Mode
+20200428_19:25:30	Info	[Action] Exit program...
+20200428_19:25:31	Info	Disconnected to sensor
+20200428_19:30:07	Info	Starting program...
+20200428_19:30:12	Info	[Action] Connect/Disconect...
+20200428_19:30:12	Info	Disconnected to sensor
+20200428_19:30:12	Info	Connected to sensor
+20200428_19:30:15	Info	[Action] Log-in as Supervisor
+20200428_19:30:16	Info	[Action] Search Region Align Pocket : Region1
+20200428_19:30:16	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200428_19:30:17	Info	[Action] Go to Setup Insp...
+20200428_19:30:17	Info	[Action] Change Camera Mode: Teach Mode
+20200428_19:30:20	Info	[Action] Exit program...
+20200428_19:30:20	Info	Disconnected to sensor
+20200428_19:36:12	Info	Starting program...
+20200428_19:36:18	Info	[Action] Connect/Disconect...
+20200428_19:36:18	Info	Disconnected to sensor
+20200428_19:36:18	Info	Connected to sensor
+20200428_19:36:21	Info	[Action] Log-in as Supervisor
+20200428_19:36:22	Info	[Action] Search Region Align Pocket : Region1
+20200428_19:36:22	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200428_19:36:22	Info	[Action] Go to Setup Insp...
+20200428_19:36:22	Info	[Action] Change Camera Mode: Teach Mode
+20200428_19:36:26	Info	[Action] Exit program...
+20200428_19:36:26	Info	Disconnected to sensor
+20200428_19:38:53	Info	Starting program...
+20200428_19:39:00	Info	[Action] Connect/Disconect...
+20200428_19:39:00	Info	Disconnected to sensor
+20200428_19:39:00	Info	Connected to sensor
+20200428_19:39:03	Info	[Action] Log-in as Supervisor
+20200428_19:39:04	Info	[Action] Search Region Align Pocket : Region1
+20200428_19:39:04	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200428_19:39:05	Info	[Action] Go to Setup Insp...
+20200428_19:39:05	Info	[Action] Change Camera Mode: Teach Mode
+20200428_19:39:13	Info	[Action] Exit program...
+20200428_19:39:14	Info	Disconnected to sensor
+20200428_19:40:57	Info	Starting program...
+20200428_19:41:03	Info	[Action] Connect/Disconect...
+20200428_19:41:03	Info	Disconnected to sensor
+20200428_19:41:03	Info	Connected to sensor
+20200428_19:41:07	Info	[Action] Log-in as Supervisor
+20200428_19:41:08	Info	[Action] Search Region Align Pocket : Region1
+20200428_19:41:08	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200428_19:41:08	Info	[Action] Go to Setup Insp...
+20200428_19:41:08	Info	[Action] Change Camera Mode: Teach Mode
+20200428_19:41:14	Info	[Action] Exit program...
+20200428_19:41:14	Info	Disconnected to sensor
+20200428_20:10:28	Info	Starting program...
+20200428_20:10:33	Info	[Action] Connect/Disconect...
+20200428_20:10:33	Info	Disconnected to sensor
+20200428_20:10:34	Info	Connected to sensor
+20200428_20:10:37	Info	[Action] Log-in as Supervisor
+20200428_20:10:38	Info	[Action] Search Region Align Pocket : Region1
+20200428_20:10:38	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200428_20:10:39	Info	[Action] Go to Setup Insp...
+20200428_20:10:39	Info	[Action] Change Camera Mode: Teach Mode
+20200428_20:10:52	Info	[Action] Exit program...
+20200428_20:10:52	Info	Disconnected to sensor
+20200428_20:42:54	Info	Starting program...
+20200428_20:42:59	Info	[Action] Connect/Disconect...
+20200428_20:42:59	Info	Disconnected to sensor
+20200428_20:43:00	Info	Connected to sensor
+20200428_20:43:05	Info	[Action] Log-in as Supervisor
+20200428_20:43:06	Info	[Action] Search Region Align Pocket : Region1
+20200428_20:43:06	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200428_20:43:06	Info	[Action] Go to Setup Insp...
+20200428_20:43:06	Info	[Action] Change Camera Mode: Teach Mode
+20200428_20:43:13	Warning	UpdateGUIParams: InvalidArgument=Value of '0' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex
+20200428_20:43:13	Info	[Action] Inspection Setting Page: Panel Inspection
+20200428_20:43:19	Info	[Action] Exit program...
+20200428_20:43:19	Info	Disconnected to sensor
+20200428_20:44:17	Info	Starting program...
+20200428_20:44:22	Info	[Action] Connect/Disconect...
+20200428_20:44:22	Info	Disconnected to sensor
+20200428_20:44:23	Info	Connected to sensor
+20200428_20:44:28	Info	[Action] Log-in as Supervisor
+20200428_20:44:29	Info	[Action] Search Region Align Pocket : Region1
+20200428_20:44:29	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200428_20:44:29	Info	[Action] Go to Setup Insp...
+20200428_20:44:29	Info	[Action] Change Camera Mode: Teach Mode
+20200428_20:44:37	Warning	UpdateGUIParams: InvalidArgument=Value of '0' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex
+20200428_20:44:37	Info	[Action] Inspection Setting Page: Panel Inspection
+20200428_20:44:42	Info	[Action] Exit program...
+20200428_20:44:42	Info	Disconnected to sensor
+20200428_20:45:10	Info	Starting program...
+20200428_20:45:15	Info	[Action] Connect/Disconect...
+20200428_20:45:15	Info	Disconnected to sensor
+20200428_20:45:16	Info	Connected to sensor
+20200428_20:45:19	Info	[Action] Log-in as Supervisor
+20200428_20:45:20	Info	[Action] Search Region Align Pocket : Region1
+20200428_20:45:20	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200428_20:45:20	Info	[Action] Go to Setup Insp...
+20200428_20:45:20	Info	[Action] Change Camera Mode: Teach Mode
+20200428_20:45:25	Warning	UpdateGUIParams: InvalidArgument=Value of '0' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex
+20200428_20:45:25	Info	[Action] Inspection Setting Page: Panel Inspection
+20200428_20:45:35	Info	[Action] Exit program...
+20200428_20:45:35	Info	Disconnected to sensor
+20200428_20:48:07	Info	Starting program...
+20200428_20:48:18	Info	[Action] Connect/Disconect...
+20200428_20:48:18	Info	Disconnected to sensor
+20200428_20:48:26	Info	Connected to sensor
+20200428_20:48:29	Info	[Action] Log-in as Supervisor
+20200428_20:48:31	Info	[Action] Enable 1: Checked
+20200428_20:48:31	Info	[Action] Contrast Threshold F : 18
+20200428_20:48:31	Info	[Action] Angle Range F : 40
+20200428_20:48:32	Info	[Action] Score Threshold F : 78
+20200428_20:48:33	Info	[Action] Show Graphic F : 1
+20200428_20:48:33	Info	[Action] ContrastThreshold R: 18
+20200428_20:48:33	Info	[Action] Score Threshold R: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+20200428_20:48:33	Info	[Action] Align Tray Score Thresh : 60
+20200428_20:48:34	Info	[Action] Align Tray Enable: Checked
+20200428_20:48:34	Info	[Action] APNumbPocket : 4
+20200428_20:48:34	Info	[Action] Search Region Align Pocket : Region1
+20200428_20:48:34	Info	[Action] APScore : 60
+20200428_20:48:34	Info	[Action] Search Region Align Pocket : Region1
+20200428_20:48:34	Info	[Action] Number Align Pocket : 4
+20200428_20:48:34	Info	[Action] Search Region Align Pocket : Region1
+20200428_20:48:34	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200428_20:48:34	Info	[Action] Tolerance X : 0
+20200428_20:48:34	Info	[Action] Tolerance Y : 0
+20200428_20:48:34	Info	[Action] Tolerance Theta : 0
+20200428_20:48:34	Info	[Action] APExposure : 50
+20200428_20:48:35	Info	[Action] Pocket Lim Max X : 5
+20200428_20:48:35	Info	[Action] Pocket Lim Max Y : 5
+20200428_20:48:35	Info	[Action] Pocket Lim Max Theta : 5
+20200428_20:48:35	Info	[Action] Pocket Lim Min X : 5
+20200428_20:48:36	Info	[Action] Pocket Lim Min Y : 5
+20200428_20:48:36	Info	[Action] Pocket Lim Min Theta : 5
+20200428_20:48:36	Info	[Action] Enable 2: Checked
+20200428_20:48:37	Info	[Action] Go to Setup Insp...
+20200428_20:48:37	Info	[Action] Change Camera Mode: Teach Mode
+20200428_20:48:55	Info	[Action] Enable Multi Pattern F: Checked
+20200428_20:48:55	Info	[Action] Contrast Threshold F: 10
+20200428_20:48:56	Info	[Action] Angle Range F: 180
+20200428_20:48:56	Info	[Action] Show Graphic F: 1
+20200428_20:48:57	Info	[Action] Enable R: Checked
+20200428_20:48:57	Info	[Action] Contrast Threshold R: 15
+20200428_20:48:58	Info	[Action] Angle Range R: 180
+20200428_20:48:58	Info	[Action] Enable: Checked
+20200428_20:48:58	Info	[Action] Train Region R: Region1
+20200428_20:48:59	Info	[Action] Train Region F: Region1
+20200428_20:48:59	Info	[Action] Max Delta X: 5
+20200428_20:48:59	Info	[Action] Max Delta X: 5
+20200428_20:48:59	Info	[Action] Max Delta Y: 5
+20200428_20:48:59	Info	[Action] Max Delta Y: 5
+20200428_20:48:59	Info	[Action] Max Delta Theta: 5
+20200428_20:48:59	Info	[Action] Max Delta Theta: 5
+20200428_20:48:59	Info	[Action] Panel Params: Region1
+20200428_20:48:59	Info	[Action] Number Pocket F: 4
+20200428_20:49:00	Info	[Action] Train Region F: Region1
+20200428_20:49:00	Info	[Action] Train Region R: Region1
+20200428_20:49:00	Info	[Action] Max Delta X: 5
+20200428_20:49:00	Info	[Action] Max Delta Y: 5
+20200428_20:49:00	Info	[Action] Max Delta Theta: 5
+20200428_20:49:00	Info	[Action] Panel Params: Region1
+20200428_20:49:00	Info	[Action] Fwd/Rev: Forward
+20200428_20:49:00	Info	[Action] Score Threshold F: 60
+20200428_20:49:01	Info	[Action] Score Threshold R: 50
+20200428_20:49:01	Info	[Action] Vis Mean Thresh: 10
+20200428_20:49:01	Info	[Action] Vis Count Thresh: 400
+20200428_20:49:01	Info	[Action] Vis Last Bin: 80
+20200428_20:49:01	Info	[Action] Check Shift Type: Find Patmax
+20200428_20:49:01	Info	[Action] Find type: Both Type
+20200428_20:49:01	Info	[Action] Line Polarity: Black To White
+20200428_20:49:01	Info	[Action] Line Find By: Best Score
+20200428_20:49:01	Info	[Action] Edge Width: 3
+20200428_20:49:01	Info	[Action] Line Threshold: 5
+20200428_20:49:02	Info	[Action] Line Limit Angle: 3
+20200428_20:49:02	Info	[Action] Line Limit Angle: 3
+20200428_20:49:02	Info	[Action] Inspection Setting Page: Panel Inspection
+20200428_20:49:09	Info	[Action] Enable Multi Pattern F: Unchecked
+20200428_20:49:16	Info	[Action] Exit program...
+20200428_20:49:16	Info	Disconnected to sensor

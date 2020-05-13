@@ -1,0 +1,438 @@
+20200508_14:54:24	Info	Starting program...
+20200508_14:54:29	Info	[Action] Connect/Disconect...
+20200508_14:54:29	Info	Disconnected to sensor
+20200508_14:54:33	Info	Connected to sensor
+20200508_14:54:36	Info	[Action] Log-in as Supervisor
+20200508_14:54:40	Info	[Action] Exit program...
+20200508_14:54:40	Info	Disconnected to sensor
+20200508_14:55:32	Info	Starting program...
+20200508_14:55:37	Info	[Action] Exit program...
+20200508_15:17:24	Info	Starting program...
+20200508_15:17:33	Info	[Action] Connect/Disconect...
+20200508_15:17:33	Info	Disconnected to sensor
+20200508_15:17:36	Info	Connected to sensor
+20200508_15:17:40	Info	[Action] Exit program...
+20200508_15:17:40	Info	Disconnected to sensor
+20200508_15:19:46	Info	Starting program...
+20200508_15:28:01	Info	Starting program...
+20200508_15:28:07	Info	[Action] Connect/Disconect...
+20200508_15:28:07	Info	Disconnected to sensor
+20200508_15:28:11	Info	Connected to sensor
+20200508_15:28:14	Info	[Action] Log-in as Supervisor
+20200508_15:28:18	Info	[Action] Exit program...
+20200508_15:28:18	Info	Disconnected to sensor
+20200508_15:31:04	Info	Starting program...
+20200508_15:31:08	Info	[Action] Exit program...
+20200508_15:31:34	Info	Starting program...
+20200508_15:35:55	Info	Starting program...
+20200508_15:36:09	Info	[Action] Exit program...
+20200508_15:49:36	Info	Starting program...
+20200508_15:50:06	Info	Starting program...
+20200508_15:50:40	Info	Starting program...
+20200508_15:51:50	Info	Starting program...
+20200508_15:52:48	Info	Starting program...
+20200508_15:54:52	Info	Starting program...
+20200508_15:58:55	Info	Starting program...
+20200508_15:59:11	Info	[Action] Exit program...
+20200508_15:59:26	Info	Starting program...
+20200508_15:59:32	Info	[Action] Connect/Disconect...
+20200508_15:59:32	Info	Disconnected to sensor
+20200508_15:59:35	Info	Connected to sensor
+20200508_15:59:40	Info	[Action] Log-in as Administrator
+20200508_15:59:54	Info	[Action] Exit program...
+20200508_15:59:54	Info	Disconnected to sensor
+20200508_16:01:16	Info	Starting program...
+20200508_16:03:27	Info	Starting program...
+20200508_16:04:51	Info	Starting program...
+20200508_16:08:39	Info	Starting program...
+20200508_16:11:22	Info	Starting program...
+20200508_16:28:49	Info	Starting program...
+20200508_16:29:14	Info	Starting program...
+20200508_16:29:18	Info	[Action] Connect/Disconect...
+20200508_16:29:18	Info	Disconnected to sensor
+20200508_16:29:22	Info	Connected to sensor
+20200508_16:29:27	Info	[Action] Log-in as Administrator
+20200508_16:29:32	Info	[Action] Exit program...
+20200508_16:29:32	Info	Disconnected to sensor
+20200508_16:35:24	Info	Starting program...
+20200508_16:35:29	Info	[Action] Connect/Disconect...
+20200508_16:35:29	Info	Disconnected to sensor
+20200508_16:35:33	Info	Connected to sensor
+20200508_16:35:37	Info	[Action] Log-in as Supervisor
+20200508_16:35:45	Info	[Action] Save log all: Checked
+20200508_16:35:47	Info	[Action] Save log all: Unchecked
+20200508_16:35:49	Info	[Action] Save log all: Checked
+20200508_16:35:49	Info	[Action] Save log all: Unchecked
+20200508_16:35:53	Info	[Action] Exit program...
+20200508_16:35:53	Info	Disconnected to sensor
+20200508_16:49:30	Info	Starting program...
+20200508_16:51:05	Info	[Action] Connect/Disconect...
+20200508_16:51:05	Info	Disconnected to sensor
+20200508_16:51:09	Info	Connected to sensor
+20200508_16:51:13	Info	[Action] Log-in as Supervisor
+20200508_16:54:36	Info	[Action] Save Setting...
+20200508_16:54:42	Info	[Action] Connect/Disconect...
+20200508_16:54:42	Info	Disconnected to sensor
+20200508_16:54:43	Info	[Action] Connect/Disconect...
+20200508_16:54:47	Info	Connected to sensor
+20200508_16:55:06	Info	[Action] Log-in as Operator
+20200508_16:55:10	Info	[Action] Log-in as Supervisor
+20200508_16:55:33	Info	[Action] Save log file all: Checked
+20200508_16:55:34	Info	[Action] Save log file all: Unchecked
+20200508_16:55:36	Info	[Action] Save log file all: Checked
+20200508_16:56:16	Info	Starting program...
+20200508_16:56:21	Info	[Action] Connect/Disconect...
+20200508_16:56:21	Info	Disconnected to sensor
+20200508_16:56:25	Info	Connected to sensor
+20200508_16:58:47	Info	[Action] Log-in as Supervisor
+20200508_16:58:50	Info	[Action] Connect/Disconect...
+20200508_16:58:50	Info	Disconnected to sensor
+20200508_16:58:51	Info	[Action] Connect/Disconect...
+20200508_16:58:55	Info	Connected to sensor
+20200508_16:59:01	Info	[Action] Save log file all: Checked
+20200508_16:59:02	Info	[Action] Save log file all: Unchecked
+20200508_16:59:03	Info	[Action] Save log file all: Checked
+20200508_16:59:04	Info	[Action] Save log file all: Unchecked
+20200508_16:59:09	Info	[Action] Exit program...
+20200508_16:59:09	Info	Disconnected to sensor
+20200508_16:59:17	Info	Starting program...
+20200508_16:59:22	Info	[Action] Connect/Disconect...
+20200508_16:59:22	Info	Disconnected to sensor
+20200508_16:59:26	Info	Connected to sensor
+20200508_16:59:30	Info	[Action] Log-in as Supervisor
+20200508_17:00:25	Info	[Action] Exit program...
+20200508_17:00:26	Info	Disconnected to sensor
+20200508_17:11:18	Info	Starting program...
+20200508_17:11:44	Info	[Action] Connect/Disconect...
+20200508_17:11:44	Info	Disconnected to sensor
+20200508_17:11:48	Info	Connected to sensor
+20200508_17:11:50	Info	[Action] Log-in as Supervisor
+20200508_17:12:07	Info	[Action] Exit program...
+20200508_17:12:07	Info	Disconnected to sensor
+20200508_17:12:19	Info	Starting program...
+20200508_17:12:23	Info	[Action] Connect/Disconect...
+20200508_17:12:23	Info	Disconnected to sensor
+20200508_17:12:27	Info	Connected to sensor
+20200508_17:12:30	Info	[Action] Log-in as Supervisor
+20200508_17:12:30	Info	[Action] Save log file all: Checked
+20200508_17:12:38	Info	[Action] Enable 1: Checked
+20200508_17:12:39	Info	[Action] Contrast Threshold F : 19
+20200508_17:12:39	Info	[Action] Angle Range F : 21
+20200508_17:12:39	Info	[Action] Score Threshold F : 72
+20200508_17:12:40	Info	[Action] Show Graphic F : 1
+20200508_17:12:40	Info	[Action] ContrastThreshold R: 18.5
+20200508_17:12:40	Info	[Action] AngleRange R: 20.5
+20200508_17:12:41	Info	[Action] Score Threshold R: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+20200508_17:12:41	Info	[Action] Align Tray Score Thresh : 60
+20200508_17:12:41	Info	[Action] Align Tray Enable: Checked
+20200508_17:12:41	Info	[Action] APNumbPocket : 4
+20200508_17:12:41	Info	[Action] Search Region Align Pocket : Region1
+20200508_17:12:41	Info	[Action] APScore : 60
+20200508_17:12:41	Info	[Action] Search Region Align Pocket : Region1
+20200508_17:12:41	Info	[Action] Number Align Pocket : 4
+20200508_17:12:41	Info	[Action] Search Region Align Pocket : Region1
+20200508_17:12:41	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200508_17:12:41	Info	[Action] Tolerance X : 0
+20200508_17:12:41	Info	[Action] Tolerance Y : 0
+20200508_17:12:41	Info	[Action] Tolerance Theta : 0
+20200508_17:12:42	Info	[Action] APExposure : 50
+20200508_17:12:42	Info	[Action] Pocket Lim Max X : 5
+20200508_17:12:42	Info	[Action] Pocket Lim Max Y : 5
+20200508_17:12:42	Info	[Action] Pocket Lim Max Theta : 5
+20200508_17:12:43	Info	[Action] Pocket Lim Min X : 5
+20200508_17:12:43	Info	[Action] Pocket Lim Min Y : 5
+20200508_17:12:43	Info	[Action] Pocket Lim Min Theta : 5
+20200508_17:12:43	Info	[Action] Go to Setup Insp...
+20200508_17:12:43	Info	[Action] Change Camera Mode: Teach Mode
+20200508_17:12:47	Info	[Action] Enable F: Checked
+20200508_17:12:47	Info	[Action] Enable Multi Pattern F: Checked
+20200508_17:12:47	Info	[Action] Contrast Threshold F: 10
+20200508_17:12:47	Info	[Action] Angle Range F: 179.5
+20200508_17:12:47	Info	[Action] Show Graphic F: 3
+20200508_17:12:47	Info	[Action] Contrast Threshold R: 15
+20200508_17:12:47	Info	[Action] Angle Range R: 15
+20200508_17:12:47	Info	[Action] Enable: Checked
+20200508_17:12:47	Info	[Action] Train Region R: Region1
+20200508_17:12:48	Info	[Action] Train Region F: Region1
+20200508_17:12:48	Info	[Action] Max Delta X: 5
+20200508_17:12:48	Info	[Action] Max Delta X: 5
+20200508_17:12:48	Info	[Action] Max Delta Y: 5
+20200508_17:12:48	Info	[Action] Max Delta Y: 5
+20200508_17:12:48	Info	[Action] Max Delta Theta: 5
+20200508_17:12:48	Info	[Action] Max Delta Theta: 5
+20200508_17:12:48	Info	[Action] Panel Params: Region1
+20200508_17:12:48	Info	[Action] Number Pocket F: 4
+20200508_17:12:48	Info	[Action] Train Region F: Region1
+20200508_17:12:48	Info	[Action] Train Region R: Region1
+20200508_17:12:48	Info	[Action] Max Delta X: 5
+20200508_17:12:48	Info	[Action] Max Delta Y: 5
+20200508_17:12:48	Info	[Action] Max Delta Theta: 5
+20200508_17:12:48	Info	[Action] Panel Params: Region1
+20200508_17:12:48	Info	[Action] Fwd/Rev: Forward
+20200508_17:12:48	Info	[Action] Score Threshold F: 60
+20200508_17:12:48	Info	[Action] Score Threshold R: 50
+20200508_17:12:48	Info	[Action] Vis Mean Thresh: 10
+20200508_17:12:49	Info	[Action] Vis Count Thresh: 400
+20200508_17:12:49	Info	[Action] Vis Last Bin: 80
+20200508_17:12:49	Info	[Action] Check Shift Type: Find Patmax
+20200508_17:12:49	Info	[Action] Find type: Both Type
+20200508_17:12:49	Info	[Action] Line Polarity: Black To White
+20200508_17:12:49	Info	[Action] Line Find By: Best Score
+20200508_17:12:49	Info	[Action] Edge Width: 3
+20200508_17:12:49	Info	[Action] Line Threshold: 5
+20200508_17:12:49	Info	[Action] Line Limit Angle: 3
+20200508_17:12:49	Info	[Action] Line Limit Angle: 3
+20200508_17:12:49	Info	[Action] Inspection Setting Page: Panel Inspection
+20200508_17:12:50	Info	[Action] Contrast Threshold: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 255
+20200508_17:12:50	Info	[Action] Min Size: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 10000
+20200508_17:12:50	Info	[Action] Max Size: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100000
+20200508_17:12:50	Info	[Action] Panel Blob Search Type: Dark On Bright
+20200508_17:12:50	Info	[Action] Panel Blob Number: 2
+20200508_17:12:50	Info	[Action] Panel Contrast: 150
+20200508_17:12:50	Info	[Action] Panel Min Size: 100
+20200508_17:12:50	Info	[Action] Panel Max Size: 10000
+20200508_17:12:50	Info	[Action] Panel Show GraphicF: 1
+20200508_17:12:50	Info	[Action] Panel Number selected: Region1
+20200508_17:12:50	Info	[Action] Inspection Setting Page: Blob Finder
+20200508_17:12:51	Info	[Action] Search Region Align Pocket : Region1
+20200508_17:12:51	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200508_17:12:51	Info	[Action] Tolerance X : 0
+20200508_17:12:51	Info	[Action] Tolerance Y : 0
+20200508_17:12:51	Info	[Action] Tolerance Theta : 0
+20200508_17:12:51	Info	[Action] Inspection Setting Page: Tray Inspection
+20200508_17:12:57	Info	[Action]Camera Address: 192.168.1.68
+20200508_17:12:58	Info	[Action] Go to Setting HW...
+20200508_17:12:59	Info	[Action] Search Region Align Pocket : Region1
+20200508_17:12:59	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200508_17:12:59	Info	[Action] Tolerance X : 0
+20200508_17:12:59	Info	[Action] Tolerance Y : 0
+20200508_17:12:59	Info	[Action] Tolerance Theta : 0
+20200508_17:12:59	Info	[Action] Go to Setup Insp...
+20200508_17:12:59	Info	[Action] Change Camera Mode: Teach Mode
+20200508_17:13:02	Info	[Action] Unit: Milimeters
+20200508_17:13:03	Info	[Action] Show Graphic: 0
+20200508_17:13:03	Info	[Action] Go to Intrinsic...
+20200508_17:13:07	Info	[Action] Save log file all: Unchecked
+20200508_17:13:09	Info	[Action] Save log file all: Checked
+20200508_17:13:14	Info	[Action] Exit program...
+20200508_17:13:14	Info	Disconnected to sensor
+20200508_17:22:57	Info	Starting program...
+20200508_17:23:02	Info	[Action] Connect/Disconect...
+20200508_17:23:02	Info	Disconnected to sensor
+20200508_17:23:06	Info	Connected to sensor
+20200508_17:23:11	Info	[Action] Log-in as Supervisor
+20200508_17:23:12	Info	[Action] Save log file all: Checked
+20200508_17:23:31	Info	[Action] HMI Display Changed...
+20200508_17:24:32	Info	[Action] Save log file all: Unchecked
+20200508_17:24:35	Info	[Action]Camera Address: 192.168.1.68
+20200508_17:24:36	Info	[Action] Go to Setting HW...
+20200508_17:24:44	Info	[Action] Save log file all: Checked
+20200508_17:24:54	Info	[Action] Enable 1: Checked
+20200508_17:24:54	Info	[Action] Contrast Threshold F : 19
+20200508_17:24:55	Info	[Action] Angle Range F : 21
+20200508_17:24:55	Info	[Action] Score Threshold F : 72
+20200508_17:24:55	Info	[Action] Show Graphic F : 1
+20200508_17:24:56	Info	[Action] ContrastThreshold R: 18.5
+20200508_17:24:56	Info	[Action] AngleRange R: 20.5
+20200508_17:24:56	Info	[Action] Score Threshold R: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+20200508_17:24:56	Info	[Action] Align Tray Score Thresh : 60
+20200508_17:24:56	Info	[Action] Align Tray Enable: Checked
+20200508_17:24:57	Info	[Action] APNumbPocket : 4
+20200508_17:24:57	Info	[Action] Search Region Align Pocket : Region1
+20200508_17:24:57	Info	[Action] APScore : 60
+20200508_17:24:57	Info	[Action] Search Region Align Pocket : Region1
+20200508_17:24:57	Info	[Action] Number Align Pocket : 4
+20200508_17:24:57	Info	[Action] Search Region Align Pocket : Region1
+20200508_17:24:57	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200508_17:24:57	Info	[Action] Tolerance X : 0
+20200508_17:24:57	Info	[Action] Tolerance Y : 0
+20200508_17:24:57	Info	[Action] Tolerance Theta : 0
+20200508_17:24:57	Info	[Action] APExposure : 50
+20200508_17:24:58	Info	[Action] Pocket Lim Max X : 5
+20200508_17:24:58	Info	[Action] Pocket Lim Max Y : 5
+20200508_17:24:58	Info	[Action] Pocket Lim Max Theta : 5
+20200508_17:24:58	Info	[Action] Pocket Lim Min X : 5
+20200508_17:24:58	Info	[Action] Pocket Lim Min Y : 5
+20200508_17:24:58	Info	[Action] Pocket Lim Min Theta : 5
+20200508_17:24:59	Info	[Action] Go to Setup Insp...
+20200508_17:24:59	Info	[Action] Change Camera Mode: Teach Mode
+20200508_17:25:04	Info	[Action] Enable F: Checked
+20200508_17:25:04	Info	[Action] Enable Multi Pattern F: Checked
+20200508_17:25:04	Info	[Action] Contrast Threshold F: 10
+20200508_17:25:04	Info	[Action] Angle Range F: 179.5
+20200508_17:25:04	Info	[Action] Show Graphic F: 3
+20200508_17:25:04	Info	[Action] Contrast Threshold R: 15
+20200508_17:25:04	Info	[Action] Angle Range R: 15
+20200508_17:25:04	Info	[Action] Enable: Checked
+20200508_17:25:04	Info	[Action] Train Region R: Region1
+20200508_17:25:04	Info	[Action] Train Region F: Region1
+20200508_17:25:05	Info	[Action] Max Delta X: 5
+20200508_17:25:05	Info	[Action] Max Delta X: 5
+20200508_17:25:05	Info	[Action] Max Delta Y: 5
+20200508_17:25:05	Info	[Action] Max Delta Y: 5
+20200508_17:25:05	Info	[Action] Max Delta Theta: 5
+20200508_17:25:05	Info	[Action] Max Delta Theta: 5
+20200508_17:25:05	Info	[Action] Panel Params: Region1
+20200508_17:25:05	Info	[Action] Number Pocket F: 4
+20200508_17:25:05	Info	[Action] Train Region F: Region1
+20200508_17:25:05	Info	[Action] Train Region R: Region1
+20200508_17:25:05	Info	[Action] Max Delta X: 5
+20200508_17:25:05	Info	[Action] Max Delta Y: 5
+20200508_17:25:05	Info	[Action] Max Delta Theta: 5
+20200508_17:25:05	Info	[Action] Panel Params: Region1
+20200508_17:25:05	Info	[Action] Fwd/Rev: Forward
+20200508_17:25:05	Info	[Action] Score Threshold F: 60
+20200508_17:25:05	Info	[Action] Score Threshold R: 50
+20200508_17:25:05	Info	[Action] Vis Mean Thresh: 10
+20200508_17:25:05	Info	[Action] Vis Count Thresh: 400
+20200508_17:25:06	Info	[Action] Vis Last Bin: 80
+20200508_17:25:06	Info	[Action] Check Shift Type: Find Patmax
+20200508_17:25:06	Info	[Action] Find type: Both Type
+20200508_17:25:06	Info	[Action] Line Polarity: Black To White
+20200508_17:25:06	Info	[Action] Line Find By: Best Score
+20200508_17:25:06	Info	[Action] Edge Width: 3
+20200508_17:25:06	Info	[Action] Line Threshold: 5
+20200508_17:25:06	Info	[Action] Line Limit Angle: 3
+20200508_17:25:06	Info	[Action] Line Limit Angle: 3
+20200508_17:25:06	Info	[Action] Inspection Setting Page: Panel Inspection
+20200508_17:25:18	Info	[Action] Search Region Align Pocket : Region1
+20200508_17:25:18	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200508_17:25:18	Info	[Action] Tolerance X : 0
+20200508_17:25:18	Info	[Action] Tolerance Y : 0
+20200508_17:25:18	Info	[Action] Tolerance Theta : 0
+20200508_17:25:18	Info	[Action] Inspection Setting Page: Tray Inspection
+20200508_17:25:20	Info	[Action] Contrast Threshold F2 : 19.5
+20200508_17:25:20	Info	[Action] Angle Range F : 39.5
+20200508_17:25:21	Info	[Action] Score Threshold F2 : 77
+20200508_17:25:21	Info	[Action] Click Search Region F2
+20200508_17:25:22	Info	[Action] Contrast Threshold F : 19
+20200508_17:25:23	Info	[Action] Angle Range F : 21
+20200508_17:25:23	Info	[Action] Score Threshold F : 72
+20200508_17:25:24	Info	[Action] Click Search Region F1
+20200508_17:25:27	Info	[Action] Click Search Region F1
+20200508_17:25:34	Info	[Action] Exit program...
+20200508_17:25:34	Info	Disconnected to sensor
+20200508_18:34:41	Info	Starting program...
+20200508_18:34:51	Info	[Action] Exit program...
+20200508_18:35:04	Info	Starting program...
+20200508_18:35:09	Info	[Action] Exit program...
+20200508_18:54:27	Info	Starting program...
+20200508_18:54:35	Info	[Action] Exit program...
+20200508_18:57:20	Info	Starting program...
+20200508_18:57:25	Info	[Action] Connect/Disconect...
+20200508_18:57:25	Info	Disconnected to sensor
+20200508_18:57:29	Info	Connected to sensor
+20200508_18:57:35	Info	[Action] Log-in as Supervisor
+20200508_18:57:35	Info	[Action] Save log file all: Checked
+20200508_18:57:47	Info	[Action] Enable 1: Checked
+20200508_18:57:47	Info	[Action] Contrast Threshold F : 19
+20200508_18:57:48	Info	[Action] Angle Range F : 21
+20200508_18:57:48	Info	[Action] Score Threshold F : 72
+20200508_18:57:48	Info	[Action] Show Graphic F : 1
+20200508_18:57:49	Info	[Action] ContrastThreshold R: 18.5
+20200508_18:57:49	Info	[Action] AngleRange R: 20.5
+20200508_18:57:49	Info	[Action] Score Threshold R: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+20200508_18:57:49	Info	[Action] Align Tray Score Thresh : 60
+20200508_18:57:50	Info	[Action] Align Tray Enable: Checked
+20200508_18:57:50	Info	[Action] APNumbPocket : 4
+20200508_18:57:50	Info	[Action] Search Region Align Pocket : Region1
+20200508_18:57:50	Info	[Action] APScore : 60
+20200508_18:57:50	Info	[Action] Search Region Align Pocket : Region1
+20200508_18:57:50	Info	[Action] Number Align Pocket : 4
+20200508_18:57:50	Info	[Action] Search Region Align Pocket : Region1
+20200508_18:57:50	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200508_18:57:50	Info	[Action] Tolerance X : 0
+20200508_18:57:50	Info	[Action] Tolerance Y : 0
+20200508_18:57:50	Info	[Action] Tolerance Theta : 0
+20200508_18:57:50	Info	[Action] APExposure : 50
+20200508_18:57:51	Info	[Action] Pocket Lim Max X : 5
+20200508_18:57:51	Info	[Action] Pocket Lim Max Y : 5
+20200508_18:57:51	Info	[Action] Pocket Lim Max Theta : 5
+20200508_18:57:51	Info	[Action] Pocket Lim Min X : 5
+20200508_18:57:51	Info	[Action] Pocket Lim Min Y : 5
+20200508_18:57:52	Info	[Action] Pocket Lim Min Theta : 5
+20200508_18:57:52	Info	[Action] Go to Setup Insp...
+20200508_18:57:52	Info	[Action] Change Camera Mode: Teach Mode
+20200508_18:58:02	Info	[Action] Enable F: Checked
+20200508_18:58:03	Info	[Action] Enable Multi Pattern F: Checked
+20200508_18:58:03	Info	[Action] Contrast Threshold F: 10
+20200508_18:58:03	Info	[Action] Angle Range F: 179.5
+20200508_18:58:03	Info	[Action] Show Graphic F: 3
+20200508_18:58:03	Info	[Action] Contrast Threshold R: 15
+20200508_18:58:03	Info	[Action] Angle Range R: 15
+20200508_18:58:03	Info	[Action] Enable: Checked
+20200508_18:58:03	Info	[Action] Train Region R: Region1
+20200508_18:58:04	Info	[Action] Train Region F: Region1
+20200508_18:58:04	Info	[Action] Max Delta X: 5
+20200508_18:58:04	Info	[Action] Max Delta X: 5
+20200508_18:58:04	Info	[Action] Max Delta Y: 5
+20200508_18:58:04	Info	[Action] Max Delta Y: 5
+20200508_18:58:04	Info	[Action] Max Delta Theta: 5
+20200508_18:58:04	Info	[Action] Max Delta Theta: 5
+20200508_18:58:04	Info	[Action] Panel Params: Region1
+20200508_18:58:04	Info	[Action] Number Pocket F: 4
+20200508_18:58:04	Info	[Action] Train Region F: Region1
+20200508_18:58:04	Info	[Action] Train Region R: Region1
+20200508_18:58:04	Info	[Action] Max Delta X: 5
+20200508_18:58:04	Info	[Action] Max Delta Y: 5
+20200508_18:58:04	Info	[Action] Max Delta Theta: 5
+20200508_18:58:04	Info	[Action] Panel Params: Region1
+20200508_18:58:04	Info	[Action] Fwd/Rev: Forward
+20200508_18:58:04	Info	[Action] Score Threshold F: 60
+20200508_18:58:04	Info	[Action] Score Threshold R: 50
+20200508_18:58:04	Info	[Action] Vis Mean Thresh: 10
+20200508_18:58:04	Info	[Action] Vis Count Thresh: 400
+20200508_18:58:04	Info	[Action] Vis Last Bin: 80
+20200508_18:58:05	Info	[Action] Check Shift Type: Find Patmax
+20200508_18:58:05	Info	[Action] Find type: Both Type
+20200508_18:58:05	Info	[Action] Line Polarity: Black To White
+20200508_18:58:05	Info	[Action] Line Find By: Best Score
+20200508_18:58:05	Info	[Action] Edge Width: 3
+20200508_18:58:05	Info	[Action] Line Threshold: 5
+20200508_18:58:05	Info	[Action] Line Limit Angle: 3
+20200508_18:58:05	Info	[Action] Line Limit Angle: 3
+20200508_18:58:05	Info	[Action] Inspection Setting Page: Panel Inspection
+20200508_18:58:05	Info	[Action] Search Region Align Pocket : Region1
+20200508_18:58:05	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200508_18:58:05	Info	[Action] Tolerance X : 0
+20200508_18:58:05	Info	[Action] Tolerance Y : 0
+20200508_18:58:05	Info	[Action] Tolerance Theta : 0
+20200508_18:58:34	Info	Starting program...
+20200508_18:58:38	Info	[Action] Connect/Disconect...
+20200508_18:58:38	Info	Disconnected to sensor
+20200508_18:58:42	Info	Connected to sensor
+20200508_18:58:46	Info	[Action] Log-in as Supervisor
+20200508_18:58:46	Info	[Action] Save log file all: Checked
+20200508_18:58:47	Info	[Action] Enable 1: Checked
+20200508_18:58:48	Info	[Action] Contrast Threshold F : 19
+20200508_18:58:48	Info	[Action] Angle Range F : 21
+20200508_18:58:48	Info	[Action] Score Threshold F : 72
+20200508_18:58:49	Info	[Action] Show Graphic F : 1
+20200508_18:58:49	Info	[Action] ContrastThreshold R: 18.5
+20200508_18:58:49	Info	[Action] AngleRange R: 20.5
+20200508_18:58:50	Info	[Action] Score Threshold R: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+20200508_18:58:50	Info	[Action] Align Tray Score Thresh : 60
+20200508_18:58:50	Info	[Action] Align Tray Enable: Checked
+20200508_18:58:50	Info	[Action] APNumbPocket : 4
+20200508_18:58:50	Info	[Action] Search Region Align Pocket : Region1
+20200508_18:58:50	Info	[Action] APScore : 60
+20200508_18:58:51	Info	[Action] Search Region Align Pocket : Region1
+20200508_18:58:51	Info	[Action] Number Align Pocket : 4
+20200508_18:58:51	Info	[Action] Search Region Align Pocket : Region1
+20200508_18:58:51	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200508_18:58:51	Info	[Action] Tolerance X : 0
+20200508_18:58:51	Info	[Action] Tolerance Y : 0
+20200508_18:58:51	Info	[Action] Tolerance Theta : 0
+20200508_18:58:51	Info	[Action] APExposure : 50
+20200508_18:58:51	Info	[Action] Pocket Lim Max X : 5
+20200508_18:58:51	Info	[Action] Pocket Lim Max Y : 5
+20200508_18:58:52	Info	[Action] Pocket Lim Max Theta : 5
+20200508_18:58:52	Info	[Action] Pocket Lim Min X : 5
+20200508_18:58:52	Info	[Action] Pocket Lim Min Y : 5
+20200508_18:58:52	Info	[Action] Pocket Lim Min Theta : 5
+20200508_18:58:59	Info	[Action] Show Offset F: Checked
+20200508_18:59:00	Info	[Action] Show Offset R: Checked
+20200508_18:59:01	Info	[Action] Go to Setup Insp...
+20200508_18:59:01	Info	[Action] Change Camera Mode: Teach Mode
+20200508_18:59:16	Info	[Action] Exit program...
+20200508_18:59:16	Info	Disconnected to sensor

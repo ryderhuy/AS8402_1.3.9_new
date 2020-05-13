@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{E4CB6966-59A7-4074-809A-5166EB7F7D88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cognex.VS.Utility", "Cognex.VS.Utility\Cognex.VS.Utility.csproj", "{E66E1C42-7C9F-4D1A-8792-C0BCE9AA83C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cognex.VS.InspSensor", "Cognex.VS.InspSensor\Cognex.VS.InspSensor.csproj", "{967D76CC-FB1D-47AF-B3EB-51DB9AAE5D12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cognex.VS.Insight", "Cognex.VS.Insight\Cognex.VS.Insight.csproj", "{4D5C3CE8-9205-4593-90B8-1B8521BFEA26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageManager", "MessageManager\MessageManager.csproj", "{ACF080CA-DAD0-4E38-8BB0-21B57F52AA1E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{76EEF843-E8BF-4C1B-A263-91673DAC5689}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.pdb = .nuget\NuGet.pdb
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4CB6966-59A7-4074-809A-5166EB7F7D88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4CB6966-59A7-4074-809A-5166EB7F7D88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4CB6966-59A7-4074-809A-5166EB7F7D88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4CB6966-59A7-4074-809A-5166EB7F7D88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E66E1C42-7C9F-4D1A-8792-C0BCE9AA83C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66E1C42-7C9F-4D1A-8792-C0BCE9AA83C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66E1C42-7C9F-4D1A-8792-C0BCE9AA83C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66E1C42-7C9F-4D1A-8792-C0BCE9AA83C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{967D76CC-FB1D-47AF-B3EB-51DB9AAE5D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{967D76CC-FB1D-47AF-B3EB-51DB9AAE5D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{967D76CC-FB1D-47AF-B3EB-51DB9AAE5D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{967D76CC-FB1D-47AF-B3EB-51DB9AAE5D12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D5C3CE8-9205-4593-90B8-1B8521BFEA26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D5C3CE8-9205-4593-90B8-1B8521BFEA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D5C3CE8-9205-4593-90B8-1B8521BFEA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D5C3CE8-9205-4593-90B8-1B8521BFEA26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACF080CA-DAD0-4E38-8BB0-21B57F52AA1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF080CA-DAD0-4E38-8BB0-21B57F52AA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF080CA-DAD0-4E38-8BB0-21B57F52AA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF080CA-DAD0-4E38-8BB0-21B57F52AA1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E10B034F-3997-4A58-86EE-76D64CE80003}
+	EndGlobalSection
+EndGlobal

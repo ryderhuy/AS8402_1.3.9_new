@@ -1,0 +1,1707 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="RtAboutButton" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="RtAdministrator" xml:space="preserve">
+    <value>Administrator</value>
+  </data>
+  <data name="RtAlignmentPatmaxSorting" xml:space="preserve">
+    <value>Alignment.1.PatmaxSorting</value>
+  </data>
+  <data name="RtAlignTraySearchRegion1" xml:space="preserve">
+    <value>Align.Tray.SearchRegion_1</value>
+  </data>
+  <data name="RtAlignTraySearchRegion10" xml:space="preserve">
+    <value>Align.Tray.SearchRegion_10</value>
+  </data>
+  <data name="RtAlignTraySearchRegion11" xml:space="preserve">
+    <value>Align.Tray.SearchRegion_11</value>
+  </data>
+  <data name="RtAlignTraySearchRegion12" xml:space="preserve">
+    <value>Align.Tray.SearchRegion_12</value>
+  </data>
+  <data name="RtAlignTraySearchRegion13" xml:space="preserve">
+    <value>Align.Tray.SearchRegion_13</value>
+  </data>
+  <data name="RtAlignTraySearchRegion14" xml:space="preserve">
+    <value>Align.Tray.SearchRegion_14</value>
+  </data>
+  <data name="RtAlignTraySearchRegion15" xml:space="preserve">
+    <value>Align.Tray.SearchRegion_15</value>
+  </data>
+  <data name="RtAlignTraySearchRegion2" xml:space="preserve">
+    <value>Align.Tray.SearchRegion_2</value>
+  </data>
+  <data name="RtAlignTraySearchRegion3" xml:space="preserve">
+    <value>Align.Tray.SearchRegion_3</value>
+  </data>
+  <data name="RtAlignTraySearchRegion4" xml:space="preserve">
+    <value>Align.Tray.SearchRegion_4</value>
+  </data>
+  <data name="RtAlignTraySearchRegion5" xml:space="preserve">
+    <value>Align.Tray.SearchRegion_5</value>
+  </data>
+  <data name="RtAlignTraySearchRegion6" xml:space="preserve">
+    <value>Align.Tray.SearchRegion_6</value>
+  </data>
+  <data name="RtAlignTraySearchRegion7" xml:space="preserve">
+    <value>Align.Tray.SearchRegion_7</value>
+  </data>
+  <data name="RtAlignTraySearchRegion8" xml:space="preserve">
+    <value>Align.Tray.SearchRegion_8</value>
+  </data>
+  <data name="RtAlignTraySearchRegion9" xml:space="preserve">
+    <value>Align.Tray.SearchRegion_9</value>
+  </data>
+  <data name="RtCancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="RtConfirmPassword" xml:space="preserve">
+    <value>Confirm Password</value>
+  </data>
+  <data name="RtConnected" xml:space="preserve">
+    <value>Connected</value>
+  </data>
+  <data name="RtConnecting" xml:space="preserve">
+    <value>Connecting</value>
+  </data>
+  <data name="RtDisconnected" xml:space="preserve">
+    <value>Disconnect</value>
+  </data>
+  <data name="RtDisconnecting" xml:space="preserve">
+    <value>Disconnecting</value>
+  </data>
+  <data name="RtEnterPassword" xml:space="preserve">
+    <value>Enter {0} Password</value>
+  </data>
+  <data name="RtInspAcqExposure" xml:space="preserve">
+    <value>Inspection.1.AcqSettings.Exposure_1</value>
+  </data>
+  <data name="RtInspBlobBackgroundType" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.ColorBackground</value>
+  </data>
+  <data name="RtInspBlobContrastThreshold" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Threshold</value>
+  </data>
+  <data name="RtInspBlobDisplayEnable" xml:space="preserve">
+    <value>Inspection.1.PlotControl.BlobTrayInspection</value>
+  </data>
+  <data name="RtInspBlobEnable" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Enable</value>
+  </data>
+  <data name="RtInspBlobMaxNumber" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Maxblob</value>
+  </data>
+  <data name="RtInspBlobMaxSize" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.MaxArea</value>
+  </data>
+  <data name="RtInspBlobMinSize" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.MinArea</value>
+  </data>
+  <data name="RtInspBlobPanelBackgroundType" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.ColorBackground</value>
+  </data>
+  <data name="RtInspBlobPanelContrastThreshold" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.Threshold</value>
+  </data>
+  <data name="RtInspBlobPanelDisplayEnable" xml:space="preserve">
+    <value>Inspection.1.PlotControl.BlobPanelInspection</value>
+  </data>
+  <data name="RtInspBlobPanelEnable" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.Enable</value>
+  </data>
+  <data name="RtInspBlobPanelMaxNumber" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.Maxblob</value>
+  </data>
+  <data name="RtInspBlobPanelMaxSize" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.MaxArea</value>
+  </data>
+  <data name="RtInspBlobPanelMinSize" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.MinArea</value>
+  </data>
+  <data name="RtInspBlobPanelSearchRegionF_Region1" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.FW.SearchRegion_1</value>
+  </data>
+  <data name="RtInspBlobPanelSearchRegionF_Region10" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.FW.SearchRegion_10</value>
+  </data>
+  <data name="RtInspBlobPanelSearchRegionF_Region2" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.FW.SearchRegion_2</value>
+  </data>
+  <data name="RtInspBlobPanelSearchRegionF_Region3" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.FW.SearchRegion_3</value>
+  </data>
+  <data name="RtInspBlobPanelSearchRegionF_Region4" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.FW.SearchRegion_4</value>
+  </data>
+  <data name="RtInspBlobPanelSearchRegionF_Region5" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.FW.SearchRegion_5</value>
+  </data>
+  <data name="RtInspBlobPanelSearchRegionF_Region6" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.FW.SearchRegion_6</value>
+  </data>
+  <data name="RtInspBlobPanelSearchRegionF_Region7" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.FW.SearchRegion_7</value>
+  </data>
+  <data name="RtInspBlobPanelSearchRegionF_Region8" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.FW.SearchRegion_8</value>
+  </data>
+  <data name="RtInspBlobPanelSearchRegionF_Region9" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.FW.SearchRegion_9</value>
+  </data>
+  <data name="RtInspBlobPanelSearchRegionR_Region1" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.RV.SearchRegion_1</value>
+  </data>
+  <data name="RtInspBlobPanelSearchRegionR_Region10" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.RV.SearchRegion_10</value>
+  </data>
+  <data name="RtInspBlobPanelSearchRegionR_Region2" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.RV.SearchRegion_2</value>
+  </data>
+  <data name="RtInspBlobPanelSearchRegionR_Region3" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.RV.SearchRegion_3</value>
+  </data>
+  <data name="RtInspBlobPanelSearchRegionR_Region4" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.RV.SearchRegion_4</value>
+  </data>
+  <data name="RtInspBlobPanelSearchRegionR_Region5" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.RV.SearchRegion_5</value>
+  </data>
+  <data name="RtInspBlobPanelSearchRegionR_Region6" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.RV.SearchRegion_6</value>
+  </data>
+  <data name="RtInspBlobPanelSearchRegionR_Region7" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.RV.SearchRegion_7</value>
+  </data>
+  <data name="RtInspBlobPanelSearchRegionR_Region8" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.RV.SearchRegion_8</value>
+  </data>
+  <data name="RtInspBlobPanelSearchRegionR_Region9" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.RV.SearchRegion_9</value>
+  </data>
+  <data name="RtInspBlobPanelShowGraphicF" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.FW.Showgraphic</value>
+  </data>
+  <data name="RtInspBlobPanelShowGraphicR" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.RV.Showgraphic</value>
+  </data>
+  <data name="RtInspBlobPanelType" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.Panel.ColorBlob</value>
+  </data>
+  <data name="RtInspBlobSearchRegionF" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.FW.SearchRegion</value>
+  </data>
+  <data name="RtInspBlobSearchRegionR" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.RV.SearchRegion</value>
+  </data>
+  <data name="RtInspBlobShowGraphicF" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.FW.Showgraphic</value>
+  </data>
+  <data name="RtInspBlobShowGraphicR" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.RV.Showgraphic</value>
+  </data>
+  <data name="RtInspBlobType" xml:space="preserve">
+    <value>Inspection.1.BlobInspection.ColorBlob</value>
+  </data>
+  <data name="RtInspConveyorDisplayEnable" xml:space="preserve">
+    <value>Inspection.1.PlotControl.ConveyorInspection</value>
+  </data>
+  <data name="RtInspConveyorSortType" xml:space="preserve">
+    <value>OnToolDone.1.ConveyorSorting</value>
+  </data>
+  <data name="RtInspPanelAlignDisplayEnable" xml:space="preserve">
+    <value>Inspection.1.PlotControl.PanelAlign</value>
+  </data>
+  <data name="RtInspPanelAlignF" xml:space="preserve">
+    <value>Inspection.1.Panelnspection.FW.AlignEnable</value>
+  </data>
+  <data name="RtInspPanelAlignR" xml:space="preserve">
+    <value>Inspection.1.Panelnspection.RV.AlignEnable</value>
+  </data>
+  <data name="RtInspPanelAngleRangeF" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.AngleRange</value>
+  </data>
+  <data name="RtInspPanelAngleRangeR" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.AngleRange</value>
+  </data>
+  <data name="RtInspPanelContrastThresholdF" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.ContrastThreshold</value>
+  </data>
+  <data name="RtInspPanelContrastThresholdR" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.ContrastThreshold</value>
+  </data>
+  <data name="RtInspPanelDisplayEnable" xml:space="preserve">
+    <value>Inspection.1.PlotControl.PanelInspection</value>
+  </data>
+  <data name="RtInspPanelEnableF" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.Enable</value>
+  </data>
+  <data name="RtInspPanelEnableR" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.Enable</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaTheta_Region1" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitTheta_1</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaTheta_Region10" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitTheta_10</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaTheta_Region2" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitTheta_2</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaTheta_Region3" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitTheta_3</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaTheta_Region4" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitTheta_4</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaTheta_Region5" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitTheta_5</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaTheta_Region6" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitTheta_6</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaTheta_Region7" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitTheta_7</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaTheta_Region8" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitTheta_8</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaTheta_Region9" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitTheta_9</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaX_Region1" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitX_1</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaX_Region10" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitX_10</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaX_Region2" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitX_2</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaX_Region3" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitX_3</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaX_Region4" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitX_4</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaX_Region5" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitX_5</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaX_Region6" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitX_6</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaX_Region7" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitX_7</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaX_Region8" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitX_8</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaX_Region9" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitX_9</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaY_Region1" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitY_1</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaY_Region10" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitY_10</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaY_Region2" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitY_2</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaY_Region3" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitY_3</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaY_Region4" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitY_4</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaY_Region5" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitY_5</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaY_Region6" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitY_6</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaY_Region7" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitY_7</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaY_Region8" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitY_8</value>
+  </data>
+  <data name="RtInspPanelMaxDeltaY_Region9" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.LimitY_9</value>
+  </data>
+  <data name="RtInspPanelNumber" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.NumofPanel</value>
+  </data>
+  <data name="RtInspPanelScoreThresholdF_Region1" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.Threshold_1</value>
+  </data>
+  <data name="RtInspPanelScoreThresholdF_Region10" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.Threshold_10</value>
+  </data>
+  <data name="RtInspPanelScoreThresholdF_Region2" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.Threshold_2</value>
+  </data>
+  <data name="RtInspPanelScoreThresholdF_Region3" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.Threshold_3</value>
+  </data>
+  <data name="RtInspPanelScoreThresholdF_Region4" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.Threshold_4</value>
+  </data>
+  <data name="RtInspPanelScoreThresholdF_Region5" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.Threshold_5</value>
+  </data>
+  <data name="RtInspPanelScoreThresholdF_Region6" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.Threshold_6</value>
+  </data>
+  <data name="RtInspPanelScoreThresholdF_Region7" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.Threshold_7</value>
+  </data>
+  <data name="RtInspPanelScoreThresholdF_Region8" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.Threshold_8</value>
+  </data>
+  <data name="RtInspPanelScoreThresholdF_Region9" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.Threshold_9</value>
+  </data>
+  <data name="RtInspPanelScoreThresholdR_Region1" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.Threshold_1</value>
+  </data>
+  <data name="RtInspPanelScoreThresholdR_Region10" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.Threshold_10</value>
+  </data>
+  <data name="RtInspPanelScoreThresholdR_Region2" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.Threshold_2</value>
+  </data>
+  <data name="RtInspPanelScoreThresholdR_Region3" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.Threshold_3</value>
+  </data>
+  <data name="RtInspPanelScoreThresholdR_Region4" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.Threshold_4</value>
+  </data>
+  <data name="RtInspPanelScoreThresholdR_Region5" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.Threshold_5</value>
+  </data>
+  <data name="RtInspPanelScoreThresholdR_Region6" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.Threshold_6</value>
+  </data>
+  <data name="RtInspPanelScoreThresholdR_Region7" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.Threshold_7</value>
+  </data>
+  <data name="RtInspPanelScoreThresholdR_Region8" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.Threshold_8</value>
+  </data>
+  <data name="RtInspPanelScoreThresholdR_Region9" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.Threshold_9</value>
+  </data>
+  <data name="RtInspPanelSearchRegion" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.SearchRegion</value>
+  </data>
+  <data name="RtInspPanelSearchRegionF_Region1" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.SearchRegion_1</value>
+  </data>
+  <data name="RtInspPanelSearchRegionF_Region10" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.SearchRegion_10</value>
+  </data>
+  <data name="RtInspPanelSearchRegionF_Region2" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.SearchRegion_2</value>
+  </data>
+  <data name="RtInspPanelSearchRegionF_Region3" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.SearchRegion_3</value>
+  </data>
+  <data name="RtInspPanelSearchRegionF_Region4" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.SearchRegion_4</value>
+  </data>
+  <data name="RtInspPanelSearchRegionF_Region5" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.SearchRegion_5</value>
+  </data>
+  <data name="RtInspPanelSearchRegionF_Region6" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.SearchRegion_6</value>
+  </data>
+  <data name="RtInspPanelSearchRegionF_Region7" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.SearchRegion_7</value>
+  </data>
+  <data name="RtInspPanelSearchRegionF_Region8" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.SearchRegion_8</value>
+  </data>
+  <data name="RtInspPanelSearchRegionF_Region9" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.SearchRegion_9</value>
+  </data>
+  <data name="RtInspPanelSearchRegionR_Region1" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.SearchRegion_1</value>
+  </data>
+  <data name="RtInspPanelSearchRegionR_Region10" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.SearchRegion_10</value>
+  </data>
+  <data name="RtInspPanelSearchRegionR_Region2" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.SearchRegion_2</value>
+  </data>
+  <data name="RtInspPanelSearchRegionR_Region3" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.SearchRegion_3</value>
+  </data>
+  <data name="RtInspPanelSearchRegionR_Region4" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.SearchRegion_4</value>
+  </data>
+  <data name="RtInspPanelSearchRegionR_Region5" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.SearchRegion_5</value>
+  </data>
+  <data name="RtInspPanelSearchRegionR_Region6" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.SearchRegion_6</value>
+  </data>
+  <data name="RtInspPanelSearchRegionR_Region7" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.SearchRegion_7</value>
+  </data>
+  <data name="RtInspPanelSearchRegionR_Region8" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.SearchRegion_8</value>
+  </data>
+  <data name="RtInspPanelSearchRegionR_Region9" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.SearchRegion_9</value>
+  </data>
+  <data name="RtInspPanelSearchRegion_1" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.SearchRegion_1</value>
+  </data>
+  <data name="RtInspPanelSearchRegion_2" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.SearchRegion_2</value>
+  </data>
+  <data name="RtInspPanelSearchRegion_3" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.SearchRegion_3</value>
+  </data>
+  <data name="RtInspPanelSearchRegion_4" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.SearchRegion_4</value>
+  </data>
+  <data name="RtInspPanelSearchRegion_5" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.SearchRegion_5</value>
+  </data>
+  <data name="RtInspPanelSearchRegion_6" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.SearchRegion_6</value>
+  </data>
+  <data name="RtInspPanelShowgraphic" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Showgraphic</value>
+  </data>
+  <data name="RtInspPanelShowgraphicF" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.Showgraphic</value>
+  </data>
+  <data name="RtInspPanelShowgraphicR" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.Showgraphic</value>
+  </data>
+  <data name="RtInspPanelThreshold" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.AcceptThreshold</value>
+  </data>
+  <data name="RtInspPanelTrainButton" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.TrainButton</value>
+  </data>
+  <data name="RtInspPanelTrainButtonF" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.TrainButton</value>
+  </data>
+  <data name="RtInspPanelTrainButtonR" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.TrainButton</value>
+  </data>
+  <data name="RtInspPanelTrainGoldenButtonF" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.TrainGoldenPos</value>
+  </data>
+  <data name="RtInspPanelTrainGoldenButtonR" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.TrainGoldenPos</value>
+  </data>
+  <data name="RtInspPanelTrainRegion" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.TrainRegion</value>
+  </data>
+  <data name="RtInspPanelTrainRegionF" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.FW.TrainRegion</value>
+  </data>
+  <data name="RtInspPanelTrainRegionR" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.RV.TrainRegion</value>
+  </data>
+  <data name="RtInspPanelVisCountThresh" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.CountThresh</value>
+  </data>
+  <data name="RtInspPanelVisCountThresh_Region1" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.CountThresh_1</value>
+  </data>
+  <data name="RtInspPanelVisCountThresh_Region10" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.CountThresh_10</value>
+  </data>
+  <data name="RtInspPanelVisCountThresh_Region2" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.CountThresh_2</value>
+  </data>
+  <data name="RtInspPanelVisCountThresh_Region3" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.CountThresh_3</value>
+  </data>
+  <data name="RtInspPanelVisCountThresh_Region4" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.CountThresh_4</value>
+  </data>
+  <data name="RtInspPanelVisCountThresh_Region5" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.CountThresh_5</value>
+  </data>
+  <data name="RtInspPanelVisCountThresh_Region6" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.CountThresh_6</value>
+  </data>
+  <data name="RtInspPanelVisCountThresh_Region7" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.CountThresh_7</value>
+  </data>
+  <data name="RtInspPanelVisCountThresh_Region8" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.CountThresh_8</value>
+  </data>
+  <data name="RtInspPanelVisCountThresh_Region9" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.CountThresh_9</value>
+  </data>
+  <data name="RtInspPanelVisFirstBin" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FirstBin</value>
+  </data>
+  <data name="RtInspPanelVisFirstBin_Region1" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FirstBin_1</value>
+  </data>
+  <data name="RtInspPanelVisFirstBin_Region10" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FirstBin_10</value>
+  </data>
+  <data name="RtInspPanelVisFirstBin_Region2" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FirstBin_2</value>
+  </data>
+  <data name="RtInspPanelVisFirstBin_Region3" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FirstBin_3</value>
+  </data>
+  <data name="RtInspPanelVisFirstBin_Region4" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FirstBin_4</value>
+  </data>
+  <data name="RtInspPanelVisFirstBin_Region5" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FirstBin_5</value>
+  </data>
+  <data name="RtInspPanelVisFirstBin_Region6" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FirstBin_6</value>
+  </data>
+  <data name="RtInspPanelVisFirstBin_Region7" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FirstBin_7</value>
+  </data>
+  <data name="RtInspPanelVisFirstBin_Region8" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FirstBin_8</value>
+  </data>
+  <data name="RtInspPanelVisFirstBin_Region9" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FirstBin_9</value>
+  </data>
+  <data name="RtInspPanelVisForward_Showgraphic" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FW.ShowGraphic</value>
+  </data>
+  <data name="RtInspPanelVisLastBin" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.LastBin</value>
+  </data>
+  <data name="RtInspPanelVisLastBin_Region1" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.LastBin_1</value>
+  </data>
+  <data name="RtInspPanelVisLastBin_Region10" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.LastBin_10</value>
+  </data>
+  <data name="RtInspPanelVisLastBin_Region2" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.LastBin_2</value>
+  </data>
+  <data name="RtInspPanelVisLastBin_Region3" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.LastBin_3</value>
+  </data>
+  <data name="RtInspPanelVisLastBin_Region4" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.LastBin_4</value>
+  </data>
+  <data name="RtInspPanelVisLastBin_Region5" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.LastBin_5</value>
+  </data>
+  <data name="RtInspPanelVisLastBin_Region6" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.LastBin_6</value>
+  </data>
+  <data name="RtInspPanelVisLastBin_Region7" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.LastBin_7</value>
+  </data>
+  <data name="RtInspPanelVisLastBin_Region8" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.LastBin_8</value>
+  </data>
+  <data name="RtInspPanelVisLastBin_Region9" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.LastBin_9</value>
+  </data>
+  <data name="RtInspPanelVisMeanThresh" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.MeanThresh</value>
+  </data>
+  <data name="RtInspPanelVisMeanThresh_Region1" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.MeanThresh_1</value>
+  </data>
+  <data name="RtInspPanelVisMeanThresh_Region10" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.MeanThresh_10</value>
+  </data>
+  <data name="RtInspPanelVisMeanThresh_Region2" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.MeanThresh_2</value>
+  </data>
+  <data name="RtInspPanelVisMeanThresh_Region3" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.MeanThresh_3</value>
+  </data>
+  <data name="RtInspPanelVisMeanThresh_Region4" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.MeanThresh_4</value>
+  </data>
+  <data name="RtInspPanelVisMeanThresh_Region5" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.MeanThresh_5</value>
+  </data>
+  <data name="RtInspPanelVisMeanThresh_Region6" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.MeanThresh_6</value>
+  </data>
+  <data name="RtInspPanelVisMeanThresh_Region7" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.MeanThresh_7</value>
+  </data>
+  <data name="RtInspPanelVisMeanThresh_Region8" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.MeanThresh_8</value>
+  </data>
+  <data name="RtInspPanelVisMeanThresh_Region9" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.MeanThresh_9</value>
+  </data>
+  <data name="RtInspPanelVisReverse_Showgraphic" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.RV.ShowGraphic</value>
+  </data>
+  <data name="RtInspResultGraphicDisplayEnable" xml:space="preserve">
+    <value>Inspection.1.PlotControl.ResultGraphic</value>
+  </data>
+  <data name="RtInspTrayAcceptThreshold" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.AcceptThreshold</value>
+  </data>
+  <data name="RtInspTrayAlignF" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.FW.AlignEnable</value>
+  </data>
+  <data name="RtInspTrayAlignR" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.RV.AlignEnable</value>
+  </data>
+  <data name="RtInspTrayAngleRangeF" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.FW.AngleRange</value>
+  </data>
+  <data name="RtInspTrayAngleRangeR" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.RV.AngleRange</value>
+  </data>
+  <data name="RtInspTrayContrastThresholdF" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.FW.ContrastThreshold</value>
+  </data>
+  <data name="RtInspTrayContrastThresholdR" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.RV.ContrastThreshold</value>
+  </data>
+  <data name="RtInspTrayDisplayEnable" xml:space="preserve">
+    <value>Inspection.1.PlotControl.TrayInspection</value>
+  </data>
+  <data name="RtInspTrayEnableF" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.FW.Enable</value>
+  </data>
+  <data name="RtInspTrayEnableR" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.RV.Enable</value>
+  </data>
+  <data name="RtInspTrayFirstTimeExposure" xml:space="preserve">
+    <value>Inspection.2.TrayInspection.Exposure</value>
+  </data>
+  <data name="RtInspTrayScoreThresholdF" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.FW.ScoreThreshold</value>
+  </data>
+  <data name="RtInspTrayScoreThresholdR" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.RV.ScoreThreshold</value>
+  </data>
+  <data name="RtInspTraySearchRegion" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.SearchRegion</value>
+  </data>
+  <data name="RtInspTraySearchRegionF" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.FW.SearchRegion</value>
+  </data>
+  <data name="RtInspTraySearchRegionR" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.RV.SearchRegion</value>
+  </data>
+  <data name="RtInspTrayShowgraphicF" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.FW.Showgraphic</value>
+  </data>
+  <data name="RtInspTrayShowgraphicR" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.RV.Showgraphic</value>
+  </data>
+  <data name="RtInspTrayTrainButton" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.TrainButton</value>
+  </data>
+  <data name="RtInspTrayTrainButtonF" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.FW.TrainButton</value>
+  </data>
+  <data name="RtInspTrayTrainButtonR" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.RV.TrainButton</value>
+  </data>
+  <data name="RtInspTrayTrainGoldenButtonF" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.FW.TrainGoldenPos</value>
+  </data>
+  <data name="RtInspTrayTrainGoldenButtonR" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.RV.TrainGoldenPos</value>
+  </data>
+  <data name="RtInspTrayTrainRegion" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.TrainRegion</value>
+  </data>
+  <data name="RtInspTrayTrainRegionF" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.FW.TrainRegion</value>
+  </data>
+  <data name="RtInspTrayTrainRegionR" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.RV.TrainRegion</value>
+  </data>
+  <data name="RtInspVisCheckRegionForward_Region1" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FW.SearchRegion_1</value>
+  </data>
+  <data name="RtInspVisCheckRegionForward_Region10" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FW.SearchRegion_10</value>
+  </data>
+  <data name="RtInspVisCheckRegionForward_Region2" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FW.SearchRegion_2</value>
+  </data>
+  <data name="RtInspVisCheckRegionForward_Region3" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FW.SearchRegion_3</value>
+  </data>
+  <data name="RtInspVisCheckRegionForward_Region4" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FW.SearchRegion_4</value>
+  </data>
+  <data name="RtInspVisCheckRegionForward_Region5" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FW.SearchRegion_5</value>
+  </data>
+  <data name="RtInspVisCheckRegionForward_Region6" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FW.SearchRegion_6</value>
+  </data>
+  <data name="RtInspVisCheckRegionForward_Region7" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FW.SearchRegion_7</value>
+  </data>
+  <data name="RtInspVisCheckRegionForward_Region8" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FW.SearchRegion_8</value>
+  </data>
+  <data name="RtInspVisCheckRegionForward_Region9" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FW.SearchRegion_9</value>
+  </data>
+  <data name="RtInspVisCheckRegionReverse_Region1" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.RV.SearchRegion_1</value>
+  </data>
+  <data name="RtInspVisCheckRegionReverse_Region10" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.RV.SearchRegion_10</value>
+  </data>
+  <data name="RtInspVisCheckRegionReverse_Region2" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.RV.SearchRegion_2</value>
+  </data>
+  <data name="RtInspVisCheckRegionReverse_Region3" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.RV.SearchRegion_3</value>
+  </data>
+  <data name="RtInspVisCheckRegionReverse_Region4" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.RV.SearchRegion_4</value>
+  </data>
+  <data name="RtInspVisCheckRegionReverse_Region5" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.RV.SearchRegion_5</value>
+  </data>
+  <data name="RtInspVisCheckRegionReverse_Region6" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.RV.SearchRegion_6</value>
+  </data>
+  <data name="RtInspVisCheckRegionReverse_Region7" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.RV.SearchRegion_7</value>
+  </data>
+  <data name="RtInspVisCheckRegionReverse_Region8" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.RV.SearchRegion_8</value>
+  </data>
+  <data name="RtInspVisCheckRegionReverse_Region9" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.RV.SearchRegion_9</value>
+  </data>
+  <data name="RtInspVisEnable" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.Enable</value>
+  </data>
+  <data name="RtIntrinsicExport" xml:space="preserve">
+    <value>IntrinsicCalibration.Export</value>
+  </data>
+  <data name="RtIntrinsicImport" xml:space="preserve">
+    <value>IntrinsicCalibration.Import</value>
+  </data>
+  <data name="RtIntrisicExecute" xml:space="preserve">
+    <value>IntrinsicCalibration.DoCalibration</value>
+  </data>
+  <data name="RtIntrisicMaximizeRegion" xml:space="preserve">
+    <value>IntrinsicCalibration.MaximizeRegion</value>
+  </data>
+  <data name="RtIntrisicShowGraphic" xml:space="preserve">
+    <value>IntrinsicCalibration.ShowGraphic</value>
+  </data>
+  <data name="RtIntrisicSizeX" xml:space="preserve">
+    <value>IntrinsicCalibration.GridSpacingX</value>
+  </data>
+  <data name="RtIntrisicSizeY" xml:space="preserve">
+    <value>IntrinsicCalibration.GridSpacingY</value>
+  </data>
+  <data name="RtIntrisicTrainRegion" xml:space="preserve">
+    <value>IntrinsicCalibration.Region</value>
+  </data>
+  <data name="RtIntrisicUnit" xml:space="preserve">
+    <value>IntrinsicCalibration.GridSpacingUnits</value>
+  </data>
+  <data name="RtInvalidPassword" xml:space="preserve">
+    <value>Invalid password</value>
+  </data>
+  <data name="RtInvalidPassword2" xml:space="preserve">
+    <value>The password entered is incorrect.</value>
+  </data>
+  <data name="RtInvalidPasswordFile" xml:space="preserve">
+    <value>Invalid password file {0}</value>
+  </data>
+  <data name="RtJobName" xml:space="preserve">
+    <value>Internal.Recipe.FullJobName</value>
+  </data>
+  <data name="RtLiveImageToolTip" xml:space="preserve">
+    <value>Live Image</value>
+  </data>
+  <data name="RtLoginToolTip" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="RtManualTrigger" xml:space="preserve">
+    <value>Manual Trigger</value>
+  </data>
+  <data name="RtNA" xml:space="preserve">
+    <value>No Sensor found!/</value>
+  </data>
+  <data name="RtOK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="RtOnline" xml:space="preserve">
+    <value>Online</value>
+  </data>
+  <data name="RtOperator" xml:space="preserve">
+    <value>Operator</value>
+  </data>
+  <data name="RtPassword" xml:space="preserve">
+    <value>Password:</value>
+  </data>
+  <data name="RtRotationClockwise" xml:space="preserve">
+    <value>Rotation Clockwise</value>
+  </data>
+  <data name="RtRotationCounterClockwise" xml:space="preserve">
+    <value>Rotation CounterClockwise</value>
+  </data>
+  <data name="RtSaveImageToolTip" xml:space="preserve">
+    <value>Save Image </value>
+  </data>
+  <data name="RtSetPasswordsTitle" xml:space="preserve">
+    <value>Set Passwords</value>
+  </data>
+  <data name="RtShowSpreadsheet" xml:space="preserve">
+    <value>Show Spread Sheet</value>
+  </data>
+  <data name="RtSupervisor" xml:space="preserve">
+    <value>Supervisor</value>
+  </data>
+  <data name="RtZoomFitToolTip" xml:space="preserve">
+    <value>Fit Image</value>
+  </data>
+  <data name="RtZoomInToolTip" xml:space="preserve">
+    <value>Zoom in Image</value>
+  </data>
+  <data name="RtZoomOutToolTip" xml:space="preserve">
+    <value>Zoom out Image</value>
+  </data>
+  <data name="RtAlignTrayAngleRange" xml:space="preserve">
+    <value>Align.Tray.AngleRange</value>
+  </data>
+  <data name="RtAlignTrayContrastThresh" xml:space="preserve">
+    <value>Align.Tray.Contrast</value>
+  </data>
+  <data name="RtAlignTrayGraphic" xml:space="preserve">
+    <value>Align.Tray.Graphic</value>
+  </data>
+  <data name="RtAlignTrayScoreThresh" xml:space="preserve">
+    <value>Align.Tray.Score</value>
+  </data>
+  <data name="RtInspVisCheckRegionForward_Region11" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FW.SearchRegion_11</value>
+  </data>
+  <data name="RtInspVisCheckRegionForward_Region12" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FW.SearchRegion_12</value>
+  </data>
+  <data name="RtInspVisCheckRegionForward_Region13" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FW.SearchRegion_13</value>
+  </data>
+  <data name="RtInspVisCheckRegionForward_Region14" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FW.SearchRegion_14</value>
+  </data>
+  <data name="RtInspVisCheckRegionForward_Region15" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FW.SearchRegion_15</value>
+  </data>
+  <data name="RtInspVisCheckRegionReverse_Region11" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.RV.SearchRegion_11</value>
+  </data>
+  <data name="RtInspVisCheckRegionReverse_Region12" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.RV.SearchRegion_12</value>
+  </data>
+  <data name="RtInspVisCheckRegionReverse_Region13" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.RV.SearchRegion_13</value>
+  </data>
+  <data name="RtInspVisCheckRegionReverse_Region14" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.RV.SearchRegion_14</value>
+  </data>
+  <data name="RtInspVisCheckRegionReverse_Region15" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.RV.SearchRegion_15</value>
+  </data>
+  <data name="RtInspPanelVisCountThresh_Region11" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.CountThresh_11</value>
+  </data>
+  <data name="RtInspPanelVisCountThresh_Region12" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.CountThresh_12</value>
+  </data>
+  <data name="RtInspPanelVisCountThresh_Region13" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.CountThresh_13</value>
+  </data>
+  <data name="RtInspPanelVisCountThresh_Region14" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.CountThresh_14</value>
+  </data>
+  <data name="RtInspPanelVisCountThresh_Region15" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.CountThresh_15</value>
+  </data>
+  <data name="RtInspPanelVisFirstBin_Region11" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FirstBin_11</value>
+  </data>
+  <data name="RtInspPanelVisFirstBin_Region12" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FirstBin_12</value>
+  </data>
+  <data name="RtInspPanelVisFirstBin_Region13" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FirstBin_13</value>
+  </data>
+  <data name="RtInspPanelVisFirstBin_Region14" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FirstBin_14</value>
+  </data>
+  <data name="RtInspPanelVisFirstBin_Region15" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.FirstBin_15</value>
+  </data>
+  <data name="RtInspPanelVisLastBin_Region11" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.LastBin_11</value>
+  </data>
+  <data name="RtInspPanelVisLastBin_Region12" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.LastBin_12</value>
+  </data>
+  <data name="RtInspPanelVisLastBin_Region13" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.LastBin_13</value>
+  </data>
+  <data name="RtInspPanelVisLastBin_Region14" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.LastBin_14</value>
+  </data>
+  <data name="RtInspPanelVisLastBin_Region15" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.LastBin_15</value>
+  </data>
+  <data name="RtInspPanelVisMeanThresh_Region11" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.MeanThresh_11</value>
+  </data>
+  <data name="RtInspPanelVisMeanThresh_Region12" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.MeanThresh_12</value>
+  </data>
+  <data name="RtInspPanelVisMeanThresh_Region13" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.MeanThresh_13</value>
+  </data>
+  <data name="RtInspPanelVisMeanThresh_Region14" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.MeanThresh_14</value>
+  </data>
+  <data name="RtInspPanelVisMeanThresh_Region15" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Hist.MeanThresh_15</value>
+  </data>
+  <data name="RtInspPaneDirectionEnable" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.PanelDirection</value>
+  </data>
+  <data name="RtAlignTrayEnable" xml:space="preserve">
+    <value>Align.Tray.Enable</value>
+  </data>
+  <data name="RtAlignTrayNumofPocket" xml:space="preserve">
+    <value>Align.Tray.NumofPocket</value>
+  </data>
+  <data name="RtPLCAddress" xml:space="preserve">
+    <value>MC.PLC.Address</value>
+  </data>
+  <data name="RtPLCOutput" xml:space="preserve">
+    <value>MC.PLC.OutputRegister</value>
+  </data>
+  <data name="RtPLCPort" xml:space="preserve">
+    <value>MC.PLC.Port</value>
+  </data>
+  <data name="RtInspectionTeachingMode" xml:space="preserve">
+    <value>Inspection.TeachingMode</value>
+  </data>
+  <data name="Log_1" xml:space="preserve">
+    <value>Logging.Message_1</value>
+  </data>
+  <data name="RtAlignTrayXTTEnable" xml:space="preserve">
+    <value>Align.Tray.XTTEnable</value>
+  </data>
+  <data name="RtInspConveyorEnableCopyPose" xml:space="preserve">
+    <value>OnToolDone.1.EnableCopyPose</value>
+  </data>
+  <data name="RtInspLineCheckRegionForward_Region1" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.FW.SearchRegion_1</value>
+  </data>
+  <data name="RtInspLineCheckRegionForward_Region10" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.FW.SearchRegion_10</value>
+  </data>
+  <data name="RtInspLineCheckRegionForward_Region2" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.FW.SearchRegion_2</value>
+  </data>
+  <data name="RtInspLineCheckRegionForward_Region3" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.FW.SearchRegion_3</value>
+  </data>
+  <data name="RtInspLineCheckRegionForward_Region4" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.FW.SearchRegion_4</value>
+  </data>
+  <data name="RtInspLineCheckRegionForward_Region5" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.FW.SearchRegion_5</value>
+  </data>
+  <data name="RtInspLineCheckRegionForward_Region6" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.FW.SearchRegion_6</value>
+  </data>
+  <data name="RtInspLineCheckRegionForward_Region7" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.FW.SearchRegion_7</value>
+  </data>
+  <data name="RtInspLineCheckRegionForward_Region8" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.FW.SearchRegion_8</value>
+  </data>
+  <data name="RtInspLineCheckRegionForward_Region9" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.FW.SearchRegion_9</value>
+  </data>
+  <data name="RtInspLineCheckRegionReverse_Region1" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.RV.SearchRegion_1</value>
+  </data>
+  <data name="RtInspLineCheckRegionReverse_Region10" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.RV.SearchRegion_10</value>
+  </data>
+  <data name="RtInspLineCheckRegionReverse_Region2" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.RV.SearchRegion_2</value>
+  </data>
+  <data name="RtInspLineCheckRegionReverse_Region3" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.RV.SearchRegion_3</value>
+  </data>
+  <data name="RtInspLineCheckRegionReverse_Region4" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.RV.SearchRegion_4</value>
+  </data>
+  <data name="RtInspLineCheckRegionReverse_Region5" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.RV.SearchRegion_5</value>
+  </data>
+  <data name="RtInspLineCheckRegionReverse_Region6" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.RV.SearchRegion_6</value>
+  </data>
+  <data name="RtInspLineCheckRegionReverse_Region7" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.RV.SearchRegion_7</value>
+  </data>
+  <data name="RtInspLineCheckRegionReverse_Region8" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.RV.SearchRegion_8</value>
+  </data>
+  <data name="RtInspLineCheckRegionReverse_Region9" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.RV.SearchRegion_9</value>
+  </data>
+  <data name="RtInspPanelCheckShiftedType" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.CheckShiftedType</value>
+  </data>
+  <data name="RtInspPanelLineEnable" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Enable</value>
+  </data>
+  <data name="RtInspPanelLineFindType" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.FindType</value>
+  </data>
+  <data name="RtInspPanelLineLimit_Region1" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.DeltaLimit_1</value>
+  </data>
+  <data name="RtInspPanelLineLimit_Region10" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.DeltaLimit_10</value>
+  </data>
+  <data name="RtInspPanelLineLimit_Region2" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.DeltaLimit_2</value>
+  </data>
+  <data name="RtInspPanelLineLimit_Region3" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.DeltaLimit_3</value>
+  </data>
+  <data name="RtInspPanelLineLimit_Region4" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.DeltaLimit_4</value>
+  </data>
+  <data name="RtInspPanelLineLimit_Region5" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.DeltaLimit_5</value>
+  </data>
+  <data name="RtInspPanelLineLimit_Region6" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.DeltaLimit_6</value>
+  </data>
+  <data name="RtInspPanelLineLimit_Region7" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.DeltaLimit_7</value>
+  </data>
+  <data name="RtInspPanelLineLimit_Region8" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.DeltaLimit_8</value>
+  </data>
+  <data name="RtInspPanelLineLimit_Region9" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.DeltaLimit_9</value>
+  </data>
+  <data name="RtInspPanelLinePolarity" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Polarity</value>
+  </data>
+  <data name="RtInspPanelLineShowGraphic" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.ShowGraphic</value>
+  </data>
+  <data name="RtInspPanelLineThresh_Region1" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Threshold_1</value>
+  </data>
+  <data name="RtInspPanelLineThresh_Region10" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Threshold_10</value>
+  </data>
+  <data name="RtInspPanelLineThresh_Region2" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Threshold_2</value>
+  </data>
+  <data name="RtInspPanelLineThresh_Region3" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Threshold_3</value>
+  </data>
+  <data name="RtInspPanelLineThresh_Region4" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Threshold_4</value>
+  </data>
+  <data name="RtInspPanelLineThresh_Region5" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Threshold_5</value>
+  </data>
+  <data name="RtInspPanelLineThresh_Region6" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Threshold_6</value>
+  </data>
+  <data name="RtInspPanelLineThresh_Region7" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Threshold_7</value>
+  </data>
+  <data name="RtInspPanelLineThresh_Region8" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Threshold_8</value>
+  </data>
+  <data name="RtInspPanelLineThresh_Region9" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Threshold_9</value>
+  </data>
+  <data name="RtInspPanelLineTrainGolden_Reverse" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.RV.TrainGolden</value>
+  </data>
+  <data name="RtInspPanelLineTrainGolden_Forward" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.FW.TrainGolden</value>
+  </data>
+  <data name="RtInspLineCheckRegionOrgForward_Region1" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.FW.SearchRegion_1</value>
+  </data>
+  <data name="RtInspLineCheckRegionOrgForward_Region10" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.FW.SearchRegion_10</value>
+  </data>
+  <data name="RtInspLineCheckRegionOrgForward_Region2" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.FW.SearchRegion_2</value>
+  </data>
+  <data name="RtInspLineCheckRegionOrgForward_Region3" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.FW.SearchRegion_3</value>
+  </data>
+  <data name="RtInspLineCheckRegionOrgForward_Region4" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.FW.SearchRegion_4</value>
+  </data>
+  <data name="RtInspLineCheckRegionOrgForward_Region5" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.FW.SearchRegion_5</value>
+  </data>
+  <data name="RtInspLineCheckRegionOrgForward_Region6" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.FW.SearchRegion_6</value>
+  </data>
+  <data name="RtInspLineCheckRegionOrgForward_Region7" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.FW.SearchRegion_7</value>
+  </data>
+  <data name="RtInspLineCheckRegionOrgForward_Region8" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.FW.SearchRegion_8</value>
+  </data>
+  <data name="RtInspLineCheckRegionOrgForward_Region9" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.FW.SearchRegion_9</value>
+  </data>
+  <data name="RtInspLineCheckRegionOrgReverse_Region1" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.RV.SearchRegion_1</value>
+  </data>
+  <data name="RtInspLineCheckRegionOrgReverse_Region10" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.RV.SearchRegion_10</value>
+  </data>
+  <data name="RtInspLineCheckRegionOrgReverse_Region2" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.RV.SearchRegion_2</value>
+  </data>
+  <data name="RtInspLineCheckRegionOrgReverse_Region3" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.RV.SearchRegion_3</value>
+  </data>
+  <data name="RtInspLineCheckRegionOrgReverse_Region4" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.RV.SearchRegion_4</value>
+  </data>
+  <data name="RtInspLineCheckRegionOrgReverse_Region5" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.RV.SearchRegion_5</value>
+  </data>
+  <data name="RtInspLineCheckRegionOrgReverse_Region6" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.RV.SearchRegion_6</value>
+  </data>
+  <data name="RtInspLineCheckRegionOrgReverse_Region7" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.RV.SearchRegion_7</value>
+  </data>
+  <data name="RtInspLineCheckRegionOrgReverse_Region8" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.RV.SearchRegion_8</value>
+  </data>
+  <data name="RtInspLineCheckRegionOrgReverse_Region9" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.RV.SearchRegion_9</value>
+  </data>
+  <data name="RtInspPanelLineLimitOrg_Region1" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.DeltaLimit_1</value>
+  </data>
+  <data name="RtInspPanelLineLimitOrg_Region10" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.DeltaLimit_10</value>
+  </data>
+  <data name="RtInspPanelLineLimitOrg_Region2" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.DeltaLimit_2</value>
+  </data>
+  <data name="RtInspPanelLineLimitOrg_Region3" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.DeltaLimit_3</value>
+  </data>
+  <data name="RtInspPanelLineLimitOrg_Region4" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.DeltaLimit_4</value>
+  </data>
+  <data name="RtInspPanelLineLimitOrg_Region5" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.DeltaLimit_5</value>
+  </data>
+  <data name="RtInspPanelLineLimitOrg_Region6" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.DeltaLimit_6</value>
+  </data>
+  <data name="RtInspPanelLineLimitOrg_Region7" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.DeltaLimit_7</value>
+  </data>
+  <data name="RtInspPanelLineLimitOrg_Region8" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.DeltaLimit_8</value>
+  </data>
+  <data name="RtInspPanelLineLimitOrg_Region9" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.DeltaLimit_9</value>
+  </data>
+  <data name="RtInspPanelLineThreshOrg_Region1" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.Threshold_1</value>
+  </data>
+  <data name="RtInspPanelLineThreshOrg_Region10" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.Threshold_10</value>
+  </data>
+  <data name="RtInspPanelLineThreshOrg_Region2" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.Threshold_2</value>
+  </data>
+  <data name="RtInspPanelLineThreshOrg_Region3" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.Threshold_3</value>
+  </data>
+  <data name="RtInspPanelLineThreshOrg_Region4" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.Threshold_4</value>
+  </data>
+  <data name="RtInspPanelLineThreshOrg_Region5" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.Threshold_5</value>
+  </data>
+  <data name="RtInspPanelLineThreshOrg_Region6" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.Threshold_6</value>
+  </data>
+  <data name="RtInspPanelLineThreshOrg_Region7" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.Threshold_7</value>
+  </data>
+  <data name="RtInspPanelLineThreshOrg_Region8" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.Threshold_8</value>
+  </data>
+  <data name="RtInspPanelLineThreshOrg_Region9" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.Origin.Threshold_9</value>
+  </data>
+  <data name="APInsp4AcceptThreshold_Region1" xml:space="preserve">
+    <value>Inspection.4.Tray.AcceptThreshold_1</value>
+  </data>
+  <data name="APInsp4AcceptThreshold_Region2" xml:space="preserve">
+    <value>Inspection.4.Tray.AcceptThreshold_2</value>
+  </data>
+  <data name="APInsp4AcceptThreshold_Region3" xml:space="preserve">
+    <value>Inspection.4.Tray.AcceptThreshold_3</value>
+  </data>
+  <data name="APInsp4AcceptThreshold_Region4" xml:space="preserve">
+    <value>Inspection.4.Tray.AcceptThreshold_4</value>
+  </data>
+  <data name="APInsp4AcceptThreshold_Region5" xml:space="preserve">
+    <value>Inspection.4.Tray.AcceptThreshold_5</value>
+  </data>
+  <data name="APInsp4AcceptThreshold_Region6" xml:space="preserve">
+    <value>Inspection.4.Tray.AcceptThreshold_6</value>
+  </data>
+  <data name="APInsp4AcceptThreshold_Region7" xml:space="preserve">
+    <value>Inspection.4.Tray.AcceptThreshold_7</value>
+  </data>
+  <data name="APInsp4AcceptThreshold_Region8" xml:space="preserve">
+    <value>Inspection.4.Tray.AcceptThreshold_8</value>
+  </data>
+  <data name="APInsp4AngleRange_Region1" xml:space="preserve">
+    <value>Inspection.4.Tray.AngleRange_1</value>
+  </data>
+  <data name="APInsp4AngleRange_Region2" xml:space="preserve">
+    <value>Inspection.4.Tray.AngleRange_2</value>
+  </data>
+  <data name="APInsp4AngleRange_Region3" xml:space="preserve">
+    <value>Inspection.4.Tray.AngleRange_3</value>
+  </data>
+  <data name="APInsp4AngleRange_Region4" xml:space="preserve">
+    <value>Inspection.4.Tray.AngleRange_4</value>
+  </data>
+  <data name="APInsp4AngleRange_Region5" xml:space="preserve">
+    <value>Inspection.4.Tray.AngleRange_5</value>
+  </data>
+  <data name="APInsp4AngleRange_Region6" xml:space="preserve">
+    <value>Inspection.4.Tray.AngleRange_6</value>
+  </data>
+  <data name="APInsp4AngleRange_Region7" xml:space="preserve">
+    <value>Inspection.4.Tray.AngleRange_7</value>
+  </data>
+  <data name="APInsp4AngleRange_Region8" xml:space="preserve">
+    <value>Inspection.4.Tray.AngleRange_8</value>
+  </data>
+  <data name="APInsp4Contrast_Region1" xml:space="preserve">
+    <value>Inspection.4.Tray.Contrast_1</value>
+  </data>
+  <data name="APInsp4Contrast_Region2" xml:space="preserve">
+    <value>Inspection.4.Tray.Contrast_2</value>
+  </data>
+  <data name="APInsp4Contrast_Region3" xml:space="preserve">
+    <value>Inspection.4.Tray.Contrast_3</value>
+  </data>
+  <data name="APInsp4Contrast_Region4" xml:space="preserve">
+    <value>Inspection.4.Tray.Contrast_4</value>
+  </data>
+  <data name="APInsp4Contrast_Region5" xml:space="preserve">
+    <value>Inspection.4.Tray.Contrast_5</value>
+  </data>
+  <data name="APInsp4Contrast_Region6" xml:space="preserve">
+    <value>Inspection.4.Tray.Contrast_6</value>
+  </data>
+  <data name="APInsp4Contrast_Region7" xml:space="preserve">
+    <value>Inspection.4.Tray.Contrast_7</value>
+  </data>
+  <data name="APInsp4Contrast_Region8" xml:space="preserve">
+    <value>Inspection.4.Tray.Contrast_8</value>
+  </data>
+  <data name="APInsp4ExposureTime" xml:space="preserve">
+    <value>Inspection.4.AcquisitionSettings.ExposureTime</value>
+  </data>
+  <data name="APInsp4ResultSelector" xml:space="preserve">
+    <value>Inspection.4.Tray.ResultSelector</value>
+  </data>
+  <data name="APInsp4SearchRegion_Region1" xml:space="preserve">
+    <value>Inspection.4.Tray.SearchRegion_1</value>
+  </data>
+  <data name="APInsp4SearchRegion_Region2" xml:space="preserve">
+    <value>Inspection.4.Tray.SearchRegion_2</value>
+  </data>
+  <data name="APInsp4SearchRegion_Region3" xml:space="preserve">
+    <value>Inspection.4.Tray.SearchRegion_3</value>
+  </data>
+  <data name="APInsp4SearchRegion_Region4" xml:space="preserve">
+    <value>Inspection.4.Tray.SearchRegion_4</value>
+  </data>
+  <data name="APInsp4SearchRegion_Region5" xml:space="preserve">
+    <value>Inspection.4.Tray.SearchRegion_5</value>
+  </data>
+  <data name="APInsp4SearchRegion_Region6" xml:space="preserve">
+    <value>Inspection.4.Tray.SearchRegion_6</value>
+  </data>
+  <data name="APInsp4SearchRegion_Region7" xml:space="preserve">
+    <value>Inspection.4.Tray.SearchRegion_7</value>
+  </data>
+  <data name="APInsp4SearchRegion_Region8" xml:space="preserve">
+    <value>Inspection.4.Tray.SearchRegion_8</value>
+  </data>
+  <data name="APInsp4ShowGraphic" xml:space="preserve">
+    <value>Inspection.4.Tray.ShowGraphic</value>
+  </data>
+  <data name="APInsp4Train" xml:space="preserve">
+    <value>Inspection.4.Tray.Train</value>
+  </data>
+  <data name="APInsp4TrainRegion" xml:space="preserve">
+    <value>Inspection.4.Tray.TrainRegion</value>
+  </data>
+  <data name="APInsp5AcceptThreshold_Region1" xml:space="preserve">
+    <value>Inspection.5.Tray.AcceptThreshold_1</value>
+  </data>
+  <data name="APInsp5AcceptThreshold_Region2" xml:space="preserve">
+    <value>Inspection.5.Tray.AcceptThreshold_2</value>
+  </data>
+  <data name="APInsp5AcceptThreshold_Region3" xml:space="preserve">
+    <value>Inspection.5.Tray.AcceptThreshold_3</value>
+  </data>
+  <data name="APInsp5AcceptThreshold_Region4" xml:space="preserve">
+    <value>Inspection.5.Tray.AcceptThreshold_4</value>
+  </data>
+  <data name="APInsp5AcceptThreshold_Region5" xml:space="preserve">
+    <value>Inspection.5.Tray.AcceptThreshold_5</value>
+  </data>
+  <data name="APInsp5AcceptThreshold_Region6" xml:space="preserve">
+    <value>Inspection.5.Tray.AcceptThreshold_6</value>
+  </data>
+  <data name="APInsp5AcceptThreshold_Region7" xml:space="preserve">
+    <value>Inspection.5.Tray.AcceptThreshold_7</value>
+  </data>
+  <data name="APInsp5AcceptThreshold_Region8" xml:space="preserve">
+    <value>Inspection.5.Tray.AcceptThreshold_8</value>
+  </data>
+  <data name="APInsp5AngleRange_Region1" xml:space="preserve">
+    <value>Inspection.5.Tray.AngleRange_1</value>
+  </data>
+  <data name="APInsp5AngleRange_Region2" xml:space="preserve">
+    <value>Inspection.5.Tray.AngleRange_2</value>
+  </data>
+  <data name="APInsp5AngleRange_Region3" xml:space="preserve">
+    <value>Inspection.5.Tray.AngleRange_3</value>
+  </data>
+  <data name="APInsp5AngleRange_Region4" xml:space="preserve">
+    <value>Inspection.5.Tray.AngleRange_4</value>
+  </data>
+  <data name="APInsp5AngleRange_Region5" xml:space="preserve">
+    <value>Inspection.5.Tray.AngleRange_5</value>
+  </data>
+  <data name="APInsp5AngleRange_Region6" xml:space="preserve">
+    <value>Inspection.5.Tray.AngleRange_6</value>
+  </data>
+  <data name="APInsp5AngleRange_Region7" xml:space="preserve">
+    <value>Inspection.5.Tray.AngleRange_7</value>
+  </data>
+  <data name="APInsp5AngleRange_Region8" xml:space="preserve">
+    <value>Inspection.5.Tray.AngleRange_8</value>
+  </data>
+  <data name="APInsp5Contrast_Region1" xml:space="preserve">
+    <value>Inspection.5.Tray.Contrast_1</value>
+  </data>
+  <data name="APInsp5Contrast_Region2" xml:space="preserve">
+    <value>Inspection.5.Tray.Contrast_2</value>
+  </data>
+  <data name="APInsp5Contrast_Region3" xml:space="preserve">
+    <value>Inspection.5.Tray.Contrast_3</value>
+  </data>
+  <data name="APInsp5Contrast_Region4" xml:space="preserve">
+    <value>Inspection.5.Tray.Contrast_4</value>
+  </data>
+  <data name="APInsp5Contrast_Region5" xml:space="preserve">
+    <value>Inspection.5.Tray.Contrast_5</value>
+  </data>
+  <data name="APInsp5Contrast_Region6" xml:space="preserve">
+    <value>Inspection.5.Tray.Contrast_6</value>
+  </data>
+  <data name="APInsp5Contrast_Region7" xml:space="preserve">
+    <value>Inspection.5.Tray.Contrast_7</value>
+  </data>
+  <data name="APInsp5Contrast_Region8" xml:space="preserve">
+    <value>Inspection.5.Tray.Contrast_8</value>
+  </data>
+  <data name="APInsp5ExposureTime" xml:space="preserve">
+    <value>Inspection.5.AcquisitionSettings.ExposureTime</value>
+  </data>
+  <data name="APInsp5ResultSelector" xml:space="preserve">
+    <value>Inspection.5.Tray.ResultSelector</value>
+  </data>
+  <data name="APInsp5SearchRegion_Region1" xml:space="preserve">
+    <value>Inspection.5.Tray.SearchRegion_1</value>
+  </data>
+  <data name="APInsp5SearchRegion_Region2" xml:space="preserve">
+    <value>Inspection.5.Tray.SearchRegion_2</value>
+  </data>
+  <data name="APInsp5SearchRegion_Region3" xml:space="preserve">
+    <value>Inspection.5.Tray.SearchRegion_3</value>
+  </data>
+  <data name="APInsp5SearchRegion_Region4" xml:space="preserve">
+    <value>Inspection.5.Tray.SearchRegion_4</value>
+  </data>
+  <data name="APInsp5SearchRegion_Region5" xml:space="preserve">
+    <value>Inspection.5.Tray.SearchRegion_5</value>
+  </data>
+  <data name="APInsp5SearchRegion_Region6" xml:space="preserve">
+    <value>Inspection.5.Tray.SearchRegion_6</value>
+  </data>
+  <data name="APInsp5SearchRegion_Region7" xml:space="preserve">
+    <value>Inspection.5.Tray.SearchRegion_7</value>
+  </data>
+  <data name="APInsp5SearchRegion_Region8" xml:space="preserve">
+    <value>Inspection.5.Tray.SearchRegion_8</value>
+  </data>
+  <data name="APInsp5ShowGraphic" xml:space="preserve">
+    <value>Inspection.5.Tray.ShowGraphic</value>
+  </data>
+  <data name="APInsp5TrainRegion_Region1" xml:space="preserve">
+    <value>Inspection.5.Tray.TrainRegion_1</value>
+  </data>
+  <data name="APInsp5TrainRegion_Region2" xml:space="preserve">
+    <value>Inspection.5.Tray.TrainRegion_2</value>
+  </data>
+  <data name="APInsp5TrainRegion_Region3" xml:space="preserve">
+    <value>Inspection.5.Tray.TrainRegion_3</value>
+  </data>
+  <data name="APInsp5TrainRegion_Region4" xml:space="preserve">
+    <value>Inspection.5.Tray.TrainRegion_4</value>
+  </data>
+  <data name="APInsp5TrainRegion_Region5" xml:space="preserve">
+    <value>Inspection.5.Tray.TrainRegion_5</value>
+  </data>
+  <data name="APInsp5TrainRegion_Region6" xml:space="preserve">
+    <value>Inspection.5.Tray.TrainRegion_6</value>
+  </data>
+  <data name="APInsp5TrainRegion_Region7" xml:space="preserve">
+    <value>Inspection.5.Tray.TrainRegion_7</value>
+  </data>
+  <data name="APInsp5TrainRegion_Region8" xml:space="preserve">
+    <value>Inspection.5.Tray.TrainRegion_8</value>
+  </data>
+  <data name="APInsp5Train_Region1" xml:space="preserve">
+    <value>Inspection.5.Tray.Train_1</value>
+  </data>
+  <data name="APInsp5Train_Region2" xml:space="preserve">
+    <value>Inspection.5.Tray.Train_2</value>
+  </data>
+  <data name="APInsp5Train_Region3" xml:space="preserve">
+    <value>Inspection.5.Tray.Train_3</value>
+  </data>
+  <data name="APInsp5Train_Region4" xml:space="preserve">
+    <value>Inspection.5.Tray.Train_4</value>
+  </data>
+  <data name="APInsp5Train_Region5" xml:space="preserve">
+    <value>Inspection.5.Tray.Train_5</value>
+  </data>
+  <data name="APInsp5Train_Region6" xml:space="preserve">
+    <value>Inspection.5.Tray.Train_6</value>
+  </data>
+  <data name="APInsp5Train_Region7" xml:space="preserve">
+    <value>Inspection.5.Tray.Train_7</value>
+  </data>
+  <data name="APInsp5Train_Region8" xml:space="preserve">
+    <value>Inspection.5.Tray.Train_8</value>
+  </data>
+  <data name="RtInspPanelLineWidth" xml:space="preserve">
+    <value>Inspection.1.PanelInspection.Edge.EdgeWidth</value>
+  </data>
+  <data name="RtTargetPatternFindPM1" xml:space="preserve">
+    <value>Target.1.Pattern.FindPM</value>
+  </data>
+  <data name="RtTargetPatternFindPM2" xml:space="preserve">
+    <value>Target.2.Pattern.FindPM</value>
+  </data>
+  <data name="RtTargetPatternTrainPM1" xml:space="preserve">
+    <value>Target.1.Pattern.TrainPM</value>
+  </data>
+  <data name="RtTargetPatternTrainPM2" xml:space="preserve">
+    <value>Target.2.Pattern.TrainPM</value>
+  </data>
+  <data name="RtSaveSetting" xml:space="preserve">
+    <value>Save Setting</value>
+  </data>
+  <data name="RtSensoMode" xml:space="preserve">
+    <value>Sensor Mode</value>
+  </data>
+  <data name="RtInspTrayEnableF_2" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.FW.Enable_3</value>
+  </data>
+  <data name="RtInspTrayEnableR_2" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.FW.Enable_3_1</value>
+  </data>
+  <data name="RtInspTraySearchRegionF_2" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.FW.SearchRegion_3</value>
+  </data>
+  <data name="RtInspTraySearchRegionR_2" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.FW.SearchRegion_3_1</value>
+  </data>
+  <data name="RtInspTrayTrainButtonF_2" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.FW.TrainButton_2</value>
+  </data>
+  <data name="RtInspTrayTrainButtonR_2" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.FW.TrainButton_2_1</value>
+  </data>
+  <data name="RtInspTrayTrainRegionF_2" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.FW.TrainRegion_3</value>
+  </data>
+  <data name="RtInspTrayTrainRegionR_2" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.FW.TrainRegion_3_1</value>
+  </data>
+  <data name="RtInspTrayScoreThresholdF2" xml:space="preserve">
+    <value>Inspection.1.TrayInspection.FW.ScoreThreshold_F2</value>
+  </data>
+</root>

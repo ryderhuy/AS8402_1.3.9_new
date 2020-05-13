@@ -1,0 +1,295 @@
+20200505_14:50:19	Info	[Action] Exit program...
+20200505_15:05:55	Info	Starting program...
+20200505_15:06:03	Info	[Action] Connect/Disconect...
+20200505_15:06:03	Info	Disconnected to sensor
+20200505_15:06:10	Info	Connected to sensor
+20200505_15:06:13	Info	[Action] Log-in as Supervisor
+20200505_15:06:15	Info	[Action] Enable 1: Checked
+20200505_15:06:16	Info	[Action] Contrast Threshold F : 20.5
+20200505_15:06:16	Info	[Action] Angle Range F : 40.5
+20200505_15:06:16	Info	[Action] Score Threshold F : 79
+20200505_15:06:17	Info	[Action] Show Graphic F : 1
+20200505_15:06:17	Info	[Action] ContrastThreshold R: 18
+20200505_15:06:17	Info	[Action] Score Threshold R: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+20200505_15:06:18	Info	[Action] Align Tray Score Thresh : 60
+20200505_15:06:18	Info	[Action] Align Tray Enable: Checked
+20200505_15:06:18	Info	[Action] APNumbPocket : 4
+20200505_15:06:18	Info	[Action] Search Region Align Pocket : Region1
+20200505_15:06:18	Info	[Action] APScore : 60
+20200505_15:06:19	Info	[Action] Search Region Align Pocket : Region1
+20200505_15:06:19	Info	[Action] Number Align Pocket : 4
+20200505_15:06:19	Info	[Action] Search Region Align Pocket : Region1
+20200505_15:06:19	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200505_15:06:19	Info	[Action] Tolerance X : 0
+20200505_15:06:19	Info	[Action] Tolerance Y : 0
+20200505_15:06:19	Info	[Action] Tolerance Theta : 0
+20200505_15:06:19	Info	[Action] APExposure : 50
+20200505_15:06:19	Info	[Action] Pocket Lim Max X : 5
+20200505_15:06:20	Info	[Action] Pocket Lim Max Y : 5
+20200505_15:06:20	Info	[Action] Pocket Lim Max Theta : 5
+20200505_15:06:20	Info	[Action] Pocket Lim Min X : 5
+20200505_15:06:20	Info	[Action] Pocket Lim Min Y : 5
+20200505_15:06:20	Info	[Action] Pocket Lim Min Theta : 5
+20200505_15:06:22	Info	[Action] Go to Setup Insp...
+20200505_15:06:22	Info	[Action] Change Camera Mode: Teach Mode
+20200505_15:07:21	Info	[Action] ContrastThreshold R: 18.5
+20200505_15:07:22	Info	[Action] ContrastThreshold R: 19.0
+20200505_15:07:26	Info	[Action] AngleRange R: 20.5
+20200505_15:07:28	Info	[Action] AngleRange R: 21.0
+20200505_15:07:31	Info	[Action] Score Threshold R: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+20200505_15:07:32	Info	[Action] Score Threshold R: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+20200505_15:07:38	Info	[Action] Contrast Threshold F : 18
+20200505_15:07:39	Info	[Action] Angle Range F : 20
+20200505_15:07:41	Info	[Action] Score Threshold F : 70
+20200505_15:07:41	Info	[Action] Click Search Region R2
+20200505_15:07:52	Info	[Action] Contrast Threshold F : 19
+20200505_15:07:54	Info	[Action] Angle Range F : 21
+20200505_15:07:55	Info	[Action] Score Threshold F : 72
+20200505_15:07:56	Info	[Action] Click Search Region R1
+20200505_15:08:19	Info	[Action] Contrast Threshold F : 18
+20200505_15:08:21	Info	[Action] Angle Range F : 20
+20200505_15:08:22	Info	[Action] Score Threshold F : 70
+20200505_15:08:22	Info	[Action] Click Search Region R2
+20200505_15:08:23	Info	[Action] Click Search Region R2
+20200505_15:08:25	Info	[Action] Click Search Region R2
+20200505_15:08:58	Info	[Action] Click Search Region R2
+20200505_15:09:32	Info	[Action] Click Search Region R2
+20200505_15:09:58	Info	[Action] Contrast Threshold R2 : 18
+20200505_15:10:00	Info	[Action] Angle Range R2: 20
+20200505_15:10:01	Info	[Action] Score Threshold R2 : 70
+20200505_15:10:01	Info	[Action] Click Search Region R2
+20200505_15:10:13	Info	[Action] Contrast Threshold F : 19
+20200505_15:10:14	Info	[Action] Angle Range F : 21
+20200505_15:10:15	Info	[Action] Score Threshold F : 72
+20200505_15:10:16	Info	[Action] Click Search Region R1
+20200505_15:11:03	Info	[Action] ContrastThreshold R: 19
+20200505_15:11:06	Info	[Action] AngleRange R: 21
+20200505_15:11:08	Info	[Action] Score Threshold R: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+20200505_15:11:08	Info	[Action] Click Search Region R1
+20200505_15:11:23	Warning	Auto reconnect Camera...
+20200505_15:11:23	Info	Disconnected to sensor
+20200505_15:11:30	Info	Connected to sensor
+20200505_15:11:33	Info	[Action] Search Region Align Pocket : Region1
+20200505_15:11:33	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200505_15:11:33	Info	[Action] Tolerance X : 0
+20200505_15:11:33	Info	[Action] Tolerance Y : 0
+20200505_15:11:33	Info	[Action] Tolerance Theta : 0
+20200505_15:11:35	Info	[Action] Go to Setup Insp...
+20200505_15:11:35	Info	[Action] Change Camera Mode: Teach Mode
+20200505_15:11:41	Info	[Action] Contrast Threshold R2 : 19
+20200505_15:11:42	Info	[Action] Angle Range R2: 21
+20200505_15:11:44	Info	[Action] Score Threshold R2 : 72
+20200505_15:11:44	Info	[Action] Click Search Region R2
+20200505_15:13:58	Info	[Action] Contrast Threshold R2 : 19
+20200505_15:13:59	Info	[Action] Angle Range R2: 21
+20200505_15:14:00	Info	[Action] Score Threshold R2 : 72
+20200505_15:14:00	Info	[Action] Click Search Region R2
+20200505_15:14:10	Info	[Action] Contrast Threshold R2 : 19
+20200505_15:14:11	Info	[Action] Contrast Threshold R2 : 19
+20200505_15:14:14	Info	[Action] Angle Range R2: 21
+20200505_15:14:15	Info	[Action] Angle Range R2: 21
+20200505_15:14:19	Info	[Action] Score Threshold R2 : 72
+20200505_15:14:20	Info	[Action] Score Threshold R2 : 72
+20200505_15:14:39	Info	[Action] Score Threshold R2 : 72
+20200505_15:15:37	Info	[Action] Score Threshold R2 : 74
+20200505_15:16:04	Info	[Action] Angle Range R2: 22.5
+20200505_15:16:33	Info	[Action] Contrast Threshold R2 : 20.5
+20200505_15:16:40	Info	[Action] Contrast Threshold R2 : 21
+20200505_15:16:44	Info	[Action] Angle Range R2: 23
+20200505_15:16:50	Info	[Action] ContrastThreshold R: 19
+20200505_15:16:51	Info	[Action] AngleRange R: 21
+20200505_15:16:52	Info	[Action] Score Threshold R: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+20200505_15:16:53	Info	[Action] Click Search Region R1
+20200505_15:17:02	Info	[Action] ContrastThreshold R: 18.5
+20200505_15:17:05	Info	[Action] AngleRange R: 20.5
+20200505_15:17:08	Info	[Action] Score Threshold R: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+20200505_15:17:11	Info	[Action] Enable F: Checked
+20200505_15:17:12	Info	[Action] Enable Multi Pattern F: Checked
+20200505_15:17:13	Info	[Action] Contrast Threshold F: 10
+20200505_15:17:14	Info	[Action] Angle Range F: 179.5
+20200505_15:17:15	Info	[Action] Show Graphic F: 3
+20200505_15:17:16	Info	[Action] Contrast Threshold R: 15
+20200505_15:17:17	Info	[Action] Angle Range R: 15
+20200505_15:17:17	Info	[Action] Enable: Checked
+20200505_15:17:18	Info	[Action] Train Region R: Region1
+20200505_15:17:19	Info	[Action] Train Region F: Region1
+20200505_15:17:20	Info	[Action] Max Delta X: 5
+20200505_15:17:20	Info	[Action] Max Delta X: 5
+20200505_15:17:20	Info	[Action] Max Delta Y: 5
+20200505_15:17:20	Info	[Action] Max Delta Y: 5
+20200505_15:17:20	Info	[Action] Max Delta Theta: 5
+20200505_15:17:20	Info	[Action] Max Delta Theta: 5
+20200505_15:17:20	Info	[Action] Panel Params: Region1
+20200505_15:17:20	Info	[Action] Number Pocket F: 4
+20200505_15:17:21	Info	[Action] Train Region F: Region1
+20200505_15:17:22	Info	[Action] Train Region R: Region1
+20200505_15:17:22	Info	[Action] Max Delta X: 5
+20200505_15:17:22	Info	[Action] Max Delta Y: 5
+20200505_15:17:22	Info	[Action] Max Delta Theta: 5
+20200505_15:17:22	Info	[Action] Panel Params: Region1
+20200505_15:17:22	Info	[Action] Fwd/Rev: Forward
+20200505_15:17:22	Info	[Action] Score Threshold F: 60
+20200505_15:17:22	Info	[Action] Score Threshold R: 50
+20200505_15:17:22	Info	[Action] Vis Mean Thresh: 10
+20200505_15:17:23	Info	[Action] Vis Count Thresh: 400
+20200505_15:17:23	Info	[Action] Vis Last Bin: 80
+20200505_15:17:23	Info	[Action] Check Shift Type: Find Patmax
+20200505_15:17:23	Info	[Action] Find type: Both Type
+20200505_15:17:23	Info	[Action] Line Polarity: Black To White
+20200505_15:17:23	Info	[Action] Line Find By: Best Score
+20200505_15:17:23	Info	[Action] Edge Width: 3
+20200505_15:17:23	Info	[Action] Line Threshold: 5
+20200505_15:17:24	Info	[Action] Line Limit Angle: 3
+20200505_15:17:24	Info	[Action] Line Limit Angle: 3
+20200505_15:17:24	Info	[Action] Inspection Setting Page: Panel Inspection
+20200505_15:17:24	Info	[Action] Search Region Align Pocket : Region1
+20200505_15:17:24	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200505_15:17:24	Info	[Action] Tolerance X : 0
+20200505_15:17:24	Info	[Action] Tolerance Y : 0
+20200505_15:17:24	Info	[Action] Tolerance Theta : 0
+20200505_15:17:24	Info	[Action] Inspection Setting Page: Tray Inspection
+20200505_15:17:39	Info	[Action] Contrast Threshold R2 : 21
+20200505_15:17:40	Info	[Action] Angle Range R2: 23
+20200505_15:17:42	Info	[Action] Score Threshold R2 : 74
+20200505_15:17:42	Info	[Action] Click Search Region R2
+20200505_15:17:51	Info	[Action] Train Region F: Region1
+20200505_15:17:52	Info	[Action] Train Region R: Region1
+20200505_15:17:52	Info	[Action] Max Delta X: 5
+20200505_15:17:52	Info	[Action] Max Delta Y: 5
+20200505_15:17:52	Info	[Action] Max Delta Theta: 5
+20200505_15:17:52	Info	[Action] Panel Params: Region1
+20200505_15:17:52	Info	[Action] Inspection Setting Page: Panel Inspection
+20200505_15:17:57	Info	[Action] ContrastThreshold R: 18.5
+20200505_15:17:58	Info	[Action] AngleRange R: 20.5
+20200505_15:18:00	Info	[Action] Score Threshold R: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+20200505_15:18:00	Info	[Action] Search Region Align Pocket : Region1
+20200505_15:18:00	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200505_15:18:00	Info	[Action] Tolerance X : 0
+20200505_15:18:00	Info	[Action] Tolerance Y : 0
+20200505_15:18:00	Info	[Action] Tolerance Theta : 0
+20200505_15:18:00	Info	[Action] Inspection Setting Page: Tray Inspection
+20200505_15:22:07	Info	[Action] Contrast Threshold R2 : 21
+20200505_15:22:08	Info	[Action] Angle Range R2: 23
+20200505_15:22:09	Info	[Action] Score Threshold R2 : 74
+20200505_15:22:09	Info	[Action] Click Search Region R2
+20200505_15:24:21	Info	[Action] Train Region F: Region1
+20200505_15:24:22	Info	[Action] Train Region R: Region1
+20200505_15:24:22	Info	[Action] Max Delta X: 5
+20200505_15:24:22	Info	[Action] Max Delta Y: 5
+20200505_15:24:22	Info	[Action] Max Delta Theta: 5
+20200505_15:24:22	Info	[Action] Panel Params: Region1
+20200505_15:24:22	Info	[Action] Inspection Setting Page: Panel Inspection
+20200505_15:24:34	Info	[Action] ContrastThreshold R: 18.5
+20200505_15:24:35	Info	[Action] AngleRange R: 20.5
+20200505_15:24:37	Info	[Action] Score Threshold R: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+20200505_15:24:37	Info	[Action] Search Region Align Pocket : Region1
+20200505_15:24:37	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200505_15:24:37	Info	[Action] Tolerance X : 0
+20200505_15:24:37	Info	[Action] Tolerance Y : 0
+20200505_15:24:37	Info	[Action] Tolerance Theta : 0
+20200505_15:24:37	Info	[Action] Inspection Setting Page: Tray Inspection
+20200505_15:24:41	Info	[Action] Contrast Threshold R2 : 21
+20200505_15:24:43	Info	[Action] Angle Range R2: 23
+20200505_15:24:44	Info	[Action] Score Threshold R2 : 74
+20200505_15:24:44	Info	[Action] Click Search Region R2
+20200505_15:24:56	Info	[Action] Contrast Threshold: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 255
+20200505_15:24:56	Info	[Action] Min Size: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 10000
+20200505_15:24:56	Info	[Action] Max Size: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100000
+20200505_15:24:56	Info	[Action] Panel Blob Search Type: Dark On Bright
+20200505_15:24:56	Info	[Action] Panel Blob Number: 2
+20200505_15:24:57	Info	[Action] Panel Contrast: 150
+20200505_15:24:57	Info	[Action] Panel Min Size: 100
+20200505_15:24:57	Info	[Action] Panel Max Size: 10000
+20200505_15:24:57	Info	[Action] Panel Show GraphicF: 1
+20200505_15:24:57	Info	[Action] Panel Number selected: Region1
+20200505_15:24:57	Info	[Action] Inspection Setting Page: Blob Finder
+20200505_15:24:59	Info	[Action] ContrastThreshold R: 18.5
+20200505_15:25:00	Info	[Action] AngleRange R: 20.5
+20200505_15:25:01	Info	[Action] Score Threshold R: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+20200505_15:25:01	Info	[Action] Search Region Align Pocket : Region1
+20200505_15:25:01	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200505_15:25:01	Info	[Action] Tolerance X : 0
+20200505_15:25:01	Info	[Action] Tolerance Y : 0
+20200505_15:25:01	Info	[Action] Tolerance Theta : 0
+20200505_15:25:01	Info	[Action] Inspection Setting Page: Tray Inspection
+20200505_15:25:06	Info	[Action] Contrast Threshold R2 : 21
+20200505_15:25:08	Info	[Action] Angle Range R2: 23
+20200505_15:25:09	Info	[Action] Score Threshold R2 : 74
+20200505_15:25:09	Info	[Action] Click Search Region R2
+20200505_15:25:22	Info	[Action] Score Threshold R2 : 73
+20200505_15:27:33	Info	[Action] Train Region F: Region1
+20200505_15:27:34	Info	[Action] Train Region R: Region1
+20200505_15:27:34	Info	[Action] Max Delta X: 5
+20200505_15:27:34	Info	[Action] Max Delta Y: 5
+20200505_15:27:34	Info	[Action] Max Delta Theta: 5
+20200505_15:27:34	Info	[Action] Panel Params: Region1
+20200505_15:27:34	Info	[Action] Inspection Setting Page: Panel Inspection
+20200505_15:27:38	Info	[Action] Enable Multi Pattern F: Checked
+20200505_15:27:55	Info	[Action] Enable Multi Pattern F: Checked
+20200505_15:27:59	Info	[Action] ContrastThreshold R: 18.5
+20200505_15:28:01	Info	[Action] AngleRange R: 20.5
+20200505_15:28:02	Info	[Action] Score Threshold R: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+20200505_15:28:02	Info	[Action] Search Region Align Pocket : Region1
+20200505_15:28:02	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200505_15:28:02	Info	[Action] Tolerance X : 0
+20200505_15:28:02	Info	[Action] Tolerance Y : 0
+20200505_15:28:02	Info	[Action] Tolerance Theta : 0
+20200505_15:28:02	Info	[Action] Inspection Setting Page: Tray Inspection
+20200505_15:28:07	Info	[Action] Train Region F: Region1
+20200505_15:28:08	Info	[Action] Train Region R: Region1
+20200505_15:28:08	Info	[Action] Max Delta X: 5
+20200505_15:28:08	Info	[Action] Max Delta Y: 5
+20200505_15:28:08	Info	[Action] Max Delta Theta: 5
+20200505_15:28:08	Info	[Action] Panel Params: Region1
+20200505_15:28:08	Info	[Action] Inspection Setting Page: Panel Inspection
+20200505_15:33:44	Info	[Action] Search Region Align Pocket : Region1
+20200505_15:33:44	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200505_15:33:44	Info	[Action] Tolerance X : 0
+20200505_15:33:44	Info	[Action] Tolerance Y : 0
+20200505_15:33:44	Info	[Action] Tolerance Theta : 0
+20200505_15:33:44	Info	[Action] Inspection Setting Page: Tray Inspection
+20200505_15:34:56	Info	[Action] HMI Display Changed...
+20200505_15:35:31	Info	[Action] Train Region F: Region1
+20200505_15:35:32	Info	[Action] Train Region R: Region1
+20200505_15:35:32	Info	[Action] Max Delta X: 5
+20200505_15:35:32	Info	[Action] Max Delta Y: 5
+20200505_15:35:32	Info	[Action] Max Delta Theta: 5
+20200505_15:35:32	Info	[Action] Panel Params: Region1
+20200505_15:35:32	Info	[Action] Inspection Setting Page: Panel Inspection
+20200505_15:45:25	Info	[Action] Search Region Align Pocket : Region1
+20200505_15:45:25	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200505_15:45:25	Info	[Action] Tolerance X : 0
+20200505_15:45:25	Info	[Action] Tolerance Y : 0
+20200505_15:45:25	Info	[Action] Tolerance Theta : 0
+20200505_15:45:25	Info	[Action] Inspection Setting Page: Tray Inspection
+20200505_15:46:39	Info	[Action] Train Region F: Region1
+20200505_15:46:40	Info	[Action] Train Region R: Region1
+20200505_15:46:40	Info	[Action] Max Delta X: 5
+20200505_15:46:40	Info	[Action] Max Delta Y: 5
+20200505_15:46:40	Info	[Action] Max Delta Theta: 5
+20200505_15:46:40	Info	[Action] Panel Params: Region1
+20200505_15:46:40	Info	[Action] Inspection Setting Page: Panel Inspection
+20200505_15:47:22	Info	[Action] Search Region Align Pocket : Region1
+20200505_15:47:22	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200505_15:47:22	Info	[Action] Tolerance X : 0
+20200505_15:47:22	Info	[Action] Tolerance Y : 0
+20200505_15:47:22	Info	[Action] Tolerance Theta : 0
+20200505_15:47:22	Info	[Action] Inspection Setting Page: Tray Inspection
+20200505_15:47:23	Info	[Action] Panel Number selected: Region1
+20200505_15:47:23	Info	[Action] Inspection Setting Page: Blob Finder
+20200505_15:47:25	Info	[Action] Search Region Align Pocket : Region1
+20200505_15:47:25	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200505_15:47:25	Info	[Action] Tolerance X : 0
+20200505_15:47:25	Info	[Action] Tolerance Y : 0
+20200505_15:47:25	Info	[Action] Tolerance Theta : 0
+20200505_15:47:25	Info	[Action] Inspection Setting Page: Tray Inspection
+20200505_15:47:27	Info	[Action] Train Region F: Region1
+20200505_15:47:28	Info	[Action] Train Region R: Region1
+20200505_15:47:28	Info	[Action] Max Delta X: 5
+20200505_15:47:28	Info	[Action] Max Delta Y: 5
+20200505_15:47:28	Info	[Action] Max Delta Theta: 5
+20200505_15:47:28	Info	[Action] Panel Params: Region1
+20200505_15:47:28	Info	[Action] Inspection Setting Page: Panel Inspection
+20200505_15:51:11	Info	[Action] Save Setting...
+20200505_15:54:21	Info	[Action] Exit program...
+20200505_15:54:21	Info	Disconnected to sensor

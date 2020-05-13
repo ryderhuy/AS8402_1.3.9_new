@@ -1,0 +1,48 @@
+E:\Tony Projects\LibraryDLL\GS200Insp\MessageManager\bin\Debug\MessageManager.dll
+E:\Tony Projects\LibraryDLL\GS200Insp\MessageManager\bin\Debug\MessageManager.pdb
+E:\Tony Projects\LibraryDLL\GS200Insp\MessageManager\obj\Debug\MessageManager.MessageViewerGUI.resources
+E:\Tony Projects\LibraryDLL\GS200Insp\MessageManager\obj\Debug\MessageManager.csproj.GenerateResource.cache
+E:\Tony Projects\LibraryDLL\GS200Insp\MessageManager\obj\Debug\MessageManager.csproj.CoreCompileInputs.cache
+E:\Tony Projects\LibraryDLL\GS200Insp\MessageManager\obj\Debug\MessageManager.dll
+E:\Tony Projects\LibraryDLL\GS200Insp\MessageManager\obj\Debug\MessageManager.pdb
+E:\Tony Projects\LibraryDLL\GS200Insp\MessageManager\obj\Debug\MessageManager.csprojAssemblyReference.cache
+C:\1. Projects\LibraryDLL\GS200Insp\MessageManager\bin\Debug\MessageManager.dll
+C:\1. Projects\LibraryDLL\GS200Insp\MessageManager\bin\Debug\MessageManager.pdb
+C:\1. Projects\LibraryDLL\GS200Insp\MessageManager\obj\Debug\MessageManager.MessageViewerGUI.resources
+C:\1. Projects\LibraryDLL\GS200Insp\MessageManager\obj\Debug\MessageManager.csproj.GenerateResource.cache
+C:\1. Projects\LibraryDLL\GS200Insp\MessageManager\obj\Debug\MessageManager.csproj.CoreCompileInputs.cache
+C:\1. Projects\LibraryDLL\GS200Insp\MessageManager\obj\Debug\MessageManager.dll
+C:\1. Projects\LibraryDLL\GS200Insp\MessageManager\obj\Debug\MessageManager.pdb
+C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\MessageManager\bin\Debug\MessageManager.dll
+C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\MessageManager\bin\Debug\MessageManager.pdb
+C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\MessageManager\obj\Debug\MessageManager.MessageViewerGUI.resources
+C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\MessageManager\obj\Debug\MessageManager.csproj.GenerateResource.cache
+C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\MessageManager\obj\Debug\MessageManager.csproj.CoreCompileInputs.cache
+C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\MessageManager\obj\Debug\MessageManager.dll
+C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\MessageManager\obj\Debug\MessageManager.pdb
+D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\MessageManager\bin\Debug\MessageManager.dll
+D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\MessageManager\bin\Debug\MessageManager.pdb
+D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\MessageManager\obj\Debug\MessageManager.MessageViewerGUI.resources
+D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\MessageManager\obj\Debug\MessageManager.csproj.GenerateResource.Cache
+D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\MessageManager\obj\Debug\MessageManager.dll
+D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\MessageManager\obj\Debug\MessageManager.pdb
+E:\as8402_1.3.4\MessageManager\bin\Debug\MessageManager.dll
+E:\as8402_1.3.4\MessageManager\bin\Debug\MessageManager.pdb
+E:\as8402_1.3.4\MessageManager\obj\Debug\MessageManager.MessageViewerGUI.resources
+E:\as8402_1.3.4\MessageManager\obj\Debug\MessageManager.csproj.GenerateResource.Cache
+E:\as8402_1.3.4\MessageManager\obj\Debug\MessageManager.dll
+E:\as8402_1.3.4\MessageManager\obj\Debug\MessageManager.pdb
+E:\as8402_1.3.6\MessageManager\bin\Debug\MessageManager.dll
+E:\as8402_1.3.6\MessageManager\bin\Debug\MessageManager.pdb
+E:\as8402_1.3.6\MessageManager\obj\Debug\MessageManager.csprojResolveAssemblyReference.cache
+E:\as8402_1.3.6\MessageManager\obj\Debug\MessageManager.MessageViewerGUI.resources
+E:\as8402_1.3.6\MessageManager\obj\Debug\MessageManager.csproj.GenerateResource.Cache
+E:\as8402_1.3.6\MessageManager\obj\Debug\MessageManager.dll
+E:\as8402_1.3.6\MessageManager\obj\Debug\MessageManager.pdb
+E:\New folder\as8402_1.3.67\MessageManager\bin\Debug\MessageManager.dll
+E:\New folder\as8402_1.3.67\MessageManager\bin\Debug\MessageManager.pdb
+E:\New folder\as8402_1.3.67\MessageManager\obj\Debug\MessageManager.csprojResolveAssemblyReference.cache
+E:\New folder\as8402_1.3.67\MessageManager\obj\Debug\MessageManager.MessageViewerGUI.resources
+E:\New folder\as8402_1.3.67\MessageManager\obj\Debug\MessageManager.csproj.GenerateResource.Cache
+E:\New folder\as8402_1.3.67\MessageManager\obj\Debug\MessageManager.dll
+E:\New folder\as8402_1.3.67\MessageManager\obj\Debug\MessageManager.pdb

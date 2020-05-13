@@ -1,0 +1,684 @@
+20200421_08:40:29	Info	Starting program...
+20200421_08:40:47	Info	[Action] Connect/Disconect...
+20200421_08:40:47	Info	Disconnected to sensor
+20200421_08:40:56	Info	Connected to sensor
+20200421_08:41:02	Info	[Action] Log-in as Supervisor
+20200421_08:41:16	Info	[Action] Enable 1: Checked
+20200421_08:41:16	Info	[Action] Show Graphic F : 3
+20200421_08:41:16	Info	[Action] Enable R1: Checked
+20200421_08:41:16	Info	[Action] Show Graphic R: 3
+20200421_08:41:16	Info	[Action] Align Pocket Contrast Thresh : 17
+20200421_08:41:16	Info	[Action] Align Pocket Angle Range : 19.5
+20200421_08:41:16	Info	[Action] Align Tray Score Thresh : 38
+20200421_08:41:16	Info	[Action] Align Tray Enable: Checked
+20200421_08:41:16	Info	[Action] APNumbPocket : 2
+20200421_08:41:16	Info	[Action] Search Region Align Pocket : Region1
+20200421_08:41:17	Info	[Action] Search Region Align Pocket : Region1
+20200421_08:41:17	Info	[Action] Number Align Pocket : 2
+20200421_08:41:17	Info	[Action] Search Region Align Pocket : Region1
+20200421_08:41:17	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200421_08:41:17	Info	[Action] Align TrayXTT Enable : Checked
+20200421_08:41:17	Info	[Action] Enable 2: Checked
+20200421_08:41:17	Info	[Action] Enable R2: Checked
+20200421_08:41:17	Info	[Action] Offset X1 F: 0.497
+20200421_08:41:17	Info	[Action] Offset Y1 F: 0.135
+20200421_08:41:17	Info	[Action] Offset X1 R: -20.126
+20200421_08:41:17	Info	[Action] Offset Y1 R: 2.868
+20200421_08:41:17	Info	[Action] Offset X2 F: -170.505
+20200421_08:41:17	Info	[Action] Offset Y2 F: 0.135
+20200421_08:41:17	Info	[Action] Offset X2 R: -25.995
+20200421_08:41:17	Info	[Action] Offset Y2 R: -540.997
+20200421_08:41:18	Info	[Action] Go to Setup Insp...
+20200421_08:41:18	Info	[Action] Change Camera Mode: Teach Mode
+20200421_08:41:24	Info	[Action] Inspection Setting Page: Panel Inspection
+20200421_08:41:36	Info	[Action] Exit program...
+20200421_08:41:36	Info	Disconnected to sensor
+20200421_10:24:55	Info	Starting program...
+20200421_10:25:14	Info	[Action] Connect/Disconect...
+20200421_10:25:14	Info	Disconnected to sensor
+20200421_10:25:31	Info	Connected to sensor
+20200421_10:25:37	Info	[Action] Log-in as Supervisor
+20200421_10:25:41	Info	[Action] Enable 1: Checked
+20200421_10:25:41	Info	[Action] Contrast Threshold F : 18
+20200421_10:25:41	Info	[Action] Angle Range F : 22.5
+20200421_10:25:41	Info	[Action] Score Threshold F : 78
+20200421_10:25:42	Info	[Action] Enable R1: Checked
+20200421_10:25:42	Info	[Action] ContrastThreshold R: 18
+20200421_10:25:43	Info	[Action] Score Threshold R: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+20200421_10:25:43	Info	[Action] Align Tray Score Thresh : 60
+20200421_10:25:43	Info	[Action] Align Tray Enable: Checked
+20200421_10:25:43	Info	[Action] APNumbPocket : 8
+20200421_10:25:43	Info	[Action] Search Region Align Pocket : Region1
+20200421_10:25:43	Info	[Action] APScore : 60
+20200421_10:25:43	Info	[Action] Search Region Align Pocket : Region1
+20200421_10:25:43	Info	[Action] Number Align Pocket : 8
+20200421_10:25:43	Info	[Action] Search Region Align Pocket : Region1
+20200421_10:25:43	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200421_10:25:43	Info	[Action] Tolerance X : 0
+20200421_10:25:43	Info	[Action] Tolerance Y : 0
+20200421_10:25:43	Info	[Action] Tolerance Theta : 0
+20200421_10:25:43	Info	[Action] APExposure : 50
+20200421_10:25:44	Info	[Action] Pocket To lerance Enable: Checked
+20200421_10:25:44	Info	[Action] Pocket Lim Max X : 5
+20200421_10:25:44	Info	[Action] Pocket Lim Max Y : 5
+20200421_10:25:44	Info	[Action] Pocket Lim Max Theta : 5
+20200421_10:25:44	Info	[Action] Pocket Lim Min X : 5
+20200421_10:25:45	Info	[Action] Pocket Lim Min Y : 5
+20200421_10:25:45	Info	[Action] Pocket Lim Min Theta : 5
+20200421_10:25:45	Info	[Action] Go to Setup Insp...
+20200421_10:25:45	Info	[Action] Change Camera Mode: Teach Mode
+20200421_10:25:53	Info	[Action] Enable 2: Checked
+20200421_10:25:53	Info	[Action] Enable 2: Unchecked
+20200421_10:25:59	Info	[Action] Enable F: Checked
+20200421_10:25:59	Info	[Action] Contrast Threshold F: 10
+20200421_10:25:59	Info	[Action] Angle Range F: 180
+20200421_10:26:00	Info	[Action] Enable R: Checked
+20200421_10:26:00	Info	[Action] Contrast Threshold R: 15
+20200421_10:26:00	Info	[Action] Angle Range R: 180
+20200421_10:26:00	Info	[Action] Enable: Checked
+20200421_10:26:00	Info	[Action] Max Delta X: 5
+20200421_10:26:00	Info	[Action] Max Delta X: 5
+20200421_10:26:00	Info	[Action] Max Delta Y: 5
+20200421_10:26:00	Info	[Action] Max Delta Y: 5
+20200421_10:26:00	Info	[Action] Max Delta Theta: 5
+20200421_10:26:00	Info	[Action] Max Delta Theta: 5
+20200421_10:26:00	Info	[Action] Panel Params: Region1
+20200421_10:26:00	Info	[Action] Fwd/Rev: Forward
+20200421_10:26:00	Info	[Action] Score Threshold F: 50
+20200421_10:26:00	Info	[Action] Score Threshold R: 50
+20200421_10:26:00	Info	[Action] Panel Direction Enable : Checked
+20200421_10:26:01	Info	[Action] Vis Mean Thresh: 10
+20200421_10:26:01	Info	[Action] Vis Count Thresh: 5000
+20200421_10:26:01	Info	[Action] Vis Last Bin: 100
+20200421_10:26:01	Info	[Action] Check Shift Type: No Check
+20200421_10:26:01	Info	[Action] Find type: Histogram
+20200421_10:26:01	Info	[Action] Line Polarity: Black To White
+20200421_10:26:01	Info	[Action] Line Find By: Best Score
+20200421_10:26:01	Info	[Action] Edge Width: 3
+20200421_10:26:01	Info	[Action] Line Threshold: 5
+20200421_10:26:01	Info	[Action] Line Limit Angle: 3
+20200421_10:26:02	Info	[Action] Line Limit Angle: 3
+20200421_10:26:02	Info	[Action] Inspection Setting Page: Panel Inspection
+20200421_10:26:02	Info	[Action] Enable: Unchecked
+20200421_10:26:03	Info	[Action] Enable: Checked
+20200421_10:26:06	Info	[Action] Find type: Patmax Finder
+20200421_10:26:08	Info	[Action] Fwd/Rev: Reverse
+20200421_10:26:10	Info	[Action] Max Delta X: 5
+20200421_10:26:10	Info	[Action] Max Delta Y: 5
+20200421_10:26:10	Info	[Action] Max Delta Theta: 5
+20200421_10:26:10	Info	[Action] Panel Params: Region1
+20200421_10:26:10	Info	[Action] Number Pocket F: 9
+20200421_10:26:13	Info	[Action] Search Region: Region4
+20200421_10:26:15	Info	[Action] Click Vis Search Region
+20200421_10:26:19	Info	[Action] Click button Reset All Region
+20200421_10:26:25	Info	[Action] Check Shift Type: Find Patmax
+20200421_10:26:27	Info	[Action] Vis Mean Thresh: 11
+20200421_10:26:29	Info	[Action] Vis Mean Thresh: 10
+20200421_10:26:30	Info	[Action] Vis Count Thresh: 4999
+20200421_10:26:31	Info	[Action] Vis Count Thresh: 5000
+20200421_10:26:33	Info	[Action] Vis Last Bin: 99
+20200421_10:26:34	Info	[Action] Vis Last Bin: 100
+20200421_10:26:36	Info	[Action] Vis First Bin: 1
+20200421_10:26:37	Info	[Action] Vis First Bin: 0
+20200421_10:26:39	Info	[Action] Vis Show Graphic: 1
+20200421_10:26:39	Info	[Action] Vis Show Graphic: 0
+20200421_10:26:44	Info	[Action] Enable F: Unchecked
+20200421_10:26:45	Info	[Action] Enable F: Checked
+20200421_10:26:48	Info	[Action] Click Train Region F
+20200421_10:26:52	Info	[Action] Click Train Button F
+20200421_10:26:55	Info	[Action] Search Region F: Region3
+20200421_10:26:55	Info	[Action] Click Search Region F
+20200421_10:27:00	Info	[Action] Contrast Threshold F: 10.5
+20200421_10:27:00	Info	[Action] Contrast Threshold F: 10
+20200421_10:27:04	Info	[Action] Angle Range F: 179.5
+20200421_10:27:05	Info	[Action] Angle Range F: 180
+20200421_10:27:06	Info	[Action] Score Threshold F: 49
+20200421_10:27:07	Info	[Action] Score Threshold F: 50
+20200421_10:27:09	Info	[Action] Show Graphic F: 1
+20200421_10:27:12	Info	[Action] Show Graphic F: 0
+20200421_10:27:16	Info	[Action] Click Train Golden F
+20200421_10:27:23	Info	[Action] Contrast Threshold R: 14.5
+20200421_10:27:24	Info	[Action] Contrast Threshold R: 15
+20200421_10:27:26	Info	[Action] Angle Range R: 179.5
+20200421_10:27:27	Info	[Action] Angle Range R: 180
+20200421_10:27:27	Info	[Action] Score Threshold R: 49
+20200421_10:27:28	Info	[Action] Score Threshold R: 50
+20200421_10:27:30	Info	[Action] Show Graphic R: 1
+20200421_10:27:31	Info	[Action] Show Graphic R: 0
+20200421_10:27:32	Info	[Action] Click Train Golden R
+20200421_10:27:34	Info	[Action] Click Search Region R
+20200421_10:27:34	Info	[Action] Click Search Region R
+20200421_10:27:36	Info	[Action] Search Region R: Region2
+20200421_10:27:37	Info	[Action] Click TrainPM R
+20200421_10:27:39	Info	[Action] Click Train Region R
+20200421_10:27:40	Info	[Action] Check Shift Type: Find Patmax
+20200421_10:27:42	Info	[Action] Check Shift Type: Find Line
+20200421_10:27:46	Info	[Action] Max Delta X: 4.5
+20200421_10:27:47	Info	[Action] Max Delta X: 5
+20200421_10:27:47	Info	[Action] Max Delta Y: 5.5
+20200421_10:27:48	Info	[Action] Max Delta Y: 5
+20200421_10:27:49	Info	[Action] Max Delta Theta: 4.5
+20200421_10:27:51	Info	[Action] Max Delta Theta: 4
+20200421_10:27:53	Info	[Action] Max Delta X: 5.0
+20200421_10:27:53	Info	[Action] Max Delta Y: 5.0
+20200421_10:27:53	Info	[Action] Max Delta Theta: 5
+20200421_10:27:53	Info	[Action] Max Delta Theta: 5
+20200421_10:27:53	Info	[Action] Panel Params: Region3
+20200421_10:27:58	Info	[Action] Line Polarity: White To Black
+20200421_10:28:00	Info	[Action] Line Find By: Best Score
+20200421_10:28:04	Info	[Action] Line Polarity: White To Black
+20200421_10:28:05	Info	[Action] Line Polarity: Black To White
+20200421_10:28:07	Info	[Action] Line Show Graphic: 1
+20200421_10:28:08	Info	[Action] Line Show Graphic: 0
+20200421_10:28:09	Info	[Action] Line Threshold: 6
+20200421_10:28:10	Info	[Action] Line Threshold: 5
+20200421_10:28:14	Info	[Action] Line Limit Angle: 2
+20200421_10:28:14	Info	[Action] Line Limit Angle: 3
+20200421_10:28:15	Info	[Action] Line Limit Angle: 3
+20200421_10:28:16	Info	[Action] Line Limit Angle: 3
+20200421_10:28:17	Info	[Action] Click Line Train Golden
+20200421_10:28:19	Info	[Action] Click Line Reset All Region
+20200421_10:28:23	Info	[Action] Click Line Search Region
+20200421_10:28:25	Info	[Action] Line Search Region: Region4
+20200421_10:28:26	Info	[Action] Line Region Type: OrgReverse
+20200421_10:28:28	Info	[Action] Line Region Type: Forward
+20200421_10:28:29	Info	[Action] Enable Line: Checked
+20200421_10:28:29	Info	[Action] Enable Line: Unchecked
+20200421_10:28:33	Info	[Action] Enable: Checked
+20200421_10:28:33	Info	[Action] Contrast Threshold: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 255
+20200421_10:28:33	Info	[Action] Min Size: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 10000
+20200421_10:28:33	Info	[Action] Max Size: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100000
+20200421_10:28:33	Info	[Action] Enable Panel Blob: Checked
+20200421_10:28:33	Info	[Action] Panel Blob Search Type: Dark On Bright
+20200421_10:28:33	Info	[Action] Panel Blob Number: 2
+20200421_10:28:34	Info	[Action] Panel Contrast: 150
+20200421_10:28:34	Info	[Action] Panel Min Size: 100
+20200421_10:28:34	Info	[Action] Panel Max Size: 10000
+20200421_10:28:34	Info	[Action] Panel Show GraphicF: 1
+20200421_10:28:34	Info	[Action] Panel Number selected: Region1
+20200421_10:28:34	Info	[Action] Inspection Setting Page: Blob Finder
+20200421_10:28:35	Info	[Action] Enable: Unchecked
+20200421_10:28:36	Info	[Action] Enable: Checked
+20200421_10:28:52	Info	[Action] Click Search Region F
+20200421_10:28:54	Info	[Action] Click Search RegionR
+20200421_10:28:57	Info	[Action] Eidt Property Search RegionR
+20200421_10:29:01	Info	[Action] Eidt Property Search RegionF
+20200421_10:29:02	Info	[Action] Eidt Property Search RegionF
+20200421_10:29:05	Info	[Action] Show GraphicF: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 3
+20200421_10:29:06	Info	[Action] Show GraphicF: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 3
+20200421_10:29:07	Info	[Action] Show GraphicR: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 3
+20200421_10:29:08	Info	[Action] Show GraphicR: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 3
+20200421_10:29:24	Info	[Action] HMI Display Changed...
+20200421_10:30:27	Info	[Action] Show GraphicR: 1
+20200421_10:30:31	Info	[Action] Show GraphicR: 0
+20200421_10:30:33	Info	[Action] Show GraphicF: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 3
+20200421_10:30:35	Info	[Action] Show GraphicF: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 3
+20200421_10:30:52	Info	[Action] Show GraphicF: 1
+20200421_10:30:57	Info	[Action] Blob Search Type: Dark On Bright
+20200421_10:31:01	Info	[Action] Panel Number selected: Region2
+20200421_10:31:03	Info	[Action] Click Panel Search RegionF
+20200421_10:31:05	Info	[Action] Click Panel Search RegionR
+20200421_10:31:24	Info	[Action] Click Panel Search RegionF
+20200421_10:31:28	Info	[Action] Click Panel Search RegionF
+20200421_10:31:56	Info	[Action] Click Panel Search RegionF
+20200421_10:32:10	Info	[Action] Click Panel Search RegionR
+20200421_10:32:15	Info	[Action] Click Edit Property Panel Search RegionF
+20200421_10:32:19	Info	[Action] Click Panel property Search RegionF
+20200421_10:35:04	Warning	Auto reconnect Camera...
+20200421_10:35:04	Info	Disconnected to sensor
+20200421_10:35:09	Info	Connected to sensor
+20200421_10:38:03	Info	[Action] Click Panel Search Region Property R
+20200421_10:38:03	Info	[Action] Click Panel Search Region Property R
+20200421_10:38:04	Info	[Action] Search Region Align Pocket : Region1
+20200421_10:38:04	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200421_10:38:04	Info	[Action] Tolerance X : 0
+20200421_10:38:04	Info	[Action] Tolerance Y : 0
+20200421_10:38:04	Info	[Action] Tolerance Theta : 0
+20200421_10:38:05	Info	[Action] Go to Setup Insp...
+20200421_10:38:05	Info	[Action] Change Camera Mode: Teach Mode
+20200421_10:38:07	Info	[Action] Sort Finder Result: Score
+20200421_10:38:07	Info	[Action] Contrast Threshold F: 15
+20200421_10:38:08	Info	[Action] Contrast Angle Range F: 20
+20200421_10:38:08	Info	[Action] Score Threshold F: 60
+20200421_10:38:08	Info	[Action] ContrastThreshold F2: 15
+20200421_10:38:08	Info	[Action] Angle Range F2: 20
+20200421_10:38:08	Info	[Action] Score Threshold F2: 60
+20200421_10:38:08	Info	[Action] Sort Finder Result: Score
+20200421_10:38:08	Info	[Action] X: 335
+20200421_10:38:08	Info	[Action] Y: 681.5
+20200421_10:38:08	Info	[Action] X 2: 338
+20200421_10:38:08	Info	[Action] Y 2: 687
+20200421_10:38:09	Info	[Action] Exposure: 50
+20200421_10:38:11	Info	[Action] Exposure: 50
+20200421_10:38:12	Info	[Action] Finder Type: Patmax
+20200421_10:38:12	Info	[Action] Edge Fixture Type: No Fixture
+20200421_10:38:12	Info	[Action] Line Edge Fixture Type 2: No Fixture
+20200421_10:38:12	Info	[Action] Line Search Region: Edge 0
+20200421_10:38:12	Info	[Action] Line Polarity: Either
+20200421_10:38:12	Info	[Action] Line Find By : Last Edge
+20200421_10:38:12	Info	[Action] Edge Width: 5
+20200421_10:38:13	Info	[Action] Line Threshold: 25
+20200421_10:38:13	Info	[Action] Line Search Region 2: Edge 0
+20200421_10:38:13	Info	[Action] Line Polarity 2: System.Windows.Forms.ComboBox+ObjectCollection
+20200421_10:38:13	Info	[Action] Line Find By 2: System.Windows.Forms.ComboBox+ObjectCollection
+20200421_10:38:13	Info	[Action] Edge Width 2: 5
+20200421_10:38:13	Info	[Action] Line Threshold 2: 25
+20200421_10:38:13	Info	[Action] PM Contrast: 15
+20200421_10:38:13	Info	[Action] PM Score: 0
+20200421_10:38:14	Info	[Action] PM Angle: 0
+20200421_10:38:14	Info	[Action] PM Contrast: 15
+20200421_10:38:14	Info	[Action] PM Score: 60
+20200421_10:38:14	Info	[Action] PM Angle: 0
+20200421_10:38:14	Info	[Action] PM Contrast: 15
+20200421_10:38:14	Info	[Action] PM Score: 60
+20200421_10:38:14	Info	[Action] PM Angle: 20
+20200421_10:38:15	Info	[Action] Hist First Bin: 0
+20200421_10:38:15	Info	[Action] Hist Last Bin: 255
+20200421_10:38:15	Info	[Action] Hist Mean Threst: 0
+20200421_10:38:15	Info	[Action] Hist Count Threst: 0
+20200421_10:38:15	Info	[Action] Hist First Bin: 0
+20200421_10:38:15	Info	[Action] Hist Last Bin: 255
+20200421_10:38:16	Info	[Action] Hist Mean Threst: 200
+20200421_10:38:16	Info	[Action] Hist Count Threst: 0
+20200421_10:38:16	Info	[Action] Hist First Bin: 0
+20200421_10:38:16	Info	[Action] Hist Last Bin: 255
+20200421_10:38:16	Info	[Action] Hist Mean Threst: 200
+20200421_10:38:16	Info	[Action] Hist Count Threst: 20000
+20200421_10:38:17	Info	[Action] Condition Type: Histogram Less Than
+20200421_10:38:17	Info	[Action] Patmax CondType: Patmax Present
+20200421_10:38:17	Info	[Action] Inspection Setting Page: Conveyor/Align Inspection
+20200421_10:38:23	Info	[Action] Sort Finder Result: X Decrease
+20200421_10:38:26	Info	[Action] Sort Finder Result: Score
+20200421_10:38:27	Info	[Action] One Target For Two Tools: Unchecked
+20200421_10:38:28	Info	[Action] One Target For Two Tools: Checked
+20200421_10:38:32	Info	[Action] Finder Type: Line Intersection
+20200421_10:38:33	Info	[Action] Finder Type: Patmax
+20200421_10:38:35	Info	[Action] Sort Finder Result: Score
+20200421_10:38:41	Info	[Action] Sort Finder Result: Score
+20200421_10:39:16	Info	[Action] Finder Type: Score
+20200421_10:39:32	Info	[Action] Finder Type: Patmax Only
+20200421_10:39:36	Info	[Action] Finder Type: Line Intersection
+20200421_10:39:39	Info	[Action] Finder Type: Patmax Only
+20200421_10:39:40	Info	[Action] Finder Type: Center Point
+20200421_10:39:42	Info	[Action] Finder Type: Patmax
+20200421_10:39:48	Info	[Action] Exposure: 50.1
+20200421_10:39:49	Info	[Action] Exposure: 50
+20200421_10:39:53	Info	[Action] Click Train Region F
+20200421_10:39:59	Info	[Action] Click Train F
+20200421_10:40:00	Info	[Action] Click Train F
+20200421_10:40:04	Info	[Action] Click Search Region F
+20200421_10:40:15	Info	[Action] Click Train Golden F
+20200421_10:40:28	Info	[Action] X: 33
+20200421_10:40:29	Info	[Action] X: 336
+20200421_10:40:34	Info	[Action] Contrast Threshold F: 14.5
+20200421_10:40:37	Info	[Action] Contrast Threshold F: 15
+20200421_10:40:39	Info	[Action] Contrast Angle Range F: 20.5
+20200421_10:40:40	Info	[Action] Contrast Angle Range F: 20
+20200421_10:40:42	Info	[Action] Score Threshold F: 59
+20200421_10:40:43	Info	[Action] Score Threshold F: 60
+20200421_10:40:48	Info	[Action] Align Feature Scale F: 1
+20200421_10:40:49	Info	[Action] Align Feature Scale F: 0
+20200421_10:40:51	Info	[Action] Show Offset F: Checked
+20200421_10:40:54	Info	[Action] Show Offset F: Unchecked
+20200421_10:41:21	Info	[Action] Show Offset F: Checked
+20200421_10:41:28	Info	[Action] Show Offset F: Unchecked
+20200421_10:41:37	Info	[Action] Exposure: 49.9
+20200421_10:41:39	Info	[Action] Exposure: 50
+20200421_10:41:42	Info	[Action] Exposure: 50.1
+20200421_10:41:44	Info	[Action] Click Train Region F2
+20200421_10:41:46	Info	[Action] Click Search Region F2
+20200421_10:41:50	Info	[Action] Click TrainPM F2
+20200421_10:41:55	Info	[Action] ContrastThreshold F2: 14.5
+20200421_10:41:56	Info	[Action] Angle Range F2: 19.5
+20200421_10:41:57	Info	[Action] Score Threshold F2: 59
+20200421_10:42:00	Info	[Action] Align Feature Scale 2: 1
+20200421_10:42:03	Info	[Action] Score Threshold F2: 58
+20200421_10:42:04	Info	[Action] Angle Range F2: 19
+20200421_10:42:05	Info	[Action] Angle Range F2: 19.5
+20200421_10:42:06	Info	[Action] Angle Range F2: 20
+20200421_10:42:08	Info	[Action] ContrastThreshold F2: 15
+20200421_10:42:12	Info	[Action] X 2: 33
+20200421_10:42:12	Info	[Action] X 2: 337
+20200421_10:42:15	Info	[Action] Y 2: 68
+20200421_10:42:16	Info	[Action] Y 2: 686
+20200421_10:42:18	Info	[Action] Show Offset F2: Checked
+20200421_10:42:19	Info	[Action] Show Offset F2: Unchecked
+20200421_10:42:23	Info	[Action] Edge Fixture Type: Patmax
+20200421_10:42:25	Info	[Action] Edge Fixture Type: No Fixture
+20200421_10:42:26	Info	[Action] Line Search Region: Edge 1
+20200421_10:42:27	Info	[Action] Line Threshold: 23
+20200421_10:42:33	Info	[Action] Line Search Region: Edge 0
+20200421_10:42:34	Info	[Action] Line Threshold: 25
+20200421_10:43:38	Info	[Action] Line Search Region: Edge 1
+20200421_10:44:05	Info	[Action] Line Threshold: 23
+20200421_10:44:23	Info	[Action] Line Search Region: Edge 0
+20200421_10:44:23	Info	[Action] Line Threshold: 25
+20200421_10:44:25	Info	[Action] Edge Width: 4
+20200421_10:44:26	Info	[Action] Edge Width: 5
+20200421_10:44:29	Info	[Action] Line Find By : First Edge
+20200421_10:44:32	Info	[Action] Line Find By : Best Score
+20200421_10:44:33	Info	[Action] Line Find By : Last Edge
+20200421_10:44:35	Info	[Action] Line Polarity: White To Black
+20200421_10:44:37	Info	[Action] Line Polarity: Either
+20200421_10:44:39	Info	[Action] Click Line Train Golden
+20200421_10:44:46	Info	[Action] Line Edge Fixture Type 2: Patmax
+20200421_10:44:48	Info	[Action] Line Edge Fixture Type 2: No Fixture
+20200421_10:44:50	Info	[Action] Line Search Region 2: Edge 0
+20200421_10:44:54	Info	[Action] Line Search Region 2: Edge 1
+20200421_10:44:55	Info	[Action] Edge Width 2: 3
+20200421_10:44:56	Info	[Action] Line Search Region 2: Edge 0
+20200421_10:44:57	Info	[Action] Edge Width 2: 5
+20200421_10:44:59	Info	[Action] Click Line Search Region 2
+20200421_10:45:00	Info	[Action] Click Line Search Region 2
+20200421_10:45:04	Info	[Action] Click Line Search Region 2
+20200421_10:45:09	Info	[Action] Click Line Train Golden 2
+20200421_10:45:12	Info	[Action] Click Line Reset All Region 2
+20200421_10:45:17	Info	[Action] Line Find By 2: System.Windows.Forms.ComboBox+ObjectCollection
+20200421_10:45:58	Info	[Action] Line Find By 2: First Edge
+20200421_10:47:44	Info	Starting program...
+20200421_10:52:57	Info	[Action] Connect/Disconect...
+20200421_10:52:57	Info	Disconnected to sensor
+20200421_10:53:01	Info	Connected to sensor
+20200421_10:53:04	Info	[Action] Log-in as Administrator
+20200421_10:53:06	Info	[Action] Enable 1: Checked
+20200421_10:53:07	Info	[Action] Contrast Threshold F : 18
+20200421_10:53:07	Info	[Action] Angle Range F : 22.5
+20200421_10:53:08	Info	[Action] Score Threshold F : 78
+20200421_10:53:08	Info	[Action] Enable R1: Checked
+20200421_10:53:09	Info	[Action] ContrastThreshold R: 18
+20200421_10:53:09	Info	[Action] Score Threshold R: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+20200421_10:53:09	Info	[Action] Align Tray Score Thresh : 60
+20200421_10:53:10	Info	[Action] Align Tray Enable: Checked
+20200421_10:53:10	Info	[Action] APNumbPocket : 8
+20200421_10:53:10	Info	[Action] Search Region Align Pocket : Region1
+20200421_10:53:10	Info	[Action] APScore : 60
+20200421_10:53:10	Info	[Action] Search Region Align Pocket : Region1
+20200421_10:53:10	Info	[Action] Number Align Pocket : 8
+20200421_10:53:10	Info	[Action] Search Region Align Pocket : Region1
+20200421_10:53:10	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200421_10:53:10	Info	[Action] Tolerance X : 0
+20200421_10:53:10	Info	[Action] Tolerance Y : 0
+20200421_10:53:10	Info	[Action] Tolerance Theta : 0
+20200421_10:53:11	Info	[Action] APExposure : 50
+20200421_10:53:12	Info	[Action] Pocket To lerance Enable: Checked
+20200421_10:53:12	Info	[Action] Pocket Lim Max X : 5
+20200421_10:53:12	Info	[Action] Pocket Lim Max Y : 5
+20200421_10:53:12	Info	[Action] Pocket Lim Max Theta : 5
+20200421_10:53:13	Info	[Action] Pocket Lim Min X : 5
+20200421_10:53:13	Info	[Action] Pocket Lim Min Y : 5
+20200421_10:53:13	Info	[Action] Pocket Lim Min Theta : 5
+20200421_10:53:14	Info	[Action] Go to Setup Insp...
+20200421_10:53:14	Info	[Action] Change Camera Mode: Teach Mode
+20200421_10:53:18	Info	[Action] Sort Finder Result: Score
+20200421_10:53:19	Info	[Action] Contrast Threshold F: 15
+20200421_10:53:20	Info	[Action] Contrast Angle Range F: 20
+20200421_10:53:20	Info	[Action] Score Threshold F: 60
+20200421_10:53:21	Info	[Action] ContrastThreshold F2: 15
+20200421_10:53:21	Info	[Action] Angle Range F2: 20
+20200421_10:53:22	Info	[Action] Score Threshold F2: 58
+20200421_10:53:22	Info	[Action] Align Feature Scale 2: 1
+20200421_10:53:23	Info	[Action] Finder Type: Center Point
+20200421_10:53:23	Info	[Action] X: 335
+20200421_10:53:23	Info	[Action] Y: 681.5
+20200421_10:53:23	Info	[Action] X 2: 338
+20200421_10:53:23	Info	[Action] Y 2: 687
+20200421_10:53:24	Info	[Action] Exposure: 50
+20200421_10:53:27	Info	[Action] Exposure: 50.1
+20200421_10:53:29	Info	[Action] Finder Type: Patmax
+20200421_10:53:30	Info	[Action] Edge Fixture Type: No Fixture
+20200421_10:53:30	Info	[Action] Line Edge Fixture Type 2: No Fixture
+20200421_10:53:30	Info	[Action] Line Search Region: Edge 0
+20200421_10:53:31	Info	[Action] Line Polarity: Either
+20200421_10:53:31	Info	[Action] Line Find By : Last Edge
+20200421_10:53:32	Info	[Action] Edge Width: 5
+20200421_10:53:32	Info	[Action] Line Threshold: 25
+20200421_10:53:32	Info	[Action] Line Search Region 2: Edge 0
+20200421_10:53:32	Info	[Action] Line Polarity 2: System.Windows.Forms.ComboBox+ObjectCollection
+20200421_10:53:40	Info	[Action] Line Find By 2: First Edge
+20200421_10:53:41	Info	[Action] Edge Width 2: 5
+20200421_10:53:41	Info	[Action] Line Threshold 2: 25
+20200421_10:53:42	Info	[Action] PM Contrast: 15
+20200421_10:53:42	Info	[Action] PM Score: 0
+20200421_10:53:43	Info	[Action] PM Angle: 0
+20200421_10:53:43	Info	[Action] PM Contrast: 15
+20200421_10:53:44	Info	[Action] PM Score: 60
+20200421_10:53:44	Info	[Action] PM Angle: 0
+20200421_10:53:45	Info	[Action] PM Contrast: 15
+20200421_10:53:45	Info	[Action] PM Score: 60
+20200421_10:53:46	Info	[Action] PM Angle: 20
+20200421_10:53:46	Info	[Action] Hist First Bin: 0
+20200421_10:53:47	Info	[Action] Hist Last Bin: 255
+20200421_10:53:47	Info	[Action] Hist Mean Threst: 0
+20200421_10:53:48	Info	[Action] Hist Count Threst: 0
+20200421_10:53:48	Info	[Action] Hist First Bin: 0
+20200421_10:53:48	Info	[Action] Hist Last Bin: 255
+20200421_10:53:49	Info	[Action] Hist Mean Threst: 200
+20200421_10:53:49	Info	[Action] Hist Count Threst: 0
+20200421_10:53:50	Info	[Action] Hist First Bin: 0
+20200421_10:53:50	Info	[Action] Hist Last Bin: 255
+20200421_10:53:51	Info	[Action] Hist Mean Threst: 200
+20200421_10:53:51	Info	[Action] Hist Count Threst: 20000
+20200421_10:53:53	Info	[Action] Condition Type: Histogram Less Than
+20200421_10:53:54	Info	[Action] Patmax CondType: Patmax Present
+20200421_10:53:54	Info	[Action] Inspection Setting Page: Conveyor/Align Inspection
+20200421_10:54:09	Info	[Action] Line Find By 2: Best Score
+20200421_10:54:11	Info	[Action] Line Find By 2: Last Edge
+20200421_10:54:14	Info	[Action] Line Polarity 2: System.Windows.Forms.ComboBox+ObjectCollection
+20200421_10:54:35	Info	[Action] Line Polarity 2: Black To White
+20200421_10:54:39	Info	[Action] Line Polarity 2: White To Black
+20200421_10:54:40	Info	[Action] Line Polarity 2: Black To White
+20200421_10:54:43	Info	[Action] Line Edge Fixture Type 2: No Fixture
+20200421_10:54:48	Info	[Action] Line Edge Fixture Type 2: No Fixture
+20200421_10:54:51	Info	[Action] Line Search Region 2: Edge 1
+20200421_10:54:52	Info	[Action] Line Polarity 2: Either
+20200421_10:54:52	Info	[Action] Edge Width 2: 3
+20200421_10:54:57	Info	[Action] Line Search Region 2: Edge 0
+20200421_10:54:57	Info	[Action] Line Polarity 2: Black To White
+20200421_10:54:58	Info	[Action] Edge Width 2: 5
+20200421_10:55:04	Info	[Action] Enable Patmax: Checked
+20200421_10:55:06	Info	[Action] Enable Patmax: Unchecked
+20200421_10:55:07	Info	[Action] Enable Histogram: Checked
+20200421_10:55:08	Info	[Action] Enable Histogram: Unchecked
+20200421_10:55:08	Info	[Action] Show Graphic: Checked
+20200421_10:55:11	Info	[Action] Show Graphic: Unchecked
+20200421_10:55:14	Info	[Action] Patmax CondType: Patmax Absent
+20200421_10:55:16	Info	[Action] Patmax CondType: Patmax Present
+20200421_10:55:17	Info	[Action] Click PM Train Region
+20200421_10:55:23	Info	[Action] Click PM Train Region
+20200421_10:55:31	Info	[Action] Click PM Search Region
+20200421_10:55:36	Info	[Action] Click PM Train
+20200421_10:56:09	Info	[Action] PM Contrast: 15.5
+20200421_10:56:09	Info	[Action] PM Score: 60
+20200421_10:56:10	Info	[Action] PM Angle: 20
+20200421_10:56:13	Info	[Action] PM Contrast: 15
+20200421_10:56:14	Info	[Action] PM Score: 60
+20200421_10:56:14	Info	[Action] PM Angle: 20
+20200421_10:56:17	Info	[Action] PM Contrast: 15
+20200421_10:56:18	Info	[Action] PM Score: 61
+20200421_10:56:18	Info	[Action] PM Angle: 20
+20200421_10:56:23	Info	[Action] PM Contrast: 15
+20200421_10:56:24	Info	[Action] PM Score: 60
+20200421_10:56:24	Info	[Action] PM Angle: 20
+20200421_10:56:31	Info	[Action] Condition Type: Histogram More Than
+20200421_10:56:33	Info	[Action] Condition Type: Histogram More Than
+20200421_10:56:34	Info	[Action] Condition Type: Histogram Less Than
+20200421_10:56:37	Info	[Action] Hist First Bin: 0
+20200421_10:56:37	Info	[Action] Hist Last Bin: 255
+20200421_10:56:37	Info	[Action] Hist Mean Threst: 201
+20200421_10:56:38	Info	[Action] Hist Count Threst: 20000
+20200421_10:56:39	Info	[Action] Hist First Bin: 0
+20200421_10:56:40	Info	[Action] Hist Last Bin: 255
+20200421_10:56:40	Info	[Action] Hist Mean Threst: 200
+20200421_10:56:41	Info	[Action] Hist Count Threst: 20000
+20200421_10:56:44	Info	[Action] Hist First Bin: 0
+20200421_10:56:44	Info	[Action] Hist Last Bin: 255
+20200421_10:56:45	Info	[Action] Hist Mean Threst: 200
+20200421_10:56:45	Info	[Action] Hist Count Threst: 20001
+20200421_10:56:48	Info	[Action] Hist First Bin: 0
+20200421_10:56:48	Info	[Action] Hist Last Bin: 255
+20200421_10:56:49	Info	[Action] Hist Mean Threst: 200
+20200421_10:56:49	Info	[Action] Hist Count Threst: 20000
+20200421_10:56:52	Info	[Action] Hist First Bin: 1
+20200421_10:56:52	Info	[Action] Hist Last Bin: 255
+20200421_10:56:53	Info	[Action] Hist Mean Threst: 200
+20200421_10:56:53	Info	[Action] Hist Count Threst: 20000
+20200421_10:56:57	Info	[Action] Hist First Bin: 0
+20200421_10:56:57	Info	[Action] Hist Last Bin: 255
+20200421_10:56:58	Info	[Action] Hist Mean Threst: 200
+20200421_10:56:58	Info	[Action] Hist Count Threst: 20000
+20200421_10:57:01	Info	[Action] Click Hist Search Region
+20200421_10:57:12	Info	[Action] Enable Limit: Checked
+20200421_10:57:13	Info	[Action] Enable Limit: Unchecked
+20200421_11:05:04	Info	Starting program...
+20200421_11:05:27	Info	[Action] Connect/Disconect...
+20200421_11:05:27	Info	Disconnected to sensor
+20200421_11:05:31	Info	Connected to sensor
+20200421_11:05:35	Info	[Action] Log-in as Supervisor
+20200421_11:05:49	Info	[Action] Enable 1: Checked
+20200421_11:05:50	Info	[Action] Contrast Threshold F : 18
+20200421_11:05:50	Info	[Action] Angle Range F : 22.5
+20200421_11:05:50	Info	[Action] Score Threshold F : 78
+20200421_11:05:51	Info	[Action] Enable R1: Checked
+20200421_11:05:52	Info	[Action] ContrastThreshold R: 18
+20200421_11:05:52	Info	[Action] Score Threshold R: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+20200421_11:05:52	Info	[Action] Align Tray Score Thresh : 60
+20200421_11:05:52	Info	[Action] Align Tray Enable: Checked
+20200421_11:05:53	Info	[Action] APNumbPocket : 8
+20200421_11:05:53	Info	[Action] Search Region Align Pocket : Region1
+20200421_11:05:53	Info	[Action] APScore : 60
+20200421_11:05:53	Info	[Action] Search Region Align Pocket : Region1
+20200421_11:05:53	Info	[Action] Number Align Pocket : 8
+20200421_11:05:53	Info	[Action] Search Region Align Pocket : Region1
+20200421_11:05:53	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200421_11:05:53	Info	[Action] Tolerance X : 0
+20200421_11:05:53	Info	[Action] Tolerance Y : 0
+20200421_11:05:53	Info	[Action] Tolerance Theta : 0
+20200421_11:05:53	Info	[Action] APExposure : 50
+20200421_11:05:55	Info	[Action] Pocket To lerance Enable: Checked
+20200421_11:05:55	Info	[Action] Pocket Lim Max X : 5
+20200421_11:05:55	Info	[Action] Pocket Lim Max Y : 5
+20200421_11:05:55	Info	[Action] Pocket Lim Max Theta : 5
+20200421_11:05:55	Info	[Action] Pocket Lim Min X : 5
+20200421_11:05:56	Info	[Action] Pocket Lim Min Y : 5
+20200421_11:05:56	Info	[Action] Pocket Lim Min Theta : 5
+20200421_11:05:57	Info	[Action] Go to Setup Insp...
+20200421_11:05:57	Info	[Action] Change Camera Mode: Teach Mode
+20200421_11:06:02	Info	[Action] Tray Inspection Enable: Unchecked
+20200421_11:06:04	Info	[Action] Tray Inspection Enable: Unchecked
+20200421_11:06:04	Info	[Action] Inspection Setting Page: Display Control
+20200421_11:06:05	Info	[Action] Sort Finder Result: Score
+20200421_11:06:05	Info	[Action] Contrast Threshold F: 15
+20200421_11:06:06	Info	[Action] Contrast Angle Range F: 20
+20200421_11:06:07	Info	[Action] Score Threshold F: 60
+20200421_11:06:07	Info	[Action] ContrastThreshold F2: 15
+20200421_11:06:08	Info	[Action] Angle Range F2: 20
+20200421_11:06:08	Info	[Action] Score Threshold F2: 58
+20200421_11:06:09	Info	[Action] Align Feature Scale 2: 1
+20200421_11:06:10	Info	[Action] Finder Type: Center Point
+20200421_11:06:10	Info	[Action] X: 335
+20200421_11:06:10	Info	[Action] Y: 681.5
+20200421_11:06:10	Info	[Action] X 2: 338
+20200421_11:06:10	Info	[Action] Y 2: 687
+20200421_11:06:11	Info	[Action] Exposure: 50
+20200421_11:06:13	Info	[Action] Exposure: 50.1
+20200421_11:06:16	Info	[Action] Finder Type: Patmax
+20200421_11:06:16	Info	[Action] Edge Fixture Type: No Fixture
+20200421_11:06:17	Info	[Action] Line Edge Fixture Type 2: No Fixture
+20200421_11:06:17	Info	[Action] Line Search Region: Edge 0
+20200421_11:06:17	Info	[Action] Line Polarity: Either
+20200421_11:06:18	Info	[Action] Line Find By : Last Edge
+20200421_11:06:18	Info	[Action] Edge Width: 5
+20200421_11:06:19	Info	[Action] Line Threshold: 25
+20200421_11:06:19	Info	[Action] Line Search Region 2: Edge 0
+20200421_11:06:19	Info	[Action] Line Polarity 2: Black To White
+20200421_11:06:20	Info	[Action] Line Find By 2: Last Edge
+20200421_11:06:20	Info	[Action] Edge Width 2: 5
+20200421_11:06:20	Info	[Action] Line Threshold 2: 25
+20200421_11:06:21	Info	[Action] PM Contrast: 15
+20200421_11:06:21	Info	[Action] PM Score: 0
+20200421_11:06:22	Info	[Action] PM Angle: 0
+20200421_11:06:22	Info	[Action] PM Contrast: 15
+20200421_11:06:23	Info	[Action] PM Score: 60
+20200421_11:06:23	Info	[Action] PM Angle: 0
+20200421_11:06:24	Info	[Action] PM Contrast: 15
+20200421_11:06:24	Info	[Action] PM Score: 60
+20200421_11:06:25	Info	[Action] PM Angle: 20
+20200421_11:06:25	Info	[Action] Hist First Bin: 0
+20200421_11:06:26	Info	[Action] Hist Last Bin: 255
+20200421_11:06:26	Info	[Action] Hist Mean Threst: 0
+20200421_11:06:27	Info	[Action] Hist Count Threst: 0
+20200421_11:06:27	Info	[Action] Hist First Bin: 0
+20200421_11:06:28	Info	[Action] Hist Last Bin: 255
+20200421_11:06:28	Info	[Action] Hist Mean Threst: 200
+20200421_11:06:29	Info	[Action] Hist Count Threst: 0
+20200421_11:06:29	Info	[Action] Hist First Bin: 0
+20200421_11:06:30	Info	[Action] Hist Last Bin: 255
+20200421_11:06:30	Info	[Action] Hist Mean Threst: 200
+20200421_11:06:31	Info	[Action] Hist Count Threst: 20000
+20200421_11:06:31	Info	[Action] Limit X: 5
+20200421_11:06:31	Info	[Action] Limit Y: 0
+20200421_11:06:31	Info	[Action] Limit Theta: 0
+20200421_11:06:31	Info	[Action] Limit X: 5
+20200421_11:06:31	Info	[Action] Limit Y: 5
+20200421_11:06:32	Info	[Action] Limit Theta: 0
+20200421_11:06:32	Info	[Action] Limit X: 5
+20200421_11:06:32	Info	[Action] Limit Y: 5
+20200421_11:06:32	Info	[Action] Limit Theta: 5
+20200421_11:06:33	Info	[Action] Condition Type: Histogram Less Than
+20200421_11:06:33	Info	[Action] Patmax CondType: Patmax Present
+20200421_11:06:33	Info	[Action] Inspection Setting Page: Conveyor/Align Inspection
+20200421_11:06:40	Info	[Action] Limit X: 5.5
+20200421_11:06:40	Info	[Action] Limit Y: 5
+20200421_11:06:40	Info	[Action] Limit Theta: 5
+20200421_11:06:46	Info	[Action] Limit X: 5
+20200421_11:06:46	Info	[Action] Limit Y: 5
+20200421_11:06:46	Info	[Action] Limit Theta: 5
+20200421_11:06:49	Info	[Action] Limit X: 5
+20200421_11:06:50	Info	[Action] Limit Y: 5.5
+20200421_11:06:50	Info	[Action] Limit Theta: 5
+20200421_11:06:51	Info	[Action] Limit X: 5
+20200421_11:06:51	Info	[Action] Limit Y: 5
+20200421_11:06:52	Info	[Action] Limit Theta: 5
+20200421_11:06:54	Info	[Action] Inspection Setting Page: Display Control
+20200421_11:06:58	Info	[Action] Inspection Enable: Checked
+20200421_11:07:01	Info	[Action] Inspection Enable: Unchecked
+20200421_11:07:07	Info	[Action] Tray Inspection Enable: Checked
+20200421_11:07:10	Info	[Action] Tray Inspection Enable: Unchecked
+20200421_11:07:12	Info	[Action] Tray Inspection Enable: Unchecked
+20200421_11:07:16	Info	[Action] Tray Inspection Enable: Unchecked
+20200421_11:07:17	Info	[Action] Show Train Pattern 1...
+20200421_11:07:20	Info	[Action] Hide Train Pattern 1...
+20200421_11:07:22	Info	[Action] Show Train Pattern 2...
+20200421_11:07:23	Info	[Action] Hide Train Pattern 2...
+20200421_11:07:27	Info	[Action] Tray Inspection Enable: Unchecked
+20200421_11:07:30	Info	[Action] Tray Inspection Enable: Unchecked
+20200421_11:07:39	Info	[Action] Tray Inspection Enable: Unchecked
+20200421_11:07:43	Info	[Action] Tray Inspection Enable: Unchecked
+20200421_11:07:51	Info	[Action] Inspection Enable: Checked
+20200421_11:07:54	Info	[Action] Tray Inspection Enable: Unchecked
+20200421_11:07:58	Info	[Action] Tray Inspection Enable: Checked
+20200421_11:08:00	Info	[Action] Tray Inspection Enable: Checked
+20200421_11:08:04	Info	[Action] Tray Inspection Enable: Unchecked
+20200421_11:08:06	Info	[Action] Inspection Enable: Unchecked
+20200421_11:08:08	Info	[Action] Tray Inspection Enable: Unchecked
+20200421_11:08:09	Info	[Action] Tray Inspection Enable: Unchecked
+20200421_11:08:14	Info	[Action] Go to Intrinsic...
+20200421_11:08:56	Info	[Action] Exit program...
+20200421_11:08:56	Info	Disconnected to sensor
+20200421_14:38:55	Info	Starting program...
+20200421_14:39:01	Info	[Action] Connect/Disconect...
+20200421_14:39:01	Info	Disconnected to sensor
+20200421_14:39:09	Info	Connected to sensor
+20200421_14:39:14	Info	[Action] Log-in as Administrator
+20200421_14:39:17	Info	[Action] Unit: Milimeters
+20200421_14:39:18	Info	[Action] Show Graphic: 0
+20200421_14:39:18	Info	[Action] Go to Intrinsic...
+20200421_14:39:22	Info	[Action] Unit: Microns
+20200421_14:39:29	Info	[Action] Size X: 5.5
+20200421_14:39:33	Info	[Action] Unit: Centimeters
+20200421_14:39:37	Info	[Action] Size X: 5
+20200421_14:39:39	Info	[Action] Size Y: 4.5
+20200421_14:39:40	Info	[Action] Size Y: 5
+20200421_14:39:42	Info	[Action] Calculate Intrinsic...
+20200421_14:43:39	Info	[Action] Exit program...
+20200421_14:43:39	Info	Disconnected to sensor

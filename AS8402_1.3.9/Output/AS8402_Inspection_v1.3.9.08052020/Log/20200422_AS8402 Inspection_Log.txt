@@ -1,0 +1,118 @@
+20200422_14:43:18	Info	Starting program...
+20200422_15:48:11	Info	Starting program...
+20200422_15:48:18	Info	[Action] Connect/Disconect...
+20200422_15:48:18	Info	Disconnected to sensor
+20200422_15:48:20	Info	Connected to sensor
+20200422_15:48:33	Info	[Action] Log-in as Administrator
+20200422_15:48:35	Info	[Action] Enable 1: Checked
+20200422_15:48:35	Info	[Action] Show Graphic F : 3
+20200422_15:48:35	Info	[Action] Enable R1: Checked
+20200422_15:48:35	Info	[Action] Show Graphic R: 3
+20200422_15:48:35	Info	[Action] Align Pocket Contrast Thresh : 17
+20200422_15:48:35	Info	[Action] Align Pocket Angle Range : 19.5
+20200422_15:48:35	Info	[Action] Align Tray Score Thresh : 38
+20200422_15:48:35	Info	[Action] APNumbPocket : 2
+20200422_15:48:35	Info	[Action] Search Region Align Pocket : Region1
+20200422_15:48:35	Info	[Action] Search Region Align Pocket : Region1
+20200422_15:48:35	Info	[Action] Number Align Pocket : 2
+20200422_15:48:35	Info	[Action] Search Region Align Pocket : Region1
+20200422_15:48:35	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200422_15:48:35	Info	[Action] Align TrayXTT Enable : Unchecked
+20200422_15:48:36	Info	[Action] Enable 2: Checked
+20200422_15:48:36	Info	[Action] Enable R2: Checked
+20200422_15:48:36	Info	[Action] Offset X1 F: 0.000
+20200422_15:48:36	Info	[Action] Offset Y1 F: 0.000
+20200422_15:48:36	Info	[Action] Offset X1 R: 0.000
+20200422_15:48:36	Info	[Action] Offset Y1 R: 0.000
+20200422_15:48:36	Info	[Action] Offset X2 F: -170.505
+20200422_15:48:36	Info	[Action] Offset Y2 F: 0.000
+20200422_15:48:36	Info	[Action] Offset X2 R: -25.995
+20200422_15:48:36	Info	[Action] Offset Y2 R: -540.997
+20200422_15:48:36	Info	[Action] Go to Setup Insp...
+20200422_15:48:36	Info	[Action] Change Camera Mode: Teach Mode
+20200422_15:48:45	Info	[Action] AP Search Region : Region2
+20200422_15:50:26	Info	[Action]Camera Address: 192.168.1.69
+20200422_15:50:26	Info	[Action] Go to Setting HW...
+20200422_15:51:05	Info	[Action] Unit: Milimeters
+20200422_15:51:06	Info	[Action] Show Graphic: 0
+20200422_15:51:06	Info	[Action] Go to Intrinsic...
+20200422_15:51:07	Info	[Action] Search Region Align Pocket : Region1
+20200422_15:51:07	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200422_15:51:08	Info	[Action] Go to Setup Insp...
+20200422_15:51:08	Info	[Action] Change Camera Mode: Teach Mode
+20200422_15:51:10	Info	[Action] Tray Inspection Enable: Unchecked
+20200422_15:51:10	Info	[Action] Inspection Setting Page: Display Control
+20200422_15:51:39	Info	[Action] Enable F: Checked
+20200422_15:51:40	Info	[Action] Contrast Threshold F: 10
+20200422_15:51:40	Info	[Action] Angle Range F: 180
+20200422_15:51:40	Info	[Action] Show Graphic F: 1
+20200422_15:51:40	Info	[Action] Contrast Threshold R: 15
+20200422_15:51:40	Info	[Action] Angle Range R: 180
+20200422_15:51:40	Info	[Action] Show Graphic R: 3
+20200422_15:51:40	Info	[Action] Enable: Checked
+20200422_15:51:40	Info	[Action] Max Delta X: 0
+20200422_15:51:40	Info	[Action] Max Delta X: 0
+20200422_15:51:40	Info	[Action] Max Delta Y: 0
+20200422_15:51:40	Info	[Action] Max Delta Y: 0
+20200422_15:51:40	Info	[Action] Max Delta Theta: 0
+20200422_15:51:40	Info	[Action] Max Delta Theta: 0
+20200422_15:51:40	Info	[Action] Panel Params: Region1
+20200422_15:51:40	Info	[Action] Number Pocket F: 4
+20200422_15:51:40	Info	[Action] Max Delta X: 0
+20200422_15:51:40	Info	[Action] Max Delta Y: 0
+20200422_15:51:40	Info	[Action] Max Delta Theta: 0
+20200422_15:51:40	Info	[Action] Panel Params: Region1
+20200422_15:51:40	Info	[Action] Vis Show Graphic: 1
+20200422_15:51:40	Info	[Action] Fwd/Rev: Forward
+20200422_15:51:40	Info	[Action] Score Threshold F: 50
+20200422_15:51:40	Info	[Action] Score Threshold R: 50
+20200422_15:51:40	Info	[Action] Vis Mean Thresh: 1
+20200422_15:51:41	Info	[Action] Vis Last Bin: 255
+20200422_15:51:41	Info	[Action] Inspection Setting Page: Panel Inspection
+20200422_15:51:42	Info	[Action] Search Region Align Pocket : Region1
+20200422_15:51:42	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200422_15:51:42	Info	[Action] Inspection Setting Page: Tray Inspection
+20200422_15:57:04	Info	[Action] HMI Display Changed...
+20200422_15:57:32	Info	[Action] HMI Display Changed...
+20200422_16:05:59	Info	Starting program...
+20200422_16:06:05	Info	[Action] Connect/Disconect...
+20200422_16:06:05	Info	Disconnected to sensor
+20200422_16:06:09	Info	Connected to sensor
+20200422_16:06:12	Info	[Action] Log-in as Administrator
+20200422_16:06:14	Info	[Action] Enable 1: Checked
+20200422_16:06:14	Info	[Action] Show Graphic F : 3
+20200422_16:06:15	Info	[Action] Enable R1: Checked
+20200422_16:06:15	Info	[Action] Show Graphic R: 3
+20200422_16:06:15	Info	[Action] Align Pocket Contrast Thresh : 17
+20200422_16:06:16	Info	[Action] Align Pocket Angle Range : 19.5
+20200422_16:06:16	Info	[Action] Align Tray Score Thresh : 38
+20200422_16:06:16	Info	[Action] APNumbPocket : 2
+20200422_16:06:16	Info	[Action] Search Region Align Pocket : Region1
+20200422_16:06:16	Info	[Action] Search Region Align Pocket : Region1
+20200422_16:06:16	Info	[Action] Number Align Pocket : 2
+20200422_16:06:16	Info	[Action] Search Region Align Pocket : Region1
+20200422_16:06:16	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200422_16:06:16	Info	[Action] Align TrayXTT Enable : Unchecked
+20200422_16:06:16	Info	[Action] Enable 2: Checked
+20200422_16:06:16	Info	[Action] Enable R2: Checked
+20200422_16:06:16	Info	[Action] Offset X1 F: 0.000
+20200422_16:06:16	Info	[Action] Offset Y1 F: 0.000
+20200422_16:06:16	Info	[Action] Offset X1 R: 0.000
+20200422_16:06:16	Info	[Action] Offset Y1 R: 0.000
+20200422_16:06:16	Info	[Action] Offset X2 F: -170.505
+20200422_16:06:16	Info	[Action] Offset Y2 F: 0.000
+20200422_16:06:16	Info	[Action] Offset X2 R: -25.995
+20200422_16:06:16	Info	[Action] Offset Y2 R: -540.997
+20200422_16:06:17	Info	[Action] Go to Setup Insp...
+20200422_16:06:17	Info	[Action] Change Camera Mode: Teach Mode
+20200422_16:06:27	Info	[Action] Tray Inspection Enable: Unchecked
+20200422_16:06:27	Info	[Action] Inspection Setting Page: Display Control
+20200422_16:06:36	Info	[Action] Search Region Align Pocket : Region1
+20200422_16:06:36	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200422_16:06:36	Info	[Action] Inspection Setting Page: Tray Inspection
+20200422_16:06:40	Info	[Action] Exit program...
+20200422_16:06:40	Info	Disconnected to sensor
+20200422_16:25:50	Info	Starting program...
+20200422_16:25:58	Info	[Action] Connect/Disconect...
+20200422_16:25:58	Info	Disconnected to sensor
+20200422_16:26:18	Warning	Auto reconnect Camera...

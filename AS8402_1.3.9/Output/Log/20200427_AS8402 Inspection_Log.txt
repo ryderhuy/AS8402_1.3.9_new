@@ -1,0 +1,83 @@
+20200427_10:16:54	Info	Starting program...
+20200427_10:18:27	Info	[Action] Connect/Disconect...
+20200427_10:18:27	Info	Disconnected to sensor
+20200427_10:18:31	Info	Connected to sensor
+20200427_10:18:45	Info	[Action] Log-in as Supervisor
+20200427_10:19:12	Info	[Action] Enable 1: Checked
+20200427_10:19:12	Info	[Action] Contrast Threshold F : 18
+20200427_10:19:12	Info	[Action] Angle Range F : 22.5
+20200427_10:19:12	Info	[Action] Score Threshold F : 78
+20200427_10:19:13	Info	[Action] Enable R1: Checked
+20200427_10:19:13	Info	[Action] ContrastThreshold R: 18
+20200427_10:19:13	Info	[Action] Score Threshold R: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+20200427_10:19:13	Info	[Action] Align Tray Score Thresh : 60
+20200427_10:19:13	Info	[Action] Align Tray Enable: Checked
+20200427_10:19:14	Info	[Action] APNumbPocket : 4
+20200427_10:19:14	Info	[Action] Search Region Align Pocket : Region1
+20200427_10:19:14	Info	[Action] APScore : 60
+20200427_10:19:14	Info	[Action] Search Region Align Pocket : Region1
+20200427_10:19:14	Info	[Action] Number Align Pocket : 4
+20200427_10:19:14	Info	[Action] Search Region Align Pocket : Region1
+20200427_10:19:14	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200427_10:19:14	Info	[Action] Tolerance X : 0
+20200427_10:19:14	Info	[Action] Tolerance Y : 0
+20200427_10:19:14	Info	[Action] Tolerance Theta : 0
+20200427_10:19:14	Info	[Action] APExposure : 50
+20200427_10:19:15	Info	[Action] Pocket Lim Max X : 5
+20200427_10:19:15	Info	[Action] Pocket Lim Max Y : 5
+20200427_10:19:15	Info	[Action] Pocket Lim Max Theta : 5
+20200427_10:19:15	Info	[Action] Pocket Lim Min X : 5
+20200427_10:19:15	Info	[Action] Pocket Lim Min Y : 5
+20200427_10:19:15	Info	[Action] Pocket Lim Min Theta : 5
+20200427_10:19:16	Info	[Action] Go to Setup Insp...
+20200427_10:19:16	Info	[Action] Change Camera Mode: Teach Mode
+20200427_10:34:57	Info	[Action] Click Search Region F1
+20200427_10:35:00	Info	[Action] Click Train Region F1
+20200427_10:35:03	Info	[Action] Click Train Region F2
+20200427_10:35:08	Info	[Action] Enable F: Checked
+20200427_10:35:08	Info	[Action] Contrast Threshold F: 10
+20200427_10:35:08	Info	[Action] Angle Range F: 180
+20200427_10:35:08	Info	[Action] Show Graphic F: 3
+20200427_10:35:08	Info	[Action] Enable R: Checked
+20200427_10:35:08	Info	[Action] Contrast Threshold R: 15
+20200427_10:35:08	Info	[Action] Angle Range R: 180
+20200427_10:35:08	Info	[Action] Enable: Checked
+20200427_10:35:09	Info	[Action] Max Delta X: 5
+20200427_10:35:09	Info	[Action] Max Delta X: 5
+20200427_10:35:09	Info	[Action] Max Delta Y: 5
+20200427_10:35:09	Info	[Action] Max Delta Y: 5
+20200427_10:35:09	Info	[Action] Max Delta Theta: 5
+20200427_10:35:09	Info	[Action] Max Delta Theta: 5
+20200427_10:35:09	Info	[Action] Panel Params: Region1
+20200427_10:35:09	Info	[Action] Fwd/Rev: Forward
+20200427_10:35:09	Info	[Action] Score Threshold F: 50
+20200427_10:35:09	Info	[Action] Score Threshold R: 50
+20200427_10:35:09	Info	[Action] Panel Direction Enable : Checked
+20200427_10:35:09	Info	[Action] Vis Mean Thresh: 10
+20200427_10:35:09	Info	[Action] Vis Count Thresh: 5000
+20200427_10:35:09	Info	[Action] Vis Last Bin: 100
+20200427_10:35:09	Info	[Action] Check Shift Type: No Check
+20200427_10:35:09	Info	[Action] Find type: Histogram
+20200427_10:35:09	Info	[Action] Line Polarity: Black To White
+20200427_10:35:10	Info	[Action] Line Find By: Best Score
+20200427_10:35:10	Info	[Action] Edge Width: 3
+20200427_10:35:10	Info	[Action] Line Threshold: 5
+20200427_10:35:10	Info	[Action] Line Limit Angle: 3
+20200427_10:35:10	Info	[Action] Line Limit Angle: 3
+20200427_10:35:17	Info	[Action] Enable Multi Patterm : Checked
+20200427_10:35:17	Info	[Action] Inspection Setting Page: Panel Inspection
+20200427_10:35:21	Info	[Action] Train Region F: Region3
+20200427_10:35:23	Info	[Action] Click Train Region F
+20200427_11:02:33	Info	[Action] HMI Display Changed...
+20200427_11:03:07	Warning	Auto reconnect Camera...
+20200427_11:03:07	Info	Disconnected to sensor
+20200427_11:03:13	Info	Connected to sensor
+20200427_11:03:19	Info	[Action] Search Region Align Pocket : Region1
+20200427_11:03:19	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200427_11:03:19	Info	[Action] Tolerance X : 0
+20200427_11:03:19	Info	[Action] Tolerance Y : 0
+20200427_11:03:19	Info	[Action] Tolerance Theta : 0
+20200427_11:03:20	Info	[Action] Go to Setup Insp...
+20200427_11:03:20	Info	[Action] Change Camera Mode: Teach Mode
+20200427_11:04:23	Info	[Action] Click Search Region F
+20200427_11:12:28	Info	[Action] HMI Display Changed...

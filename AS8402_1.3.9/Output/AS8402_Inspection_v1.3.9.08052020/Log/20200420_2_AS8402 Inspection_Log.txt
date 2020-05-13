@@ -1,0 +1,628 @@
+20200420_15:59:42	Info	[Action] AP Search Region : Region2
+20200420_15:59:57	Info	[Action] Click APTrain Region
+20200420_16:00:03	Info	[Action] Click APTrain Region
+20200420_16:00:05	Info	[Action] Click APSearch Region
+20200420_16:00:24	Warning	Auto reconnect Camera...
+20200420_16:00:24	Info	Disconnected to sensor
+20200420_16:01:47	Info	Connected to sensor
+20200420_16:01:51	Info	[Action] HMI Display Changed...
+20200420_16:02:20	Info	[Action] Search Region Align Pocket : 
+20200420_16:02:20	Info	[Action] Go to Setup Insp...
+20200420_16:02:20	Info	[Action] Change Camera Mode: Teach Mode
+20200420_16:02:57	Info	[Action] Click APSearch Region
+20200420_16:03:18	Info	[Action] Click APTrain Region
+20200420_16:03:34	Info	[Action] Click APTrain Region
+20200420_16:03:46	Info	[Action] Click APTrain
+20200420_16:03:49	Info	[Action] Click APMove Origin Click
+20200420_16:03:58	Info	[Action] Click APReset
+20200420_16:04:03	Info	[Action] Pocket Limit Enable: Checked
+20200420_16:04:04	Info	[Action] Pocket Limit Enable: Unchecked
+20200420_16:04:06	Info	[Action] Pocket Lim Max X : 1
+20200420_16:04:08	Info	[Action] Pocket Lim Max X : 0
+20200420_16:04:09	Info	[Action] Pocket Lim Max Y : 1
+20200420_16:04:10	Info	[Action] Pocket Lim Max Y : 0
+20200420_16:04:11	Info	[Action] Pocket Lim Max Theta : 1
+20200420_16:04:12	Info	[Action] Pocket Lim Max Theta : 0
+20200420_16:04:13	Info	[Action] Pocket Lim Min Theta : 1
+20200420_16:04:14	Info	[Action] Pocket Lim Min Theta : 0
+20200420_16:04:15	Info	[Action] Pocket Lim Min Y : 1
+20200420_16:04:16	Info	[Action] Pocket Lim Min Y : 0
+20200420_16:04:17	Info	[Action] Pocket Lim Min X : 1
+20200420_16:04:18	Info	[Action] Pocket Lim Min X : 0
+20200420_16:04:26	Info	[Action] Pocket To lerance Enable: Checked
+20200420_16:04:28	Info	[Action] Pocket To lerance Enable: Unchecked
+20200420_16:05:50	Info	[Action] Pocket Tolerance Selected Item  : System.Windows.Forms.ComboBox+ObjectCollection
+20200420_16:06:32	Info	[Action] Pocket Tolerance Selected Item  : Pocket4
+20200420_16:08:37	Info	[Action] Search Region Align Pocket : Region2
+20200420_16:09:20	Info	[Action] Enable R1: Unchecked
+20200420_16:10:03	Info	[Action] Enable R1: Checked
+20200420_16:10:36	Info	[Action] Enable R2: Unchecked
+20200420_16:11:14	Info	[Action] ContrastThreshold R: 20.5
+20200420_16:11:55	Info	[Action] AngleRange R: 20.5
+20200420_16:12:06	Info	Starting program...
+20200420_16:12:15	Info	[Action] Connect/Disconect...
+20200420_16:12:15	Info	Disconnected to sensor
+20200420_16:12:19	Info	Connected to sensor
+20200420_16:12:23	Info	[Action] Log-in as Supervisor
+20200420_16:12:26	Info	[Action] Enable 1: Checked
+20200420_16:12:26	Info	[Action] Contrast Threshold F : 18
+20200420_16:12:27	Info	[Action] Angle Range F : 22.5
+20200420_16:12:27	Info	[Action] Score Threshold F : 78
+20200420_16:12:28	Info	[Action] Show Graphic F : 3
+20200420_16:12:29	Info	[Action] Enable R1: Checked
+20200420_16:12:30	Info	[Action] ContrastThreshold R: 20
+20200420_16:12:30	Info	[Action] Score Threshold R: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+20200420_16:12:31	Info	[Action] Show Graphic R: 3
+20200420_16:12:31	Info	[Action] Align Tray Score Thresh : 60
+20200420_16:12:31	Info	[Action] Align Tray Enable: Checked
+20200420_16:12:31	Info	[Action] APNumbPocket : 4
+20200420_16:12:31	Info	[Action] Search Region Align Pocket : Region1
+20200420_16:12:32	Info	[Action] Search Region Align Pocket : Region1
+20200420_16:12:32	Info	[Action] Number Align Pocket : 4
+20200420_16:12:32	Info	[Action] Search Region Align Pocket : Region1
+20200420_16:12:32	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200420_16:12:32	Info	[Action] Align TrayXTT Enable : Checked
+20200420_16:12:32	Info	[Action] Enable 2: Checked
+20200420_16:12:32	Info	[Action] Enable R2: Checked
+20200420_16:12:32	Info	[Action] Offset X1 F: 0.196
+20200420_16:12:32	Info	[Action] Offset Y1 F: 0.724
+20200420_16:12:32	Info	[Action] Offset X1 R: -7.315
+20200420_16:12:32	Info	[Action] Offset Y1 R: -4.004
+20200420_16:12:32	Info	[Action] Offset X2 F: 176.997
+20200420_16:12:32	Info	[Action] Offset Y2 F: 0.724
+20200420_16:12:32	Info	[Action] Offset X2 R: -25.995
+20200420_16:12:32	Info	[Action] Offset Y2 R: -540.997
+20200420_16:12:34	Info	[Action] Go to Setup Insp...
+20200420_16:12:34	Info	[Action] Change Camera Mode: Teach Mode
+20200420_16:12:47	Info	[Action] Enable 1: Unchecked
+20200420_16:12:49	Info	[Action] Enable 1: Checked
+20200420_16:12:51	Info	[Action] Click Train Region F1
+20200420_16:12:51	Info	[Action] Click Train Region F1
+20200420_16:12:56	Info	[Action] Enable R1: Unchecked
+20200420_16:12:58	Info	[Action] Enable R1: Checked
+20200420_16:13:00	Info	[Action] Click Train Region R1
+20200420_16:13:03	Info	[Action] Click Search Region R1
+20200420_16:13:18	Info	[Action] Click Train R1
+20200420_16:13:21	Info	[Action] Click Train Region R2
+20200420_16:13:22	Info	[Action] Click Search Region R2
+20200420_16:13:25	Info	[Action] Click Search Region R2
+20200420_16:13:29	Info	[Action] Click Search Region R2
+20200420_16:13:33	Info	[Action] Offset X1 R: -76.036
+20200420_16:13:33	Info	[Action] Offset Y1 R: -79.862
+20200420_16:13:33	Info	[Action] Click Train R2
+20200420_16:13:35	Info	[Action] Offset X1 R: -21.49
+20200420_16:13:35	Info	[Action] Offset Y1 R: -0.01
+20200420_16:13:36	Info	[Action] Offset X2 R: -26.00
+20200420_16:13:36	Info	[Action] Offset Y2 R: -541.00
+20200420_16:13:36	Info	[Action] Get Offset R
+20200420_16:13:38	Info	[Action] Offset X2 R: -21.49
+20200420_16:13:38	Info	[Action] Offset Y2 R: -0.01
+20200420_16:13:38	Info	[Action] Get Offset R
+20200420_16:13:43	Info	[Action] Reset X2R,Y2R...
+20200420_16:13:50	Info	[Action] Offset X2 R: 0.00
+20200420_16:13:51	Info	[Action] Offset Y2 R: 0.00
+20200420_16:13:51	Info	[Action] Reset X2R,Y2R...
+20200420_16:14:32	Info	Starting program...
+20200420_16:16:01	Info	[Action] Connect/Disconect...
+20200420_16:16:01	Info	Disconnected to sensor
+20200420_16:16:05	Info	Connected to sensor
+20200420_16:16:10	Info	[Action] Log-in as Supervisor
+20200420_16:16:53	Info	[Action] Enable 1: Checked
+20200420_16:16:53	Info	[Action] Contrast Threshold F : 18
+20200420_16:16:54	Info	[Action] Angle Range F : 22.5
+20200420_16:16:55	Info	[Action] Score Threshold F : 78
+20200420_16:16:55	Info	[Action] Show Graphic F : 3
+20200420_16:16:56	Info	[Action] Enable R1: Checked
+20200420_16:16:56	Info	[Action] ContrastThreshold R: 20
+20200420_16:16:57	Info	[Action] Score Threshold R: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+20200420_16:16:58	Info	[Action] Show Graphic R: 3
+20200420_16:16:58	Info	[Action] Align Tray Score Thresh : 60
+20200420_16:16:58	Info	[Action] Align Tray Enable: Checked
+20200420_16:16:58	Info	[Action] APNumbPocket : 4
+20200420_16:16:58	Info	[Action] Search Region Align Pocket : Region1
+20200420_16:16:58	Info	[Action] Search Region Align Pocket : Region1
+20200420_16:16:58	Info	[Action] Number Align Pocket : 4
+20200420_16:16:58	Info	[Action] Search Region Align Pocket : Region1
+20200420_16:16:58	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200420_16:16:58	Info	[Action] Align TrayXTT Enable : Checked
+20200420_16:16:58	Info	[Action] Enable 2: Checked
+20200420_16:16:59	Info	[Action] Enable R2: Checked
+20200420_16:16:59	Info	[Action] Offset X1 F: 0.196
+20200420_16:16:59	Info	[Action] Offset Y1 F: 0.724
+20200420_16:16:59	Info	[Action] Offset X1 R: -21.492
+20200420_16:16:59	Info	[Action] Offset Y1 R: -0.013
+20200420_16:16:59	Info	[Action] Offset X2 F: 176.997
+20200420_16:16:59	Info	[Action] Offset Y2 F: 0.724
+20200420_16:16:59	Info	[Action] Offset X2 R: 0.000
+20200420_16:16:59	Info	[Action] Offset Y2 R: 0.000
+20200420_16:17:00	Info	[Action] Go to Setup Insp...
+20200420_16:17:00	Info	[Action] Change Camera Mode: Teach Mode
+20200420_16:17:05	Info	[Action] Offset X1 R: -21.49
+20200420_16:17:05	Info	[Action] Offset Y1 R: -0.01
+20200420_16:17:05	Info	[Action] Offset X2 R: 0.00
+20200420_16:17:05	Info	[Action] Offset Y2 R: 0.00
+20200420_16:17:05	Info	[Action] Get Offset R
+20200420_16:17:31	Info	[Action] Click Train Region R2
+20200420_16:17:35	Info	[Action] Click Search Region R2
+20200420_16:17:40	Info	[Action] Offset X1 R: -21.492
+20200420_16:17:40	Info	[Action] Offset Y1 R: -0.013
+20200420_16:17:40	Info	[Action] Offset X2 R: -21.492
+20200420_16:17:40	Info	[Action] Offset Y2 R: -0.013
+20200420_16:17:40	Info	[Action] Click Train R2
+20200420_16:17:44	Info	[Action] Offset X1 R: -25.95
+20200420_16:17:44	Info	[Action] Offset Y1 R: -541.08
+20200420_16:17:45	Info	[Action] Offset X2 R: -21.49
+20200420_16:17:45	Info	[Action] Offset Y2 R: -0.01
+20200420_16:17:45	Info	[Action] Get Offset R
+20200420_16:17:47	Info	[Action] Offset X2 R: -25.95
+20200420_16:17:47	Info	[Action] Offset Y2 R: -541.08
+20200420_16:17:47	Info	[Action] Get Offset R
+20200420_16:18:12	Info	[Action] Reset X2R,Y2R...
+20200420_16:18:20	Info	[Action] Offset X2 R: 0.00
+20200420_16:18:23	Info	[Action] Offset Y2 R: 0.00
+20200420_16:18:23	Info	[Action] Reset X2R,Y2R...
+20200420_16:18:29	Info	[Action] Offset X1 R: -25.953
+20200420_16:18:29	Info	[Action] Offset Y1 R: -541.080
+20200420_16:18:29	Info	[Action] Offset X2 R: 0.000
+20200420_16:18:29	Info	[Action] Offset Y2 R: 0.000
+20200420_16:18:29	Info	[Action] Click Train R2
+20200420_16:19:21	Info	[Action] Exit program...
+20200420_16:19:21	Warning	Auto reconnect Camera...
+20200420_16:37:20	Info	Starting program...
+20200420_16:46:36	Info	[Action] Exit program...
+20200420_16:46:43	Info	Starting program...
+20200420_16:46:52	Info	[Action] Connect/Disconect...
+20200420_16:46:52	Info	Disconnected to sensor
+20200420_16:46:56	Info	Connected to sensor
+20200420_16:47:11	Info	[Action] Log-in as Supervisor
+20200420_16:47:18	Info	[Action] Go to Intrinsic...
+20200420_16:47:37	Info	[Action] Enable 1: Checked
+20200420_16:47:38	Info	[Action] Contrast Threshold F : 18
+20200420_16:47:38	Info	[Action] Angle Range F : 22.5
+20200420_16:47:38	Info	[Action] Score Threshold F : 78
+20200420_16:47:38	Info	[Action] Show Graphic F : 3
+20200420_16:47:39	Info	[Action] Enable R1: Checked
+20200420_16:47:39	Info	[Action] ContrastThreshold R: 20
+20200420_16:47:39	Info	[Action] Score Threshold R: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+20200420_16:47:39	Info	[Action] Show Graphic R: 3
+20200420_16:47:40	Info	[Action] Align Tray Score Thresh : 60
+20200420_16:47:40	Info	[Action] Align Tray Enable: Checked
+20200420_16:47:40	Info	[Action] APNumbPocket : 4
+20200420_16:47:40	Info	[Action] Search Region Align Pocket : Region1
+20200420_16:47:40	Info	[Action] Search Region Align Pocket : Region1
+20200420_16:47:40	Info	[Action] Number Align Pocket : 4
+20200420_16:47:40	Info	[Action] Search Region Align Pocket : Region1
+20200420_16:47:40	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200420_16:47:40	Info	[Action] Align TrayXTT Enable : Checked
+20200420_16:47:40	Info	[Action] Enable 2: Checked
+20200420_16:47:40	Info	[Action] Enable R2: Checked
+20200420_16:47:40	Info	[Action] Offset X1 F: 0.196
+20200420_16:47:40	Info	[Action] Offset Y1 F: 0.724
+20200420_16:47:40	Info	[Action] Offset X1 R: -47.448
+20200420_16:47:40	Info	[Action] Offset Y1 R: -541.095
+20200420_16:47:40	Info	[Action] Offset X2 F: 176.997
+20200420_16:47:40	Info	[Action] Offset Y2 F: 0.724
+20200420_16:47:40	Info	[Action] Offset X2 R: 0.000
+20200420_16:47:40	Info	[Action] Offset Y2 R: 0.000
+20200420_16:47:41	Info	[Action] Go to Setup Insp...
+20200420_16:47:41	Info	[Action] Change Camera Mode: Teach Mode
+20200420_16:47:53	Info	[Action] Inspection Setting Page: Panel Inspection
+20200420_16:47:53	Info	[Action] Contrast Threshold: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 255
+20200420_16:47:53	Info	[Action] Min Size: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 10000
+20200420_16:47:53	Info	[Action] Max Size: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100000
+20200420_16:47:53	Info	[Action] Panel Blob Search Type: Dark On Bright
+20200420_16:47:53	Info	[Action] Panel Blob Number: 4
+20200420_16:47:53	Info	[Action] Panel Contrast: 150
+20200420_16:47:53	Info	[Action] Panel Min Size: 100
+20200420_16:47:54	Info	[Action] Panel Max Size: 500
+20200420_16:47:54	Info	[Action] Panel Number selected: Region1
+20200420_16:47:54	Info	[Action] Inspection Setting Page: Blob Finder
+20200420_16:47:55	Info	[Action] Inspection Setting Page: Panel Inspection
+20200420_16:48:14	Info	[Action] Inspection Setting Page: Conveyor/Align Inspection
+20200420_16:48:16	Info	[Action] Inspection Setting Page: Display Control
+20200420_16:48:18	Info	[Action] Inspection Setting Page: Panel Inspection
+20200420_16:48:20	Info	[Action] Panel Number selected: Region1
+20200420_16:48:20	Info	[Action] Inspection Setting Page: Blob Finder
+20200420_16:48:22	Info	[Action] Inspection Setting Page: Panel Inspection
+20200420_16:48:24	Info	[Action] Search Region Align Pocket : Region1
+20200420_16:48:24	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200420_16:48:24	Info	[Action] Inspection Setting Page: Tray Inspection
+20200420_16:48:25	Info	[Action] Inspection Setting Page: Panel Inspection
+20200420_16:50:01	Info	[Action] Exit program...
+20200420_16:50:01	Info	Disconnected to sensor
+20200420_16:56:02	Info	Starting program...
+20200420_16:56:08	Info	[Action] Exit program...
+20200420_17:06:59	Info	Starting program...
+20200420_17:07:05	Info	[Action] Connect/Disconect...
+20200420_17:07:05	Info	Disconnected to sensor
+20200420_17:07:09	Info	Connected to sensor
+20200420_17:07:15	Info	[Action] Log-in as Supervisor
+20200420_17:07:31	Info	[Action] Enable 1: Checked
+20200420_17:07:31	Info	[Action] Contrast Threshold F : 18
+20200420_17:07:32	Info	[Action] Angle Range F : 22.5
+20200420_17:07:32	Info	[Action] Score Threshold F : 78
+20200420_17:07:32	Info	[Action] Show Graphic F : 3
+20200420_17:07:32	Info	[Action] Enable R1: Checked
+20200420_17:07:33	Info	[Action] ContrastThreshold R: 20
+20200420_17:07:33	Info	[Action] Score Threshold R: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+20200420_17:07:33	Info	[Action] Show Graphic R: 3
+20200420_17:07:33	Info	[Action] Align Tray Score Thresh : 60
+20200420_17:07:34	Info	[Action] Align Tray Enable: Checked
+20200420_17:07:34	Info	[Action] APNumbPocket : 4
+20200420_17:07:34	Info	[Action] Search Region Align Pocket : Region1
+20200420_17:07:34	Info	[Action] Search Region Align Pocket : Region1
+20200420_17:07:34	Info	[Action] Number Align Pocket : 4
+20200420_17:07:34	Info	[Action] Search Region Align Pocket : Region1
+20200420_17:07:34	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200420_17:07:34	Info	[Action] Align TrayXTT Enable : Checked
+20200420_17:07:34	Info	[Action] Enable 2: Checked
+20200420_17:07:34	Info	[Action] Enable R2: Checked
+20200420_17:07:34	Info	[Action] Offset X1 F: 0.196
+20200420_17:07:34	Info	[Action] Offset Y1 F: 0.724
+20200420_17:07:34	Info	[Action] Offset X1 R: -47.448
+20200420_17:07:34	Info	[Action] Offset Y1 R: -541.095
+20200420_17:07:34	Info	[Action] Offset X2 F: 176.997
+20200420_17:07:34	Info	[Action] Offset Y2 F: 0.724
+20200420_17:07:34	Info	[Action] Offset X2 R: 0.000
+20200420_17:07:34	Info	[Action] Offset Y2 R: 0.000
+20200420_17:07:35	Info	[Action] Go to Setup Insp...
+20200420_17:07:35	Info	[Action] Change Camera Mode: Teach Mode
+20200420_17:07:45	Info	[Action] Inspection Setting Page: Panel Inspection
+20200420_17:08:54	Info	[Action] Contrast Threshold: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 255
+20200420_17:08:54	Info	[Action] Min Size: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 10000
+20200420_17:08:54	Info	[Action] Max Size: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100000
+20200420_17:08:54	Info	[Action] Panel Blob Search Type: Dark On Bright
+20200420_17:08:54	Info	[Action] Panel Blob Number: 4
+20200420_17:08:54	Info	[Action] Panel Contrast: 150
+20200420_17:08:55	Info	[Action] Panel Min Size: 100
+20200420_17:08:55	Info	[Action] Panel Max Size: 500
+20200420_17:08:55	Info	[Action] Panel Number selected: Region1
+20200420_17:08:55	Info	[Action] Inspection Setting Page: Blob Finder
+20200420_17:08:56	Info	[Action] Inspection Setting Page: Panel Inspection
+20200420_17:09:09	Info	[Action] HMI Display Changed...
+20200420_17:09:47	Info	[Action] Change Camera Mode: Auto Mode
+20200420_17:11:05	Info	[Action] HMI Display Changed...
+20200420_17:11:24	Info	[Action] Exit program...
+20200420_17:11:24	Info	Disconnected to sensor
+20200420_17:14:32	Info	Starting program...
+20200420_17:14:38	Info	[Action] Connect/Disconect...
+20200420_17:14:38	Info	Disconnected to sensor
+20200420_17:14:42	Info	Connected to sensor
+20200420_17:14:50	Info	[Action] Log-in as Administrator
+20200420_17:14:53	Info	[Action] Go to Setting HW...
+20200420_17:14:55	Info	[Action] Go to Setting Networks...
+20200420_17:14:58	Info	[Action] Go to Setting Networks...
+20200420_17:14:58	Info	[Action] Go to Setting Networks...
+20200420_17:15:27	Info	[Action] HMI Display Changed...
+20200420_17:30:33	Info	Starting program...
+20200420_17:30:40	Info	[Action] Connect/Disconect...
+20200420_17:30:40	Info	Disconnected to sensor
+20200420_17:30:43	Info	Connected to sensor
+20200420_17:30:48	Info	[Action] Log-in as Supervisor
+20200420_17:30:50	Info	[Action] Enable 1: Checked
+20200420_17:30:50	Info	[Action] Show Graphic F : 3
+20200420_17:30:50	Info	[Action] Enable R1: Checked
+20200420_17:30:50	Info	[Action] Show Graphic R: 3
+20200420_17:30:50	Info	[Action] Align Pocket Contrast Thresh : 17
+20200420_17:30:50	Info	[Action] Align Pocket Angle Range : 19.5
+20200420_17:30:51	Info	[Action] Align Tray Score Thresh : 38
+20200420_17:30:51	Info	[Action] Align Tray Enable: Checked
+20200420_17:30:51	Info	[Action] APNumbPocket : 2
+20200420_17:30:51	Info	[Action] Search Region Align Pocket : Region1
+20200420_17:30:51	Info	[Action] Search Region Align Pocket : Region1
+20200420_17:30:51	Info	[Action] Number Align Pocket : 2
+20200420_17:30:51	Info	[Action] Search Region Align Pocket : Region1
+20200420_17:30:51	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200420_17:30:51	Info	[Action] Align TrayXTT Enable : Checked
+20200420_17:30:51	Info	[Action] Enable 2: Checked
+20200420_17:30:51	Info	[Action] Enable R2: Checked
+20200420_17:30:51	Info	[Action] Offset X1 F: 0.000
+20200420_17:30:51	Info	[Action] Offset Y1 F: 0.000
+20200420_17:30:51	Info	[Action] Offset X1 R: 0.000
+20200420_17:30:51	Info	[Action] Offset Y1 R: 0.000
+20200420_17:30:51	Info	[Action] Offset X2 F: 176.997
+20200420_17:30:51	Info	[Action] Offset Y2 F: 0.000
+20200420_17:30:51	Info	[Action] Offset X2 R: -25.995
+20200420_17:30:51	Info	[Action] Offset Y2 R: -540.997
+20200420_17:30:52	Info	[Action] Go to Setup Insp...
+20200420_17:30:52	Info	[Action] Change Camera Mode: Teach Mode
+20200420_17:31:02	Info	[Action] Inspection Setting Page: Panel Inspection
+20200420_17:31:29	Info	[Action] Search Region Align Pocket : Region1
+20200420_17:31:29	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200420_17:31:29	Info	[Action] Offset X1 F: -0.997
+20200420_17:31:29	Info	[Action] Offset Y1 F: -0.752
+20200420_17:31:29	Info	[Action] Offset X1 R: -1.698
+20200420_17:31:29	Info	[Action] Offset Y1 R: 4.070
+20200420_17:31:29	Info	[Action] Inspection Setting Page: Tray Inspection
+20200420_17:31:32	Info	[Action] Inspection Setting Page: Panel Inspection
+20200420_17:33:23	Info	[Action] Change Camera Mode: Auto Mode
+20200420_17:35:00	Warning	Auto reconnect Camera...
+20200420_17:35:00	Info	Disconnected to sensor
+20200420_17:35:04	Info	Connected to sensor
+20200420_17:38:00	Warning	Auto reconnect Camera...
+20200420_17:38:00	Info	Disconnected to sensor
+20200420_17:38:04	Info	Connected to sensor
+20200420_17:38:20	Warning	Auto reconnect Camera...
+20200420_17:38:20	Info	Disconnected to sensor
+20200420_17:38:25	Info	Connected to sensor
+20200420_17:38:29	Info	[Action] HMI Display Changed...
+20200420_17:40:31	Info	[Action] Search Region Align Pocket : Region1
+20200420_17:40:31	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200420_17:40:31	Info	[Action] Go to Setup Insp...
+20200420_17:40:31	Info	[Action] Change Camera Mode: Teach Mode
+20200420_17:41:12	Info	-> XT,1,0,0,0,0,0,0
+20200420_17:41:12	Info	<- XT,-1003
+20200420_17:41:39	Info	-> XT,1,1
+20200420_17:41:39	Info	<- XT,-1003
+20200420_17:41:52	Info	-> XI,1,0
+20200420_17:41:52	Info	<- XI,-1005
+20200420_17:41:52	Info	-> XTT,1,2,1,2,0.000000,0.000000,0,0.000000,0,0,
+20200420_17:41:53	Info	<- XTT,1,0,0,-236.00, 0293.40, -090.72, -326.79, 0096.74, -064.63, 0000.00
+20200420_17:41:59	Info	-> XI,1,0
+20200420_17:41:59	Info	<- XI,-1005
+20200420_17:41:59	Info	-> XTT,1,2,1,2,0.000000,0.000000,0,0.000000,0,0,
+20200420_17:42:00	Info	<- XTT,1,0,0,-236.00, 0293.40, -090.72, -326.79, 0096.74, -064.63, 0000.00
+20200420_17:42:32	Info	-> XI,1,0
+20200420_17:42:32	Info	<- XI,-1005
+20200420_17:42:32	Info	-> XTT,1,2,1,2,0.000000,0.000000,0,0.000000,0,0,
+20200420_17:42:33	Info	<- XTT,1,0,0,-236.00, 0293.40, -090.72, -326.79, 0096.74, -064.63, 0000.00
+20200420_17:42:43	Info	-> XI,1,0,0,0,0,0,0
+20200420_17:42:43	Info	<- XI,-1005
+20200420_17:42:43	Info	-> XTT,1,2,1,2,0.000000,0.000000,0,0.000000,0,0,
+20200420_17:42:45	Info	<- XTT,1,0,0,-236.00, 0293.40, -090.72, -326.79, 0096.74, -064.63, 0000.00
+20200420_17:43:06	Info	-> XI,0,0,0,0,0,0,0
+20200420_17:43:06	Info	<- XI,-1005
+20200420_17:43:06	Info	-> XTT,1,2,1,2,0.000000,0.000000,0,0.000000,0,0,
+20200420_17:43:07	Info	<- XTT,1,0,0,-236.00, 0293.40, -090.72, -326.79, 0096.74, -064.63, 0000.00
+20200420_17:43:27	Info	-> XI,1,0,0,0,0,0,0
+20200420_17:43:27	Info	<- XI,-1005
+20200420_17:43:27	Info	-> XTT,1,2,1,2,0.000000,0.000000,0,0.000000,0,0,
+20200420_17:43:28	Info	<- XTT,1,0,0,-236.00, 0293.40, -090.72, -326.79, 0096.74, -064.63, 0000.00
+20200420_17:43:30	Info	-> XI,1,0,0,0,0,0,0
+20200420_17:43:30	Info	<- XI,-1005
+20200420_17:43:30	Info	-> XTT,1,2,1,2,0.000000,0.000000,0,0.000000,0,0,
+20200420_17:43:31	Info	<- XTT,1,0,0,-236.00, 0293.40, -090.72, -326.79, 0096.74, -064.63, 0000.00
+20200420_17:44:14	Info	[Action] Contrast Threshold: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 255
+20200420_17:44:14	Info	[Action] Min Size: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 10000
+20200420_17:44:14	Info	[Action] Max Size: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100000
+20200420_17:44:14	Info	[Action] Panel Blob Search Type: Dark On Bright
+20200420_17:44:15	Info	[Action] Panel Blob Number: 4
+20200420_17:44:15	Info	[Action] Panel Contrast: 150
+20200420_17:44:15	Info	[Action] Panel Min Size: 100
+20200420_17:44:15	Info	[Action] Panel Max Size: 500
+20200420_17:44:15	Info	[Action] Panel Number selected: Region1
+20200420_17:44:15	Info	[Action] Inspection Setting Page: Blob Finder
+20200420_17:44:23	Info	-> XI,1,0,0,0,0,0,0
+20200420_17:44:23	Info	<- XI,-1005
+20200420_17:44:23	Info	-> XTT,1,2,1,2,0.000000,0.000000,0,0.000000,0,0,
+20200420_17:44:23	Info	<- XTT,1,0,0,-236.00, 0293.40, -090.72, -326.79, 0096.74, -064.63, 0000.00
+20200420_17:44:54	Info	-> XI,1,0
+20200420_17:44:54	Info	<- XI,-1005
+20200420_17:44:54	Info	-> XTT,1,2,1,2,0.000000,0.000000,0,0.000000,0,0,
+20200420_17:44:54	Info	<- XTT,1,0,0,-236.00, 0293.40, -090.72, -326.79, 0096.74, -064.63, 0000.00
+20200420_17:45:22	Info	-> XI,1,1
+20200420_17:45:22	Info	<- XI,1,0,00000000,11111111,00000000,1,11111111
+20200420_17:45:22	Info	-> XTT,1,2,1,2,0.000000,0.000000,0,0.000000,0,0,
+20200420_17:45:22	Info	<- XTT,1,0,0,-236.00, 0293.40, -090.72, -326.79, 0096.74, -064.63, 0000.00
+20200420_17:45:29	Info	-> XI,1,1
+20200420_17:45:29	Info	<- XI,1,0,00000000,11111111,00000000,1,11111111
+20200420_17:45:29	Info	-> XTT,1,2,1,2,0.000000,0.000000,0,0.000000,0,0,
+20200420_17:45:29	Info	<- XTT,1,0,0,-236.00, 0293.40, -090.72, -326.79, 0096.74, -064.63, 0000.00
+20200420_17:45:32	Info	-> XI,1,1
+20200420_17:45:32	Info	<- XI,1,0,00000000,11111111,00000000,1,11111111
+20200420_17:45:32	Info	-> XTT,1,2,1,2,0.000000,0.000000,0,0.000000,0,0,
+20200420_17:45:33	Info	<- XTT,1,0,0,-236.00, 0293.40, -090.72, -326.79, 0096.74, -064.63, 0000.00
+20200420_17:45:36	Info	-> XI,1,1
+20200420_17:45:36	Info	<- XI,1,0,00000000,11111111,00000000,1,11111111
+20200420_17:45:36	Info	-> XTT,1,2,1,2,0.000000,0.000000,0,0.000000,0,0,
+20200420_17:45:36	Info	<- XTT,1,0,0,-236.00, 0293.40, -090.72, -326.79, 0096.74, -064.63, 0000.00
+20200420_17:45:39	Info	-> XI,1,1
+20200420_17:45:39	Info	<- XI,1,0,00000000,11111111,00000000,1,11111111
+20200420_17:45:39	Info	-> XTT,1,2,1,2,0.000000,0.000000,0,0.000000,0,0,
+20200420_17:45:39	Info	<- XTT,1,0,0,-236.00, 0293.40, -090.72, -326.79, 0096.74, -064.63, 0000.00
+20200420_17:45:41	Info	[Action] Search Region Align Pocket : Region1
+20200420_17:45:41	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200420_17:45:41	Info	[Action] Offset X1 F: 0.000
+20200420_17:45:41	Info	[Action] Offset Y1 F: 0.000
+20200420_17:45:41	Info	[Action] Offset X1 R: -4.418
+20200420_17:45:41	Info	[Action] Offset Y1 R: 3.381
+20200420_17:45:41	Info	[Action] Go to Setup Insp...
+20200420_17:45:41	Info	[Action] Change Camera Mode: Teach Mode
+20200420_17:45:43	Info	[Action] Inspection Setting Page: Panel Inspection
+20200420_17:45:56	Info	[Action] Panel Number selected: Region1
+20200420_17:45:56	Info	[Action] Inspection Setting Page: Blob Finder
+20200420_17:46:13	Info	-> XI,1,1
+20200420_17:46:13	Info	<- XI,1,0,00000000,11111111,00000000,1,11111111
+20200420_17:46:13	Info	-> XTT,1,2,1,2,0.000000,0.000000,0,0.000000,0,0,
+20200420_17:46:14	Info	<- XTT,1,0,0,-236.00, 0293.40, -090.72, -326.79, 0096.74, -064.63, 0000.00
+20200420_17:46:43	Info	-> XI,1,1
+20200420_17:46:43	Info	<- XI,1,0,00000000,11111111,00000000,1,11111111
+20200420_17:46:43	Info	-> XTT,1,2,1,2,0.000000,0.000000,0,0.000000,0,0,
+20200420_17:46:44	Info	<- XTT,1,0,0,-236.00, 0293.40, -090.72, -326.79, 0096.74, -064.63, 0000.00
+20200420_17:46:46	Info	-> XI,1,1
+20200420_17:46:46	Info	<- XI,1,1,10000000,11111111,00000000,1,11111111
+20200420_17:46:46	Info	-> XTT,1,2,1,2,0.000000,0.000000,0,0.000000,0,0,
+20200420_17:46:48	Info	<- XTT,1,0,0,-236.00, 0293.40, -090.72, -326.79, 0096.74, -064.63, 0000.00
+20200420_17:46:50	Info	-> XI,1,1
+20200420_17:46:50	Info	<- XI,1,1,10000000,11111111,00000000,1,11111111
+20200420_17:46:50	Info	-> XTT,1,2,1,2,0.000000,0.000000,0,0.000000,0,0,
+20200420_17:46:51	Info	<- XTT,1,0,0,-236.00, 0293.40, -090.72, -326.79, 0096.74, -064.63, 0000.00
+20200420_17:47:02	Info	[Action] Inspection Setting Page: Panel Inspection
+20200420_17:47:20	Info	-> XI,1,1
+20200420_17:47:20	Info	<- XI,1,0,00000000,11111111,00000000,1,11111111
+20200420_17:47:20	Info	-> XTT,1,2,1,2,0.000000,0.000000,0,0.000000,0,0,
+20200420_17:47:21	Info	<- XTT,1,0,0,-236.00, 0293.40, -090.72, -326.79, 0096.74, -064.63, 0000.00
+20200420_17:47:27	Info	-> XI,1,1
+20200420_17:47:27	Info	<- XI,1,0,00000000,11111111,00000000,1,11111111
+20200420_17:47:27	Info	-> XTT,1,2,1,2,0.000000,0.000000,0,0.000000,0,0,
+20200420_17:47:28	Info	<- XTT,1,0,0,-236.00, 0293.40, -090.72, -326.79, 0096.74, -064.63, 0000.00
+20200420_17:48:08	Info	[Action] Search Region Align Pocket : Region1
+20200420_17:48:08	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200420_17:48:08	Info	[Action] Offset X1 R: -6.143
+20200420_17:48:08	Info	[Action] Offset Y1 R: 4.198
+20200420_17:48:08	Info	[Action] Inspection Setting Page: Tray Inspection
+20200420_17:48:13	Info	[Action] Click Train Region F1
+20200420_17:48:16	Info	[Action] Click Train Region F1
+20200420_17:48:22	Info	[Action] Change Camera Mode: Auto Mode
+20200420_17:48:23	Info	[Action] Change Camera Mode: Teach Mode
+20200420_17:48:25	Info	[Action] Click Train Region F1
+20200420_17:49:02	Info	[Action] Exit program...
+20200420_17:49:02	Info	Disconnected to sensor
+20200420_17:49:44	Info	Starting program...
+20200420_17:49:49	Info	[Action] Connect/Disconect...
+20200420_17:49:49	Info	Disconnected to sensor
+20200420_17:49:52	Info	[Action] Connect/Disconect...
+20200420_17:49:58	Info	Connected to sensor
+20200420_17:50:01	Info	[Action] Log-in as Administrator
+20200420_17:50:02	Info	[Action] Enable 1: Checked
+20200420_17:50:02	Info	[Action] Show Graphic F : 3
+20200420_17:50:02	Info	[Action] Enable R1: Checked
+20200420_17:50:02	Info	[Action] Show Graphic R: 3
+20200420_17:50:02	Info	[Action] Align Pocket Contrast Thresh : 17
+20200420_17:50:03	Info	[Action] Align Pocket Angle Range : 19.5
+20200420_17:50:03	Info	[Action] Align Tray Score Thresh : 38
+20200420_17:50:03	Info	[Action] Align Tray Enable: Checked
+20200420_17:50:03	Info	[Action] APNumbPocket : 2
+20200420_17:50:03	Info	[Action] Search Region Align Pocket : Region1
+20200420_17:50:03	Info	[Action] Search Region Align Pocket : Region1
+20200420_17:50:03	Info	[Action] Number Align Pocket : 2
+20200420_17:50:03	Info	[Action] Search Region Align Pocket : Region1
+20200420_17:50:03	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200420_17:50:03	Info	[Action] Align TrayXTT Enable : Checked
+20200420_17:50:03	Info	[Action] Enable 2: Checked
+20200420_17:50:03	Info	[Action] Enable R2: Checked
+20200420_17:50:03	Info	[Action] Offset X1 F: 0.000
+20200420_17:50:03	Info	[Action] Offset Y1 F: 0.000
+20200420_17:50:03	Info	[Action] Offset X1 R: 0.000
+20200420_17:50:03	Info	[Action] Offset Y1 R: 0.000
+20200420_17:50:03	Info	[Action] Offset X2 F: 176.997
+20200420_17:50:03	Info	[Action] Offset Y2 F: 0.000
+20200420_17:50:03	Info	[Action] Offset X2 R: -25.995
+20200420_17:50:03	Info	[Action] Offset Y2 R: -540.997
+20200420_17:50:04	Info	[Action] Go to Setup Insp...
+20200420_17:50:04	Info	[Action] Change Camera Mode: Teach Mode
+20200420_17:50:06	Info	[Action] Click Train Region F1
+20200420_17:50:08	Info	[Action] Click Train Region F1
+20200420_17:50:09	Info	[Action] Click Train Region F1
+20200420_17:50:10	Info	[Action] Click Train Region F1
+20200420_17:50:12	Info	[Action] Click Train Region F1
+20200420_17:50:12	Info	[Action] Click Train Region F1
+20200420_17:50:13	Info	[Action] Click Train Region F1
+20200420_17:50:20	Info	[Action] Click Train Region F1
+20200420_17:50:29	Info	[Action] Click Train Region F1
+20200420_17:50:30	Info	[Action] Click Train Region F1
+20200420_17:50:30	Info	[Action] Click Train Region F1
+20200420_17:50:32	Info	[Action] Click Train Region F2
+20200420_17:50:32	Info	[Action] Click Train Region F2
+20200420_17:50:41	Info	[Action] Click Search Region F2
+20200420_17:50:46	Info	[Action] Offset X1 F: -1.385
+20200420_17:50:46	Info	[Action] Offset Y1 F: -0.950
+20200420_17:50:46	Info	[Action] Offset X1 R: -6.143
+20200420_17:50:46	Info	[Action] Offset Y1 R: 4.198
+20200420_17:50:46	Info	[Action] Click Train F2
+20200420_17:50:47	Info	[Action] Click Train Region F1
+20200420_17:50:49	Info	[Action] Click Train Region F1
+20200420_17:50:49	Info	[Action] Click Train Region F1
+20200420_17:50:50	Info	[Action] Click Train Region F1
+20200420_17:50:50	Info	[Action] Click Train Region F1
+20200420_17:50:51	Info	[Action] Click Search Region F1
+20200420_17:50:51	Info	[Action] Click Search Region F1
+20200420_17:50:52	Info	[Action] Click Search Region F1
+20200420_17:50:52	Info	[Action] Click Search Region F1
+20200420_17:52:58	Info	[Action] Offset X1 F: -347.51
+20200420_17:52:58	Info	[Action] Offset Y1 F: -305.52
+20200420_17:52:59	Info	[Action] Offset X2 F: 177.00
+20200420_17:52:59	Info	[Action] Offset Y2 F: -305.52
+20200420_17:52:59	Info	[Action] Get Offset F
+20200420_17:53:02	Info	[Action] Offset X1 F: -347.511
+20200420_17:53:02	Info	[Action] Offset Y1 F: -305.518
+20200420_17:53:02	Info	[Action] Offset X2 F: -347.511
+20200420_17:53:02	Info	[Action] Offset Y2 F: -305.518
+20200420_17:53:02	Info	[Action] Click Train F2
+20200420_17:53:05	Info	[Action] Offset X1 F: 177.026
+20200420_17:53:05	Info	[Action] Offset Y1 F: 220.540
+20200420_17:53:05	Info	[Action] Click Train F2
+20200420_17:53:12	Info	[Action] Offset X2 F: -347.51
+20200420_17:53:13	Info	[Action] Offset Y2 F: 220.540
+20200420_17:53:13	Info	[Action] Reset X2R,Y2R...
+20200420_17:53:13	Info	[Action] Offset X2 F: 0.00
+20200420_17:53:14	Info	[Action] Offset Y2 F: 220.540
+20200420_17:53:14	Info	[Action] Reset X2R,Y2R...
+20200420_17:53:15	Info	[Action] Reset X2R,Y2R...
+20200420_17:53:16	Info	[Action] Offset X2 F: 0.000
+20200420_17:53:16	Info	[Action] Offset Y2 F: 220.540
+20200420_17:53:16	Info	[Action] Click Train F2
+20200420_17:53:19	Info	[Action] Offset X1 F: -170.505
+20200420_17:53:19	Info	[Action] Offset Y1 F: -84.999
+20200420_17:53:19	Info	[Action] Click Train F2
+20200420_17:53:21	Info	[Action] Click Train F2
+20200420_17:53:32	Info	[Action] Click Train F2
+20200420_17:53:33	Info	[Action] Click Train F2
+20200420_17:53:33	Info	[Action] Click Train F1
+20200420_17:53:35	Info	[Action] Click Train F1
+20200420_17:53:44	Info	[Action] Offset X1 F: -170.51
+20200420_17:53:44	Info	[Action] Offset Y1 F: -85.00
+20200420_17:53:44	Info	[Action] Offset X2 F: 0.00
+20200420_17:53:44	Info	[Action] Offset Y2 F: -85.00
+20200420_17:53:44	Info	[Action] Get Offset F
+20200420_17:53:49	Info	[Action] Offset X1 F: -170.505
+20200420_17:53:49	Info	[Action] Offset Y1 F: -84.999
+20200420_17:53:49	Info	[Action] Offset X2 F: -170.505
+20200420_17:53:49	Info	[Action] Offset Y2 F: -84.999
+20200420_17:53:49	Info	[Action] Click Train F2
+20200420_17:54:07	Info	[Action] Inspection Setting Page: Panel Inspection
+20200420_17:54:42	Info	[Action] Contrast Threshold: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 255
+20200420_17:54:43	Info	[Action] Min Size: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 10000
+20200420_17:54:43	Info	[Action] Max Size: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100000
+20200420_17:54:43	Info	[Action] Panel Blob Search Type: Dark On Bright
+20200420_17:54:43	Info	[Action] Panel Blob Number: 4
+20200420_17:54:43	Info	[Action] Panel Contrast: 150
+20200420_17:54:43	Info	[Action] Panel Min Size: 100
+20200420_17:54:43	Info	[Action] Panel Max Size: 500
+20200420_17:54:43	Info	[Action] Panel Number selected: Region1
+20200420_17:54:43	Info	[Action] Inspection Setting Page: Blob Finder
+20200420_17:54:44	Info	[Action] Inspection Setting Page: Panel Inspection
+20200420_17:54:47	Info	[Action] Panel Number selected: Region1
+20200420_17:54:47	Info	[Action] Inspection Setting Page: Blob Finder
+20200420_17:55:17	Info	[Action] Inspection Setting Page: Panel Inspection
+20200420_17:55:28	Info	[Action] Change Camera Mode: Auto Mode
+20200420_17:55:42	Info	[Action] Change Camera Mode: Teach Mode
+20200420_17:57:28	Info	Starting program...
+20200420_17:57:33	Info	[Action] Connect/Disconect...
+20200420_17:57:33	Info	Disconnected to sensor
+20200420_17:57:38	Info	Connected to sensor
+20200420_17:57:43	Info	[Action] Log-in as Administrator
+20200420_17:57:49	Info	[Action] Enable 1: Checked
+20200420_17:57:49	Info	[Action] Show Graphic F : 3
+20200420_17:57:50	Info	[Action] Enable R1: Checked
+20200420_17:57:51	Info	[Action] Show Graphic R: 3
+20200420_17:57:51	Info	[Action] Align Pocket Contrast Thresh : 17
+20200420_17:57:51	Info	[Action] Align Pocket Angle Range : 19.5
+20200420_17:57:51	Info	[Action] Align Tray Score Thresh : 38
+20200420_17:57:51	Info	[Action] Align Tray Enable: Checked
+20200420_17:57:51	Info	[Action] APNumbPocket : 2
+20200420_17:57:51	Info	[Action] Search Region Align Pocket : Region1
+20200420_17:57:52	Info	[Action] Search Region Align Pocket : Region1
+20200420_17:57:52	Info	[Action] Number Align Pocket : 2
+20200420_17:57:52	Info	[Action] Search Region Align Pocket : Region1
+20200420_17:57:52	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200420_17:57:52	Info	[Action] Align TrayXTT Enable : Checked
+20200420_17:57:52	Info	[Action] Enable 2: Checked
+20200420_17:57:52	Info	[Action] Enable R2: Checked
+20200420_17:57:52	Info	[Action] Offset X1 F: 0.010
+20200420_17:57:52	Info	[Action] Offset Y1 F: 0.006
+20200420_17:57:52	Info	[Action] Offset X1 R: -6.143
+20200420_17:57:52	Info	[Action] Offset Y1 R: 4.198
+20200420_17:57:52	Info	[Action] Offset X2 F: -170.505
+20200420_17:57:52	Info	[Action] Offset Y2 F: 0.006
+20200420_17:57:52	Info	[Action] Offset X2 R: -25.995
+20200420_17:57:52	Info	[Action] Offset Y2 R: -540.997
+20200420_17:57:53	Info	[Action] Go to Setup Insp...
+20200420_17:57:53	Info	[Action] Change Camera Mode: Teach Mode
+20200420_17:58:09	Info	[Action] Inspection Setting Page: Panel Inspection
+20200420_17:58:15	Info	-> XI,1,1
+20200420_17:58:15	Info	<- XI,1,0,1000,1111,0000,1,1111
+20200420_17:58:15	Info	-> XTT,1,2,1,2,0.000000,0.000000,0,0.000000,0,0,
+20200420_17:58:16	Info	<- XTT,-3005
+20200420_17:59:43	Info	[Action] Exit program...
+20200420_17:59:43	Info	Disconnected to sensor
