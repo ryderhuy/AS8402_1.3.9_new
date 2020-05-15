@@ -1,132 +1,14 @@
-E:\Tony Projects\LibraryDLL\GS200Insp\Output\Cognex.VS.Utility.dll
-E:\Tony Projects\LibraryDLL\GS200Insp\Output\Cognex.VS.Utility.pdb
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csprojAssemblyReference.cache
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.BaseDialog.resources
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.DisplayControl.ExitButton.resources
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.DisplayControl.MessageView.resources
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FileBrowser.resources
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FileJobBrowser.resources
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FormPasswordPrompt.resources
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FormSetPasswords.resources
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.strings.resources
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csproj.GenerateResource.cache
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csproj.CoreCompileInputs.cache
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csproj.CopyComplete
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.dll
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.pdb
-C:\1. Projects\LibraryDLL\GS200Insp\Output\Cognex.VS.Utility.dll
-C:\1. Projects\LibraryDLL\GS200Insp\Output\Cognex.VS.Utility.pdb
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csprojAssemblyReference.cache
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.BaseDialog.resources
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.DisplayControl.ExitButton.resources
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.DisplayControl.MessageView.resources
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FileBrowser.resources
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FileJobBrowser.resources
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FormPasswordPrompt.resources
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FormSetPasswords.resources
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.strings.resources
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csproj.GenerateResource.cache
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csproj.CoreCompileInputs.cache
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csproj.CopyComplete
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.dll
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.pdb
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Output\Cognex.VS.Utility.dll
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Output\Cognex.VS.Utility.pdb
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csprojAssemblyReference.cache
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.BaseDialog.resources
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.DisplayControl.ExitButton.resources
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.DisplayControl.MessageView.resources
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FileBrowser.resources
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FileJobBrowser.resources
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FormPasswordPrompt.resources
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FormSetPasswords.resources
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.strings.resources
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csproj.GenerateResource.cache
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csproj.CoreCompileInputs.cache
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csproj.CopyComplete
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.dll
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.pdb
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Output\Cognex.VS.Utility.dll
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Output\Cognex.VS.Utility.pdb
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csprojResolveAssemblyReference.cache
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.BaseDialog.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.DisplayControl.ExitButton.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.DisplayControl.MessageView.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FileBrowser.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FileJobBrowser.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FormPasswordPrompt.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FormSetPasswords.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.strings.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csproj.GenerateResource.Cache
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.dll
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.pdb
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Output\Cognex.VS.Utility.dll
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Output\Cognex.VS.Utility.pdb
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csprojResolveAssemblyReference.cache
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.BaseDialog.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.DisplayControl.ExitButton.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.DisplayControl.MessageView.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FileBrowser.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FileJobBrowser.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FormPasswordPrompt.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FormSetPasswords.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.strings.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csproj.GenerateResource.Cache
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.dll
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.pdb
-D:\GS200Insp_Full_Partner\Output\Cognex.VS.Utility.dll
-D:\GS200Insp_Full_Partner\Output\Cognex.VS.Utility.pdb
-D:\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csprojResolveAssemblyReference.cache
-D:\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.BaseDialog.resources
-D:\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.DisplayControl.ExitButton.resources
-D:\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.DisplayControl.MessageView.resources
-D:\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FileBrowser.resources
-D:\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FileJobBrowser.resources
-D:\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FormPasswordPrompt.resources
-D:\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FormSetPasswords.resources
-D:\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.strings.resources
-D:\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csproj.GenerateResource.Cache
-D:\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.dll
-D:\GS200Insp_Full_Partner\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.pdb
-E:\as8402_1.3.4\Output\Cognex.VS.Utility.dll
-E:\as8402_1.3.4\Output\Cognex.VS.Utility.pdb
-E:\as8402_1.3.4\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csprojResolveAssemblyReference.cache
-E:\as8402_1.3.4\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.BaseDialog.resources
-E:\as8402_1.3.4\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.DisplayControl.ExitButton.resources
-E:\as8402_1.3.4\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.DisplayControl.MessageView.resources
-E:\as8402_1.3.4\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FileBrowser.resources
-E:\as8402_1.3.4\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FileJobBrowser.resources
-E:\as8402_1.3.4\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FormPasswordPrompt.resources
-E:\as8402_1.3.4\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FormSetPasswords.resources
-E:\as8402_1.3.4\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.strings.resources
-E:\as8402_1.3.4\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csproj.GenerateResource.Cache
-E:\as8402_1.3.4\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.dll
-E:\as8402_1.3.4\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.pdb
-E:\as8402_1.3.6\Output\Cognex.VS.Utility.dll
-E:\as8402_1.3.6\Output\Cognex.VS.Utility.pdb
-E:\as8402_1.3.6\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csprojResolveAssemblyReference.cache
-E:\as8402_1.3.6\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.BaseDialog.resources
-E:\as8402_1.3.6\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.DisplayControl.ExitButton.resources
-E:\as8402_1.3.6\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.DisplayControl.MessageView.resources
-E:\as8402_1.3.6\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FileBrowser.resources
-E:\as8402_1.3.6\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FileJobBrowser.resources
-E:\as8402_1.3.6\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FormPasswordPrompt.resources
-E:\as8402_1.3.6\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FormSetPasswords.resources
-E:\as8402_1.3.6\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.strings.resources
-E:\as8402_1.3.6\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csproj.GenerateResource.Cache
-E:\as8402_1.3.6\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.dll
-E:\as8402_1.3.6\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.pdb
-E:\New folder\as8402_1.3.67\Output\Cognex.VS.Utility.dll
-E:\New folder\as8402_1.3.67\Output\Cognex.VS.Utility.pdb
-E:\New folder\as8402_1.3.67\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csprojResolveAssemblyReference.cache
-E:\New folder\as8402_1.3.67\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.BaseDialog.resources
-E:\New folder\as8402_1.3.67\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.DisplayControl.ExitButton.resources
-E:\New folder\as8402_1.3.67\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.DisplayControl.MessageView.resources
-E:\New folder\as8402_1.3.67\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FileBrowser.resources
-E:\New folder\as8402_1.3.67\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FileJobBrowser.resources
-E:\New folder\as8402_1.3.67\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FormPasswordPrompt.resources
-E:\New folder\as8402_1.3.67\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FormSetPasswords.resources
-E:\New folder\as8402_1.3.67\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.strings.resources
-E:\New folder\as8402_1.3.67\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csproj.GenerateResource.Cache
-E:\New folder\as8402_1.3.67\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.dll
-E:\New folder\as8402_1.3.67\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.pdb
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Output\Cognex.VS.Utility.dll
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Output\Cognex.VS.Utility.pdb
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csprojResolveAssemblyReference.cache
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.BaseDialog.resources
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.DisplayControl.ExitButton.resources
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.DisplayControl.MessageView.resources
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FileBrowser.resources
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FileJobBrowser.resources
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FormPasswordPrompt.resources
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.FormSetPasswords.resources
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.strings.resources
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.csproj.GenerateResource.Cache
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.dll
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.Utility\obj\Debug\Cognex.VS.Utility.pdb

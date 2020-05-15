@@ -715,6 +715,8 @@ namespace Cognex.VS.InspSensor
             this.btnSetupInsp.Visible = isAdminLevel | isSupervisorLevel;
             this.btnIntrisic.Visible = isAdminLevel | isSupervisorLevel;
             this.btnSettingHW.Visible = isAdminLevel | isSupervisorLevel;
+            this.btnOnline.Visible = isAdminLevel | isSupervisorLevel;
+            this.btnTeachMode.Visible = isAdminLevel | isSupervisorLevel;
 
             groupBoxPlayback.Visible = isAdminLevel | isSupervisorLevel;
             groupBoxSaveImage.Visible = isAdminLevel | isSupervisorLevel;

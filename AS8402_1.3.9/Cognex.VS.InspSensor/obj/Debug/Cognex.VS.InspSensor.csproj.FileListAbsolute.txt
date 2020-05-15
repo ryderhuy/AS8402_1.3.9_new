@@ -1,216 +1,23 @@
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csprojAssemblyReference.cache
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeResult.resources
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeResultForm.resources
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeStatus.resources
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.ConveyorInspection.resources
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.DisplayControl.resources
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.IntrisicCalibration.resources
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.PanelInspection.resources
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.SetupControl.resources
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.TrayBlobCheck.resources
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.TrayInspection.resources
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.Setting_Hardware.SettingHW.resources
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.Setting_Hardware.SettingHWControl.resources
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.InspectionForm.resources
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.Properties.Resources.resources
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csproj.GenerateResource.cache
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csproj.CoreCompileInputs.cache
-E:\Tony Projects\LibraryDLL\GS200Insp\Output\Resources\cognex-logo-vector.bmp
-E:\Tony Projects\LibraryDLL\GS200Insp\Output\Resources\cognex.bmp
-E:\Tony Projects\LibraryDLL\GS200Insp\Output\Resources\logo.bmp
-E:\Tony Projects\LibraryDLL\GS200Insp\Output\Cognex.VS.InspSensor.dll.config
-E:\Tony Projects\LibraryDLL\GS200Insp\Output\Cognex.VS.InspSensor.dll
-E:\Tony Projects\LibraryDLL\GS200Insp\Output\Cognex.VS.InspSensor.pdb
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csproj.CopyComplete
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.dll
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.pdb
-C:\1. Projects\LibraryDLL\GS200Insp\Output\Resources\cognex-logo-vector.bmp
-C:\1. Projects\LibraryDLL\GS200Insp\Output\Resources\cognex.bmp
-C:\1. Projects\LibraryDLL\GS200Insp\Output\Resources\logo.bmp
-C:\1. Projects\LibraryDLL\GS200Insp\Output\Cognex.VS.InspSensor.dll.config
-C:\1. Projects\LibraryDLL\GS200Insp\Output\Cognex.VS.InspSensor.dll
-C:\1. Projects\LibraryDLL\GS200Insp\Output\Cognex.VS.InspSensor.pdb
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csprojAssemblyReference.cache
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeResult.resources
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeResultForm.resources
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeStatus.resources
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.ConveyorInspection.resources
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.DisplayControl.resources
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.IntrisicCalibration.resources
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.PanelInspection.resources
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.SetupControl.resources
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.TrayBlobCheck.resources
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.TrayInspection.resources
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.Setting_Hardware.SettingHW.resources
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.Setting_Hardware.SettingHWControl.resources
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.Properties.Resources.resources
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csproj.GenerateResource.cache
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csproj.CoreCompileInputs.cache
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csproj.CopyComplete
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.dll
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.pdb
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.InspectionForm.resources
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Output\Resources\cognex-logo-vector.bmp
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Output\Resources\cognex.bmp
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Output\Resources\logo.bmp
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Output\Cognex.VS.InspSensor.dll.config
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Output\Cognex.VS.InspSensor.dll
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Output\Cognex.VS.InspSensor.pdb
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csprojAssemblyReference.cache
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeResult.resources
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeResultForm.resources
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeStatus.resources
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.ConveyorInspection.resources
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.DisplayControl.resources
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.IntrisicCalibration.resources
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.PanelInspection.resources
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.SetupControl.resources
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.TrayBlobCheck.resources
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.TrayInspection.resources
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.Setting_Hardware.SettingHW.resources
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.Setting_Hardware.SettingHWControl.resources
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.InspectionForm.resources
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.Properties.Resources.resources
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csproj.GenerateResource.cache
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csproj.CoreCompileInputs.cache
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csproj.CopyComplete
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.dll
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.pdb
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csprojResolveAssemblyReference.cache
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeResult.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeResultForm.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeStatus.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.ConveyorInspection.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.DisplayControl.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.IntrisicCalibration.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.PanelInspection.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.SetupControl.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.TrayBlobCheck.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.TrayInspection.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.Setting_Hardware.SettingHW.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.Setting_Hardware.SettingHWControl.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.InspectionForm.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.Properties.Resources.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csproj.GenerateResource.Cache
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Output\Resources\cognex-logo-vector.bmp
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Output\Resources\cognex.bmp
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Output\Resources\logo.bmp
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Output\Cognex.VS.InspSensor.dll.config
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Output\Cognex.VS.InspSensor.pdb
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.dll
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.pdb
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Output\Resources\cognex-logo-vector.bmp
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Output\Resources\cognex.bmp
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Output\Resources\logo.bmp
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Output\Cognex.VS.InspSensor.dll.config
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Output\Cognex.VS.InspSensor.pdb
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csprojResolveAssemblyReference.cache
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeResult.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeResultForm.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeStatus.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.ConveyorInspection.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.DisplayControl.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.IntrisicCalibration.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.PanelInspection.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.SetupControl.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.TrayBlobCheck.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.TrayInspection.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.Setting_Hardware.SettingHW.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.Setting_Hardware.SettingHWControl.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.InspectionForm.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.Properties.Resources.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csproj.GenerateResource.Cache
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.dll
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\2\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.pdb
-D:\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csprojResolveAssemblyReference.cache
-D:\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeResult.resources
-D:\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeResultForm.resources
-D:\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeStatus.resources
-D:\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.ConveyorInspection.resources
-D:\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.DisplayControl.resources
-D:\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.IntrisicCalibration.resources
-D:\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.PanelInspection.resources
-D:\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.SetupControl.resources
-D:\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.TrayBlobCheck.resources
-D:\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.TrayInspection.resources
-D:\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.Setting_Hardware.SettingHW.resources
-D:\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.Setting_Hardware.SettingHWControl.resources
-D:\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.InspectionForm.resources
-D:\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.Properties.Resources.resources
-D:\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csproj.GenerateResource.Cache
-D:\GS200Insp_Full_Partner\Output\Resources\cognex-logo-vector.bmp
-D:\GS200Insp_Full_Partner\Output\Resources\cognex.bmp
-D:\GS200Insp_Full_Partner\Output\Resources\logo.bmp
-D:\GS200Insp_Full_Partner\Output\Cognex.VS.InspSensor.dll.config
-D:\GS200Insp_Full_Partner\Output\Cognex.VS.InspSensor.pdb
-D:\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.dll
-D:\GS200Insp_Full_Partner\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.pdb
-E:\as8402_1.3.4\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csprojResolveAssemblyReference.cache
-E:\as8402_1.3.4\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeResult.resources
-E:\as8402_1.3.4\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeResultForm.resources
-E:\as8402_1.3.4\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeStatus.resources
-E:\as8402_1.3.4\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.ConveyorInspection.resources
-E:\as8402_1.3.4\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.DisplayControl.resources
-E:\as8402_1.3.4\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.IntrisicCalibration.resources
-E:\as8402_1.3.4\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.PanelInspection.resources
-E:\as8402_1.3.4\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.SetupControl.resources
-E:\as8402_1.3.4\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.TrayBlobCheck.resources
-E:\as8402_1.3.4\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.TrayInspection.resources
-E:\as8402_1.3.4\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.Setting_Hardware.SettingHW.resources
-E:\as8402_1.3.4\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.Setting_Hardware.SettingHWControl.resources
-E:\as8402_1.3.4\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.InspectionForm.resources
-E:\as8402_1.3.4\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.Properties.Resources.resources
-E:\as8402_1.3.4\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csproj.GenerateResource.Cache
-E:\as8402_1.3.4\Output\Resources\cognex-logo-vector.bmp
-E:\as8402_1.3.4\Output\Resources\cognex.bmp
-E:\as8402_1.3.4\Output\Resources\logo.bmp
-E:\as8402_1.3.4\Output\Cognex.VS.InspSensor.dll.config
-E:\as8402_1.3.4\Output\Cognex.VS.InspSensor.pdb
-E:\as8402_1.3.4\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.dll
-E:\as8402_1.3.4\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.pdb
-E:\as8402_1.3.6\Output\Resources\cognex-logo-vector.bmp
-E:\as8402_1.3.6\Output\Resources\cognex.bmp
-E:\as8402_1.3.6\Output\Resources\logo.bmp
-E:\as8402_1.3.6\Output\Cognex.VS.InspSensor.dll.config
-E:\as8402_1.3.6\Output\Cognex.VS.InspSensor.pdb
-E:\as8402_1.3.6\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csprojResolveAssemblyReference.cache
-E:\as8402_1.3.6\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeResult.resources
-E:\as8402_1.3.6\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeResultForm.resources
-E:\as8402_1.3.6\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeStatus.resources
-E:\as8402_1.3.6\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.ConveyorInspection.resources
-E:\as8402_1.3.6\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.DisplayControl.resources
-E:\as8402_1.3.6\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.IntrisicCalibration.resources
-E:\as8402_1.3.6\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.PanelInspection.resources
-E:\as8402_1.3.6\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.SetupControl.resources
-E:\as8402_1.3.6\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.TrayBlobCheck.resources
-E:\as8402_1.3.6\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.TrayInspection.resources
-E:\as8402_1.3.6\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.Setting_Hardware.SettingHW.resources
-E:\as8402_1.3.6\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.Setting_Hardware.SettingHWControl.resources
-E:\as8402_1.3.6\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.InspectionForm.resources
-E:\as8402_1.3.6\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.Properties.Resources.resources
-E:\as8402_1.3.6\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csproj.GenerateResource.Cache
-E:\as8402_1.3.6\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.dll
-E:\as8402_1.3.6\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.pdb
-E:\New folder\as8402_1.3.67\Output\Resources\cognex-logo-vector.bmp
-E:\New folder\as8402_1.3.67\Output\Resources\cognex.bmp
-E:\New folder\as8402_1.3.67\Output\Resources\logo.bmp
-E:\New folder\as8402_1.3.67\Output\Cognex.VS.InspSensor.dll.config
-E:\New folder\as8402_1.3.67\Output\Cognex.VS.InspSensor.pdb
-E:\New folder\as8402_1.3.67\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csprojResolveAssemblyReference.cache
-E:\New folder\as8402_1.3.67\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeResult.resources
-E:\New folder\as8402_1.3.67\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeResultForm.resources
-E:\New folder\as8402_1.3.67\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeStatus.resources
-E:\New folder\as8402_1.3.67\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.ConveyorInspection.resources
-E:\New folder\as8402_1.3.67\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.DisplayControl.resources
-E:\New folder\as8402_1.3.67\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.IntrisicCalibration.resources
-E:\New folder\as8402_1.3.67\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.PanelInspection.resources
-E:\New folder\as8402_1.3.67\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.SetupControl.resources
-E:\New folder\as8402_1.3.67\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.TrayBlobCheck.resources
-E:\New folder\as8402_1.3.67\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.TrayInspection.resources
-E:\New folder\as8402_1.3.67\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.Setting_Hardware.SettingHW.resources
-E:\New folder\as8402_1.3.67\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.Setting_Hardware.SettingHWControl.resources
-E:\New folder\as8402_1.3.67\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.InspectionForm.resources
-E:\New folder\as8402_1.3.67\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.Properties.Resources.resources
-E:\New folder\as8402_1.3.67\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csproj.GenerateResource.Cache
-E:\New folder\as8402_1.3.67\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.dll
-E:\New folder\as8402_1.3.67\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.pdb
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Output\Resources\cognex-logo-vector.bmp
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Output\Resources\cognex.bmp
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Output\Resources\logo.bmp
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Output\Cognex.VS.InspSensor.dll.config
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Output\Cognex.VS.InspSensor.pdb
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csprojResolveAssemblyReference.cache
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeResult.resources
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeResultForm.resources
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.HandEyeResult.HandEyeStatus.resources
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.ConveyorInspection.resources
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.DisplayControl.resources
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.IntrisicCalibration.resources
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.PanelInspection.resources
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.SetupControl.resources
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.TrayBlobCheck.resources
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.TrayInspection.resources
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.Setting_Hardware.SettingHW.resources
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.CustomControls.Setting_Hardware.SettingHWControl.resources
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.InspectionForm.resources
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.Properties.Resources.resources
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.csproj.GenerateResource.Cache
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.dll
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.InspSensor\obj\Debug\Cognex.VS.InspSensor.pdb

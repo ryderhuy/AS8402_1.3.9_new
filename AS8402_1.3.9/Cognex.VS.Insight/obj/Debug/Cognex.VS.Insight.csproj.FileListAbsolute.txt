@@ -1,70 +1,8 @@
-E:\Tony Projects\LibraryDLL\GS200Insp\Output\Cognex.VS.Insight.dll
-E:\Tony Projects\LibraryDLL\GS200Insp\Output\Cognex.VS.Insight.pdb
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.csprojAssemblyReference.cache
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.Insight\obj\Debug\Cognex.VS.InSightControl.InsightConfigure.resources
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.Insight\obj\Debug\Cognex.VS.InSightControl.InsightControls.resources
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.csproj.GenerateResource.cache
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.csproj.CoreCompileInputs.cache
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.csproj.CopyComplete
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.dll
-E:\Tony Projects\LibraryDLL\GS200Insp\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.pdb
-C:\1. Projects\LibraryDLL\GS200Insp\Output\Cognex.VS.Insight.dll
-C:\1. Projects\LibraryDLL\GS200Insp\Output\Cognex.VS.Insight.pdb
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.csprojAssemblyReference.cache
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.Insight\obj\Debug\Cognex.VS.InSightControl.InsightConfigure.resources
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.Insight\obj\Debug\Cognex.VS.InSightControl.InsightControls.resources
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.csproj.GenerateResource.cache
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.csproj.CoreCompileInputs.cache
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.csproj.CopyComplete
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.dll
-C:\1. Projects\LibraryDLL\GS200Insp\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.pdb
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Output\Cognex.VS.Insight.dll
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Output\Cognex.VS.Insight.pdb
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.csprojAssemblyReference.cache
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.Insight\obj\Debug\Cognex.VS.InSightControl.InsightConfigure.resources
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.Insight\obj\Debug\Cognex.VS.InSightControl.InsightControls.resources
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.csproj.GenerateResource.cache
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.csproj.CoreCompileInputs.cache
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.csproj.CopyComplete
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.dll
-C:\1. Projects\LibraryDLL\GS200Insp_Full_Partner\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.pdb
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Output\Cognex.VS.Insight.dll
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Output\Cognex.VS.Insight.pdb
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.csprojResolveAssemblyReference.cache
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Insight\obj\Debug\Cognex.VS.InSightControl.InsightConfigure.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Insight\obj\Debug\Cognex.VS.InSightControl.InsightControls.resources
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.csproj.GenerateResource.Cache
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.dll
-D:\WORK\ALL PROJECT\SAMSUNG\AS8402\AS8402 VER1.3.4\GS200Insp_Full_Partner\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.pdb
-D:\GS200Insp_Full_Partner\Output\Cognex.VS.Insight.dll
-D:\GS200Insp_Full_Partner\Output\Cognex.VS.Insight.pdb
-D:\GS200Insp_Full_Partner\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.csprojResolveAssemblyReference.cache
-D:\GS200Insp_Full_Partner\Cognex.VS.Insight\obj\Debug\Cognex.VS.InSightControl.InsightConfigure.resources
-D:\GS200Insp_Full_Partner\Cognex.VS.Insight\obj\Debug\Cognex.VS.InSightControl.InsightControls.resources
-D:\GS200Insp_Full_Partner\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.csproj.GenerateResource.Cache
-D:\GS200Insp_Full_Partner\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.dll
-D:\GS200Insp_Full_Partner\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.pdb
-E:\as8402_1.3.4\Output\Cognex.VS.Insight.dll
-E:\as8402_1.3.4\Output\Cognex.VS.Insight.pdb
-E:\as8402_1.3.4\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.csprojResolveAssemblyReference.cache
-E:\as8402_1.3.4\Cognex.VS.Insight\obj\Debug\Cognex.VS.InSightControl.InsightConfigure.resources
-E:\as8402_1.3.4\Cognex.VS.Insight\obj\Debug\Cognex.VS.InSightControl.InsightControls.resources
-E:\as8402_1.3.4\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.csproj.GenerateResource.Cache
-E:\as8402_1.3.4\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.dll
-E:\as8402_1.3.4\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.pdb
-E:\as8402_1.3.6\Output\Cognex.VS.Insight.dll
-E:\as8402_1.3.6\Output\Cognex.VS.Insight.pdb
-E:\as8402_1.3.6\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.csprojResolveAssemblyReference.cache
-E:\as8402_1.3.6\Cognex.VS.Insight\obj\Debug\Cognex.VS.InSightControl.InsightConfigure.resources
-E:\as8402_1.3.6\Cognex.VS.Insight\obj\Debug\Cognex.VS.InSightControl.InsightControls.resources
-E:\as8402_1.3.6\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.csproj.GenerateResource.Cache
-E:\as8402_1.3.6\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.dll
-E:\as8402_1.3.6\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.pdb
-E:\New folder\as8402_1.3.67\Output\Cognex.VS.Insight.dll
-E:\New folder\as8402_1.3.67\Output\Cognex.VS.Insight.pdb
-E:\New folder\as8402_1.3.67\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.csprojResolveAssemblyReference.cache
-E:\New folder\as8402_1.3.67\Cognex.VS.Insight\obj\Debug\Cognex.VS.InSightControl.InsightConfigure.resources
-E:\New folder\as8402_1.3.67\Cognex.VS.Insight\obj\Debug\Cognex.VS.InSightControl.InsightControls.resources
-E:\New folder\as8402_1.3.67\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.csproj.GenerateResource.Cache
-E:\New folder\as8402_1.3.67\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.dll
-E:\New folder\as8402_1.3.67\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.pdb
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Output\Cognex.VS.Insight.dll
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Output\Cognex.VS.Insight.pdb
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.csprojResolveAssemblyReference.cache
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.Insight\obj\Debug\Cognex.VS.InSightControl.InsightConfigure.resources
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.Insight\obj\Debug\Cognex.VS.InSightControl.InsightControls.resources
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.csproj.GenerateResource.Cache
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.dll
+E:\Code\AS8402_1.3.9_new\AS8402_1.3.9\Cognex.VS.Insight\obj\Debug\Cognex.VS.Insight.pdb

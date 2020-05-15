@@ -1,0 +1,228 @@
+20200514_08:48:15	Info	Starting program...
+20200514_08:48:21	Info	[Action] Connect/Disconect...
+20200514_08:48:21	Info	Disconnected to sensor
+20200514_08:50:27	Info	Starting program...
+20200514_08:50:30	Info	[Action] Connect/Disconect...
+20200514_08:50:30	Info	Disconnected to sensor
+20200514_08:50:30	Info	Connected to sensor
+20200514_08:50:31	Info	[Action] Connect/Disconect...
+20200514_08:50:31	Info	Disconnected to sensor
+20200514_08:50:36	Info	[Action] Connect/Disconect...
+20200514_08:50:59	Info	Connected to sensor
+20200514_08:51:03	Info	[Action] Log-in as Supervisor
+20200514_08:51:03	Info	[Action] Save log file all: Checked
+20200514_08:52:55	Info	-> XI,1,1
+20200514_08:53:45	Info	Mean-Count-X,Y,T:38.8,1433,-9999.0,-9999.0,-9999.0,39.6,1434,-9999.0,-9999.0,-9999.0,42.4,1390,-9999.0,-9999.0,-9999.0,42.5,1420,-9999.0,-9999.0,-9999.0
+20200514_08:54:03	Info	,41.1,1400,-9999.0,-9999.0,-9999.0,42.8,1482,9.2,9.6,28.0,42.5,1391,-9999.0,-9999.0,-9999.0,42.4,1412,-9999.0,-9999.0,-9999.0
+20200514_08:54:34	Info	-> RESET
+20200514_08:54:46	Info	<- RESET,1
+20200514_09:00:35	Info	[Action] HMI Display Changed...
+20200514_09:08:03	Info	Starting program...
+20200514_09:08:08	Info	[Action] Connect/Disconect...
+20200514_09:08:08	Info	Disconnected to sensor
+20200514_09:08:15	Info	Connected to sensor
+20200514_09:08:52	Info	-> XI,1,1
+20200514_09:08:54	Info	Mean-Count-X,Y,T:38.6,1432,-9999.0,-9999.0,-9999.0,40.1,1434,-9999.0,-9999.0,-9999.0,42.7,1393,-9999.0,-9999.0,-9999.0,42.9,1415,-9999.0,-9999.0,-9999.0
+20200514_09:08:55	Info	,40.5,1395,-9999.0,-9999.0,-9999.0,41.7,1589,-9999.0,-9999.0,-9999.0,41.6,1378,-9999.0,-9999.0,-9999.0,41.9,1399,-9999.0,-9999.0,-9999.0
+20200514_09:08:56	Info	-> RESET
+20200514_09:08:57	Info	<- RESET,1
+20200514_09:09:05	Info	[Action] HMI Display Changed...
+20200514_09:09:39	Info	-> XI,1,1
+20200514_09:09:40	Info	Mean-Count-X,Y,T:38.1,1433,-9999.0,-9999.0,-9999.0,39.9,1436,-9999.0,-9999.0,-9999.0,42.5,1397,-9999.0,-9999.0,-9999.0,42.6,1418,-9999.0,-9999.0,-9999.0
+20200514_09:09:41	Info	,40.0,1394,-9999.0,-9999.0,-9999.0,41.2,1594,-9999.0,-9999.0,-9999.0,41.5,1388,-9999.0,-9999.0,-9999.0,41.7,1401,-9999.0,-9999.0,-9999.0
+20200514_09:09:43	Info	-> RESET
+20200514_09:09:44	Info	<- RESET,1
+20200514_09:10:06	Info	-> XI,1,-9999
+20200514_09:10:07	Info	<- XI,-1005
+20200514_09:10:18	Info	-> XI,1,1
+20200514_09:10:20	Info	Mean-Count-X,Y,T:38.4,1429,-9999.0,-9999.0,-9999.0,40.1,1435,-9999.0,-9999.0,-9999.0,42.7,1395,-9999.0,-9999.0,-9999.0,42.8,1414,-9999.0,-9999.0,-9999.0
+20200514_09:10:22	Info	,40.1,1391,-9999.0,-9999.0,-9999.0,41.4,1590,-9999.0,-9999.0,-9999.0,41.7,1380,-9999.0,-9999.0,-9999.0,41.9,1399,-9999.0,-9999.0,-9999.0
+20200514_09:10:23	Info	-> RESET
+20200514_09:10:25	Info	<- RESET,1
+20200514_09:10:58	Info	-> XI,1,-9999
+20200514_09:11:26	Info	<- XI,-1005
+20200514_09:15:37	Info	[Action] Log-in as Administrator
+20200514_09:16:56	Info	Starting program...
+20200514_09:17:04	Info	[Action] Connect/Disconect...
+20200514_09:17:04	Info	Disconnected to sensor
+20200514_09:17:12	Info	Connected to sensor
+20200514_09:17:17	Info	[Action] Log-in as Supervisor
+20200514_09:17:17	Info	[Action] Save log file all: Checked
+20200514_09:17:21	Info	[Action]Camera Address: 192.168.1.68
+20200514_09:17:22	Info	[Action] Go to Setting HW...
+20200514_09:17:25	Warning	Camera is reseting...
+20200514_09:17:25	Info	Disconnected to sensor
+20200514_09:17:51	Warning	Auto reconnect Camera...
+20200514_09:18:05	Warning	Camera is connected!
+20200514_09:18:26	Info	[Action] Connect/Disconect...
+20200514_09:18:35	Info	Connected to sensor
+20200514_09:18:35	Info	[Action] Save log file all: Unchecked
+20200514_09:19:06	Info	-> XI,1,1
+20200514_09:19:09	Info	<- XI,1,2,01100000,11111111,00000000,1,11111111
+20200514_09:19:42	Info	-> XI,1,1
+20200514_09:19:43	Info	<- XI,1,2,01100000,11111111,00000000,1,11111111
+20200514_09:20:08	Info	-> XI,1,-9999
+20200514_09:20:11	Info	<- XI,-1005
+20200514_09:20:38	Info	-> XI,1,1
+20200514_09:20:43	Info	<- XI,1,2,01100000,11111111,00000000,1,11111111
+20200514_09:21:46	Info	-> XI,1,-9999
+20200514_09:22:20	Info	<- XI,-1005
+20200514_09:24:08	Info	Starting program...
+20200514_09:24:14	Info	[Action] Connect/Disconect...
+20200514_09:24:14	Info	Disconnected to sensor
+20200514_09:34:00	Info	Starting program...
+20200514_09:34:08	Info	[Action] Connect/Disconect...
+20200514_09:34:08	Info	Disconnected to sensor
+20200514_09:34:16	Info	Connected to sensor
+20200514_09:35:09	Info	[Action] Log-in as Supervisor
+20200514_09:35:11	Info	[Action] Enable 1: Checked
+20200514_09:35:12	Info	[Action] Contrast Threshold F : 19
+20200514_09:35:12	Info	[Action] Angle Range F : 21
+20200514_09:35:12	Info	[Action] Score Threshold F : 72
+20200514_09:35:12	Info	[Action] Show Graphic F : 1
+20200514_09:35:13	Info	[Action] ContrastThreshold R: 18.5
+20200514_09:35:13	Info	[Action] AngleRange R: 20.5
+20200514_09:35:13	Info	[Action] Score Threshold R: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+20200514_09:35:14	Info	[Action] Align Tray Score Thresh : 60
+20200514_09:35:14	Info	[Action] Align Tray Enable: Checked
+20200514_09:35:14	Info	[Action] APNumbPocket : 4
+20200514_09:35:14	Info	[Action] Search Region Align Pocket : Region1
+20200514_09:35:14	Info	[Action] APScore : 60
+20200514_09:35:14	Info	[Action] Search Region Align Pocket : Region1
+20200514_09:35:14	Info	[Action] Number Align Pocket : 4
+20200514_09:35:14	Info	[Action] Search Region Align Pocket : Region1
+20200514_09:35:14	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200514_09:35:14	Info	[Action] Tolerance X : 0
+20200514_09:35:14	Info	[Action] Tolerance Y : 0
+20200514_09:35:14	Info	[Action] Tolerance Theta : 0
+20200514_09:35:14	Info	[Action] APExposure : 50
+20200514_09:35:15	Info	[Action] Pocket Lim Max X : 5
+20200514_09:35:15	Info	[Action] Pocket Lim Max Y : 5
+20200514_09:35:15	Info	[Action] Pocket Lim Max Theta : 5
+20200514_09:35:15	Info	[Action] Pocket Lim Min X : 5
+20200514_09:35:16	Info	[Action] Pocket Lim Min Y : 5
+20200514_09:35:16	Info	[Action] Pocket Lim Min Theta : 5
+20200514_09:35:16	Info	[Action] Enable 2: Checked
+20200514_09:35:17	Info	[Action] Go to Setup Insp...
+20200514_09:35:17	Info	[Action] Change Camera Mode: Teach Mode
+20200514_09:35:41	Info	-> XI,1,1
+20200514_09:35:43	Info	<- XI,1,2,01100000,11111111,00000000,1,11111111
+20200514_09:36:07	Info	-> XI,1,1
+20200514_09:36:09	Info	<- XI,1,2,01100000,11111111,00000000,1,11111111
+20200514_09:36:21	Info	Save Raw Image: 161 ms
+20200514_09:37:02	Info	-> XI,1,-9999
+20200514_09:37:11	Info	<- XI,-1005
+20200514_09:37:18	Info	Save Raw Image: 144 ms
+20200514_10:12:27	Info	[Action] Connect/Disconect...
+20200514_10:12:27	Info	Disconnected to sensor
+20200514_10:21:38	Info	[Action] Connect/Disconect...
+20200514_10:21:45	Info	Connected to sensor
+20200514_10:23:09	Info	[Action] Search Region Align Pocket : Region1
+20200514_10:23:09	Info	[Action] Pocket Tolerance Selected Item  : Pocket1
+20200514_10:23:09	Info	[Action] Tolerance X : 0
+20200514_10:23:09	Info	[Action] Tolerance Y : 0
+20200514_10:23:09	Info	[Action] Tolerance Theta : 0
+20200514_10:23:09	Info	[Action] Go to Setup Insp...
+20200514_10:23:09	Info	[Action] Change Camera Mode: Teach Mode
+20200514_10:23:11	Info	[Action] Click Train Region F1
+20200514_10:23:19	Info	[Action] Click Search Region F1
+20200514_10:23:24	Info	[Action] Click Train F1
+20200514_10:23:26	Info	[Action] Click Train Region F2
+20200514_10:23:30	Info	[Action] Contrast Threshold F2 : 19.5
+20200514_10:23:31	Info	[Action] Angle Range F : 39.5
+20200514_10:23:31	Info	[Action] Score Threshold F2 : 77
+20200514_10:23:32	Info	[Action] Click Search Region F2
+20200514_10:23:34	Info	[Action] Click Train F2
+20200514_10:23:40	Info	[Action] Click Train F2
+20200514_10:23:43	Info	[Action] Click button Train Golden F
+20200514_10:23:49	Info	[Action] Enable F: Checked
+20200514_10:23:49	Info	[Action] Enable Multi Pattern F: Checked
+20200514_10:23:49	Info	[Action] Contrast Threshold F: 10
+20200514_10:23:49	Info	[Action] Angle Range F: 20
+20200514_10:23:49	Info	[Action] Show Graphic F: 3
+20200514_10:23:49	Info	[Action] Contrast Threshold R: 15
+20200514_10:23:50	Info	[Action] Angle Range R: 15
+20200514_10:23:50	Info	[Action] Enable: Checked
+20200514_10:23:50	Info	[Action] Train Region F: Region1
+20200514_10:23:50	Info	[Action] Train Region R: Region1
+20200514_10:23:50	Info	[Action] Max Delta X: 5
+20200514_10:23:50	Info	[Action] Max Delta X: 5
+20200514_10:23:50	Info	[Action] Max Delta Y: 5
+20200514_10:23:50	Info	[Action] Max Delta Y: 5
+20200514_10:23:50	Info	[Action] Max Delta Theta: 5
+20200514_10:23:50	Info	[Action] Max Delta Theta: 5
+20200514_10:23:50	Info	[Action] Panel Params: Region1
+20200514_10:23:50	Info	[Action] Fwd/Rev: Forward
+20200514_10:23:50	Info	[Action] Score Threshold F: 60
+20200514_10:23:51	Info	[Action] Score Threshold R: 50
+20200514_10:23:51	Info	[Action] Vis Mean Thresh: 10
+20200514_10:23:51	Info	[Action] Vis Count Thresh: 400
+20200514_10:23:51	Info	[Action] Vis Last Bin: 80
+20200514_10:23:51	Info	[Action] Check Shift Type: Find Patmax
+20200514_10:23:51	Info	[Action] Find type: Both Type
+20200514_10:23:51	Info	[Action] Line Polarity: Black To White
+20200514_10:23:51	Info	[Action] Line Find By: Best Score
+20200514_10:23:51	Info	[Action] Edge Width: 3
+20200514_10:23:52	Info	[Action] Line Threshold: 5
+20200514_10:23:52	Info	[Action] Line Limit Angle: 3
+20200514_10:23:52	Info	[Action] Line Limit Angle: 3
+20200514_10:23:52	Info	[Action] Inspection Setting Page: Panel Inspection
+20200514_10:23:54	Info	[Action] Click Train Region F
+20200514_10:24:08	Info	[Action] Click Search Region F
+20200514_10:24:16	Info	[Action] Click Train Button F
+20200514_10:24:20	Info	[Action] Train Region F: Region2
+20200514_10:24:21	Info	[Action] Click Train Region F
+20200514_10:24:26	Info	[Action] Search Region F: Region2
+20200514_10:24:26	Info	[Action] Click Search Region F
+20200514_10:24:31	Info	[Action] Click Train Button F
+20200514_10:24:32	Info	[Action] Train Region F: Region3
+20200514_10:24:32	Info	[Action] Click Train Region F
+20200514_10:24:38	Info	[Action] Search Region F: Region3
+20200514_10:24:38	Info	[Action] Click Search Region F
+20200514_10:24:43	Info	[Action] Click Train Button F
+20200514_10:24:46	Info	[Action] Train Region F: Region4
+20200514_10:24:46	Info	[Action] Click Train Region F
+20200514_10:24:53	Info	[Action] Search Region F: Region4
+20200514_10:24:59	Info	[Action] Click Train Button F
+20200514_10:24:59	Info	[Action] Click Train Button F
+20200514_10:25:00	Info	[Action] Train Region F: Region5
+20200514_10:25:01	Info	[Action] Click Train Region F
+20200514_10:25:08	Info	[Action] Search Region F: Region5
+20200514_10:25:12	Info	[Action] Click Train Button F
+20200514_10:25:14	Info	[Action] Train Region F: Region6
+20200514_10:25:15	Info	[Action] Click Train Region F
+20200514_10:25:20	Info	[Action] Search Region F: Region6
+20200514_10:25:25	Info	[Action] Click Train Button F
+20200514_10:25:27	Info	[Action] Train Region F: Region7
+20200514_10:25:28	Info	[Action] Click Train Region F
+20200514_10:25:35	Info	[Action] Search Region F: Region7
+20200514_10:25:40	Info	[Action] Click Train Button F
+20200514_10:25:43	Info	[Action] Train Region F: Region8
+20200514_10:25:44	Info	[Action] Click Train Region F
+20200514_10:25:50	Info	[Action] Search Region F: Region8
+20200514_10:25:54	Info	[Action] Click Train Button F
+20200514_10:25:56	Info	[Action] Click Train Golden F
+20200514_10:25:58	Info	[Action] Contrast Threshold: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 255
+20200514_10:25:58	Info	[Action] Min Size: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 10000
+20200514_10:25:58	Info	[Action] Max Size: System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100000
+20200514_10:25:58	Info	[Action] Panel Blob Search Type: Dark On Bright
+20200514_10:25:58	Info	[Action] Panel Blob Number: 2
+20200514_10:25:59	Info	[Action] Panel Contrast: 150
+20200514_10:25:59	Info	[Action] Panel Min Size: 100
+20200514_10:25:59	Info	[Action] Panel Max Size: 10000
+20200514_10:25:59	Info	[Action] Panel Number selected: Region1
+20200514_10:25:59	Info	[Action] Inspection Setting Page: Blob Finder
+20200514_10:26:01	Info	[Action] Save Setting...
+20200514_11:10:19	Warning	Auto reconnect Camera...
+20200514_11:10:19	Info	Disconnected to sensor
+20200514_11:10:29	Info	[Action] Exit program...
+20200514_12:18:14	Info	Starting program...
+20200514_12:18:18	Info	[Action] Connect/Disconect...
+20200514_12:18:18	Info	Disconnected to sensor
+20200514_12:18:22	Info	Connected to sensor
+20200514_12:18:38	Info	[Action] Log-in as Supervisor
+20200514_12:18:38	Info	[Action] Save log file all: Checked
+20200514_12:18:50	Info	[Action] Log-in as Administrator
+20200514_12:18:58	Info	[Action] Log-in as Operator
+20200514_12:19:03	Info	[Action] Exit program...
+20200514_12:19:03	Info	Disconnected to sensor
